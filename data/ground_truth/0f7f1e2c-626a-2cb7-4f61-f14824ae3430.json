@@ -1,0 +1,54 @@
+{
+  "patient_id": "0f7f1e2c-626a-2cb7-4f61-f14824ae3430",
+  "patient_name": "Franklyn361 Breitenberg711",
+  "birth_date": "1958-06-06",
+  "gender": "male",
+  "history_span_years": 25,
+  "total_medication_requests": 14,
+  "status_summary": {
+    "completed": 11,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2005-07-01T20:25:47+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2005-07-01T20:25:47+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2005-07-01T20:25:47+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:07.017035+00:00",
+  "source_file": "Franklyn361_Breitenberg711_0f7f1e2c-626a-2cb7-4f61-f14824ae3430.json"
+}

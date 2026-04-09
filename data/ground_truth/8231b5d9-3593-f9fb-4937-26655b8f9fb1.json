@@ -1,0 +1,51 @@
+{
+  "patient_id": "8231b5d9-3593-f9fb-4937-26655b8f9fb1",
+  "patient_name": "Horacio317 Ocampo729",
+  "birth_date": "1964-10-13",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "active": 3,
+    "completed": 15
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "ferrous sulfate 325 MG Oral Tablet",
+      "rxnorm_code": "310325",
+      "authored_on": "1996-09-17T11:11:30+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2018-05-09T09:54:55+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2024-09-06T09:54:55+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'ferrous sulfate 325 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:06.775329+00:00",
+  "source_file": "Horacio317_Ocampo729_8231b5d9-3593-f9fb-4937-26655b8f9fb1.json"
+}

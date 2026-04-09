@@ -1,0 +1,42 @@
+{
+  "patient_id": "9018e566-e4aa-f2c0-89c9-198bee6cfff1",
+  "patient_name": "Kirsten270 Jenkins714",
+  "birth_date": "1977-05-13",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 33,
+  "status_summary": {
+    "completed": 31,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-04-25T01:59:01+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-10-03T01:59:01+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:23.657021+00:00",
+  "source_file": "Kirsten270_Germaine912_Jenkins714_9018e566-e4aa-f2c0-89c9-198bee6cfff1.json"
+}

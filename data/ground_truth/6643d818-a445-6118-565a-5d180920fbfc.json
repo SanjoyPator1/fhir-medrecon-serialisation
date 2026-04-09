@@ -1,0 +1,42 @@
+{
+  "patient_id": "6643d818-a445-6118-565a-5d180920fbfc",
+  "patient_name": "Mendy939 Hackett68",
+  "birth_date": "1966-03-04",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 69,
+  "status_summary": {
+    "completed": 67,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "losartan potassium 25 MG Oral Tablet",
+      "rxnorm_code": "979485",
+      "authored_on": "2025-08-22T20:17:48+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2025-08-22T20:17:48+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.458181+00:00",
+  "source_file": "Mendy939_Albina13_Hackett68_6643d818-a445-6118-565a-5d180920fbfc.json"
+}

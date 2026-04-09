@@ -1,0 +1,42 @@
+{
+  "patient_id": "08854f82-9960-102e-76ae-d25f105f4a9c",
+  "patient_name": "Mitzie610 Crooks415",
+  "birth_date": "1985-01-29",
+  "gender": "female",
+  "history_span_years": 25,
+  "total_medication_requests": 42,
+  "status_summary": {
+    "completed": 40,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-06-17T02:40:37+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2025-06-17T02:40:37+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:05.650639+00:00",
+  "source_file": "Mitzie610_Cherly215_Crooks415_08854f82-9960-102e-76ae-d25f105f4a9c.json"
+}

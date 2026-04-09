@@ -1,0 +1,54 @@
+{
+  "patient_id": "1bad1a8e-61a4-3331-da79-cb463ba5204e",
+  "patient_name": "Demetrius568 Bode78",
+  "birth_date": "1969-04-23",
+  "gender": "male",
+  "history_span_years": 23,
+  "total_medication_requests": 28,
+  "status_summary": {
+    "completed": 25,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-05-22T21:02:35+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2025-07-16T17:02:35+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-07-23T17:02:35+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.158072+00:00",
+  "source_file": "Demetrius568_Bode78_1bad1a8e-61a4-3331-da79-cb463ba5204e.json"
+}

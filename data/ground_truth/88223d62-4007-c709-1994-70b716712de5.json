@@ -1,0 +1,83 @@
+{
+  "patient_id": "88223d62-4007-c709-1994-70b716712de5",
+  "patient_name": "Katheleen349 Gutkowski940",
+  "birth_date": "1965-08-16",
+  "gender": "female",
+  "history_span_years": 25,
+  "total_medication_requests": 46,
+  "status_summary": {
+    "completed": 40,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2015-08-24T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "312961",
+      "authored_on": "2015-08-24T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866412",
+      "authored_on": "2015-08-24T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "rxnorm_code": "705129",
+      "authored_on": "2015-08-24T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2025-10-13T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-10-28T18:02:09+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Simvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 100 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:07.081982+00:00",
+  "source_file": "Katheleen349_Yulanda554_Gutkowski940_88223d62-4007-c709-1994-70b716712de5.json"
+}

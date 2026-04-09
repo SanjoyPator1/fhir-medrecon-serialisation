@@ -1,0 +1,59 @@
+{
+  "patient_id": "2e70d781-2067-3869-2887-75fa19af57eb",
+  "patient_name": "Juan88 Senger904",
+  "birth_date": "1977-03-03",
+  "gender": "male",
+  "history_span_years": 23,
+  "total_medication_requests": 14,
+  "status_summary": {
+    "completed": 10,
+    "active": 4
+  },
+  "active_medication_count": 4,
+  "medications": [
+    {
+      "medication_name": "aspirin 81 MG Oral Tablet",
+      "rxnorm_code": "243670",
+      "authored_on": "2020-07-16T13:56:00+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866427",
+      "authored_on": "2020-07-16T13:56:00+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "pravastatin sodium 40 MG Oral Tablet",
+      "rxnorm_code": "904475",
+      "authored_on": "2020-07-16T13:56:00+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2020-07-16T13:56:00+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'aspirin 81 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 25 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'pravastatin sodium 40 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'lisinopril 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.181973+00:00",
+  "source_file": "Juan88_Senger904_2e70d781-2067-3869-2887-75fa19af57eb.json"
+}

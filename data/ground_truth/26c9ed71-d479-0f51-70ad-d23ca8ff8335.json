@@ -1,0 +1,53 @@
+{
+  "patient_id": "26c9ed71-d479-0f51-70ad-d23ca8ff8335",
+  "patient_name": "Jeane173 Leannon79",
+  "birth_date": "1977-12-04",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 46,
+  "status_summary": {
+    "completed": 43,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-01-25T15:29:26+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "rxnorm_code": "860975",
+      "authored_on": "2026-01-25T15:29:26+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2026-01-25T15:29:26+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.801856+00:00",
+  "source_file": "Jeane173_Zella14_Leannon79_26c9ed71-d479-0f51-70ad-d23ca8ff8335.json"
+}

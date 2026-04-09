@@ -1,0 +1,59 @@
+{
+  "patient_id": "499daa2d-567c-8c1f-ae57-ff28cbdf3cf3",
+  "patient_name": "Jamaal34 Schowalter414",
+  "birth_date": "1972-07-23",
+  "gender": "male",
+  "history_span_years": 14,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "completed": 14,
+    "active": 4
+  },
+  "active_medication_count": 4,
+  "medications": [
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2021-11-28T08:37:06+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "312961",
+      "authored_on": "2021-11-28T08:37:06+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866412",
+      "authored_on": "2021-11-28T08:37:06+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "rxnorm_code": "705129",
+      "authored_on": "2021-11-28T08:37:06+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Simvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 100 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:22.833960+00:00",
+  "source_file": "Jamaal34_Schowalter414_499daa2d-567c-8c1f-ae57-ff28cbdf3cf3.json"
+}

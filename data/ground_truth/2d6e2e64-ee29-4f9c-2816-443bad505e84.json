@@ -1,0 +1,49 @@
+{
+  "patient_id": "2d6e2e64-ee29-4f9c-2816-443bad505e84",
+  "patient_name": "Janetta325 Weissnat378",
+  "birth_date": "1959-05-26",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 80,
+  "status_summary": {
+    "completed": 77,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "albuterol 5 MG/ML Inhalation Solution",
+      "rxnorm_code": "245314",
+      "authored_on": "2025-10-14T13:23:05+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-10-14T13:23:05+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+      "rxnorm_code": "896209",
+      "authored_on": "2025-10-14T13:23:05+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'albuterol 5 MG/ML Inhalation Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Ibuprofen 400 MG Oral Tablet [Ibu]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:41.987821+00:00",
+  "source_file": "Janetta325_Gerry91_Weissnat378_2d6e2e64-ee29-4f9c-2816-443bad505e84.json"
+}

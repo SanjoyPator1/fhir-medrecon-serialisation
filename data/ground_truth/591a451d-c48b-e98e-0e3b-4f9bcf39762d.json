@@ -1,0 +1,42 @@
+{
+  "patient_id": "591a451d-c48b-e98e-0e3b-4f9bcf39762d",
+  "patient_name": "Doug189 Prosacco716",
+  "birth_date": "1973-01-28",
+  "gender": "male",
+  "history_span_years": 27,
+  "total_medication_requests": 129,
+  "status_summary": {
+    "completed": 127,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2017-02-19T17:30:18+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2017-12-24T17:30:18+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:05.590137+00:00",
+  "source_file": "Doug189_Prosacco716_591a451d-c48b-e98e-0e3b-4f9bcf39762d.json"
+}

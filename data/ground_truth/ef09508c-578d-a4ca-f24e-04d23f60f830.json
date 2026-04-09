@@ -1,0 +1,99 @@
+{
+  "patient_id": "ef09508c-578d-a4ca-f24e-04d23f60f830",
+  "patient_name": "Cedrick207 Ryan260",
+  "birth_date": "1980-12-13",
+  "gender": "male",
+  "history_span_years": 29,
+  "total_medication_requests": 137,
+  "status_summary": {
+    "completed": 130,
+    "active": 7
+  },
+  "active_medication_count": 7,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-04-25T01:59:07+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "budesonide 0.25 MG/ML Inhalation Suspension",
+      "rxnorm_code": "351109",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "rxnorm_code": "993770",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": "Every four hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "albuterol 0.83 MG/ML Inhalation Solution",
+      "rxnorm_code": "630208",
+      "authored_on": "2025-07-05T22:59:07+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'budesonide 0.25 MG/ML Inhalation Suspension' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'albuterol 0.83 MG/ML Inhalation Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.423920+00:00",
+  "source_file": "Cedrick207_Ryan260_ef09508c-578d-a4ca-f24e-04d23f60f830.json"
+}

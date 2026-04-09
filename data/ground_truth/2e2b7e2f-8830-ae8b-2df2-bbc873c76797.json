@@ -1,0 +1,87 @@
+{
+  "patient_id": "2e2b7e2f-8830-ae8b-2df2-bbc873c76797",
+  "patient_name": "Courtney281 Nolan344",
+  "birth_date": "1969-02-19",
+  "gender": "male",
+  "history_span_years": 27,
+  "total_medication_requests": 153,
+  "status_summary": {
+    "completed": 147,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-05-23T19:08:30+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "rxnorm_code": "106892",
+      "authored_on": "2026-01-28T19:08:30+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-01-28T19:08:30+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2026-01-28T19:08:30+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2026-01-28T19:08:30+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "aspirin 81 MG Oral Capsule [Vazalore]",
+      "rxnorm_code": "2563431",
+      "authored_on": "2026-01-28T19:08:30+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'aspirin 81 MG Oral Capsule [Vazalore]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.844826+00:00",
+  "source_file": "Courtney281_Nolan344_2e2b7e2f-8830-ae8b-2df2-bbc873c76797.json"
+}

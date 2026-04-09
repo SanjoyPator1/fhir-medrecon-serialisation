@@ -1,0 +1,29 @@
+{
+  "patient_id": "287de1b5-1a99-0135-e874-b045fd4acbab",
+  "patient_name": "Tiffiny991 Strosin214",
+  "birth_date": "1961-07-11",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 20,
+  "status_summary": {
+    "completed": 19,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Alendronic acid 10 MG Oral Tablet",
+      "rxnorm_code": "904419",
+      "authored_on": "2025-09-30T22:59:08+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Alendronic acid 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:23.272778+00:00",
+  "source_file": "Tiffiny991_Strosin214_287de1b5-1a99-0135-e874-b045fd4acbab.json"
+}

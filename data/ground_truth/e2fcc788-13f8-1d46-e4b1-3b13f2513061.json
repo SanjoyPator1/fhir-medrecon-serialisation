@@ -1,0 +1,42 @@
+{
+  "patient_id": "e2fcc788-13f8-1d46-e4b1-3b13f2513061",
+  "patient_name": "Haydee844 Treutel973",
+  "birth_date": "1960-03-24",
+  "gender": "female",
+  "history_span_years": 21,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "completed": 16,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-03-18T06:07:00+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2025-06-19T23:07:00+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:07.826512+00:00",
+  "source_file": "Haydee844_Carry843_Treutel973_e2fcc788-13f8-1d46-e4b1-3b13f2513061.json"
+}

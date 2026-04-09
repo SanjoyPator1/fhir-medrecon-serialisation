@@ -1,0 +1,30 @@
+{
+  "patient_id": "d570c66f-1303-a4ee-f29f-05fc4c4a8f60",
+  "patient_name": "Ken316 Cole117",
+  "birth_date": "1966-01-15",
+  "gender": "male",
+  "history_span_years": 23,
+  "total_medication_requests": 20,
+  "status_summary": {
+    "completed": 19,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-04-12T19:32:32+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:08.791383+00:00",
+  "source_file": "Ken316_Cole117_d570c66f-1303-a4ee-f29f-05fc4c4a8f60.json"
+}

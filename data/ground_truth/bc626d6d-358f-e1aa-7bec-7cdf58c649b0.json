@@ -1,0 +1,69 @@
+{
+  "patient_id": "bc626d6d-358f-e1aa-7bec-7cdf58c649b0",
+  "patient_name": "Lola232 Toro760",
+  "birth_date": "1978-03-15",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 25,
+  "status_summary": {
+    "completed": 20,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2022-04-06T02:05:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "312961",
+      "authored_on": "2022-04-06T02:05:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866412",
+      "authored_on": "2022-04-06T02:05:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "rxnorm_code": "705129",
+      "authored_on": "2022-04-06T02:05:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+      "rxnorm_code": "748879",
+      "authored_on": "2026-01-02T18:13:31+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Simvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 100 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.927009+00:00",
+  "source_file": "Lola232_Sonia106_Toro760_bc626d6d-358f-e1aa-7bec-7cdf58c649b0.json"
+}

@@ -1,0 +1,63 @@
+{
+  "patient_id": "1b81014c-73bb-70d9-4d5a-9ef66e913978",
+  "patient_name": "Ellan282 Schneider199",
+  "birth_date": "1962-05-01",
+  "gender": "female",
+  "history_span_years": 22,
+  "total_medication_requests": 47,
+  "status_summary": {
+    "completed": 43,
+    "active": 4
+  },
+  "active_medication_count": 4,
+  "medications": [
+    {
+      "medication_name": "Naproxen 500 MG Oral Tablet",
+      "rxnorm_code": "198014",
+      "authored_on": "2008-08-08T08:14:51+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2011-02-10T08:14:51+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "rxnorm_code": "993770",
+      "authored_on": "2025-07-15T08:14:51+05:30",
+      "dosage_text": "Every four hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-07-22T08:14:51+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Naproxen 500 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.653971+00:00",
+  "source_file": "Ellan282_Schneider199_1b81014c-73bb-70d9-4d5a-9ef66e913978.json"
+}

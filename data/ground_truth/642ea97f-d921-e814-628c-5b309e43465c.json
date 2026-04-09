@@ -1,0 +1,79 @@
+{
+  "patient_id": "642ea97f-d921-e814-628c-5b309e43465c",
+  "patient_name": "Kimberlee228 Fisher429",
+  "birth_date": "1957-10-20",
+  "gender": "female",
+  "history_span_years": 26,
+  "total_medication_requests": 24,
+  "status_summary": {
+    "completed": 18,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "aspirin 81 MG Oral Tablet",
+      "rxnorm_code": "243670",
+      "authored_on": "2024-08-29T15:40:04+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "carvedilol 25 MG Oral Tablet",
+      "rxnorm_code": "200033",
+      "authored_on": "2024-08-29T15:40:04+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "rosuvastatin calcium 10 MG Oral Tablet",
+      "rxnorm_code": "859747",
+      "authored_on": "2024-08-29T15:40:04+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 5 MG Oral Tablet",
+      "rxnorm_code": "311354",
+      "authored_on": "2024-08-29T15:40:04+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "prasugrel 10 MG Oral Tablet",
+      "rxnorm_code": "855812",
+      "authored_on": "2024-08-29T15:40:04+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Alendronic acid 10 MG Oral Tablet",
+      "rxnorm_code": "904419",
+      "authored_on": "2026-02-01T13:32:17+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'aspirin 81 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'carvedilol 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'rosuvastatin calcium 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'lisinopril 5 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'prasugrel 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Alendronic acid 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:42.101687+00:00",
+  "source_file": "Kimberlee228_Monica757_Fisher429_642ea97f-d921-e814-628c-5b309e43465c.json"
+}

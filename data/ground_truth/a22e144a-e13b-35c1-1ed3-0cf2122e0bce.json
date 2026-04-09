@@ -1,0 +1,53 @@
+{
+  "patient_id": "a22e144a-e13b-35c1-1ed3-0cf2122e0bce",
+  "patient_name": "Enrique929 Zayas20",
+  "birth_date": "1964-07-31",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 19,
+  "status_summary": {
+    "completed": 16,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-10-03T23:12:46+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2025-10-03T23:12:46+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2026-01-22T20:18:45+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.629774+00:00",
+  "source_file": "Enrique929_Zayas20_a22e144a-e13b-35c1-1ed3-0cf2122e0bce.json"
+}

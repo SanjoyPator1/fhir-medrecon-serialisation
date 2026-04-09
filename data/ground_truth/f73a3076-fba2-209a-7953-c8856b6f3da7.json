@@ -1,0 +1,30 @@
+{
+  "patient_id": "f73a3076-fba2-209a-7953-c8856b6f3da7",
+  "patient_name": "Myung778 Wolf938",
+  "birth_date": "1975-08-19",
+  "gender": "female",
+  "history_span_years": 27,
+  "total_medication_requests": 17,
+  "status_summary": {
+    "completed": 16,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-10-02T04:43:50+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.810452+00:00",
+  "source_file": "Myung778_Ferne426_Wolf938_f73a3076-fba2-209a-7953-c8856b6f3da7.json"
+}

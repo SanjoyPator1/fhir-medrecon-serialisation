@@ -1,0 +1,159 @@
+{
+  "patient_id": "d374c41d-2c62-4456-f2d0-472e844e3fe7",
+  "patient_name": "Julian715 Beatty507",
+  "birth_date": "1958-02-13",
+  "gender": "male",
+  "history_span_years": 29,
+  "total_medication_requests": 150,
+  "status_summary": {
+    "completed": 136,
+    "active": 14
+  },
+  "active_medication_count": 14,
+  "medications": [
+    {
+      "medication_name": "aspirin 81 MG Oral Tablet",
+      "rxnorm_code": "243670",
+      "authored_on": "2001-04-29T22:44:59+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866436",
+      "authored_on": "2001-04-29T22:44:59+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "atorvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "617312",
+      "authored_on": "2001-04-29T22:44:59+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "prasugrel 10 MG Oral Tablet",
+      "rxnorm_code": "855812",
+      "authored_on": "2001-04-29T22:44:59+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2025-05-29T22:00:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "312961",
+      "authored_on": "2025-05-29T22:00:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866412",
+      "authored_on": "2025-05-29T22:00:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "rxnorm_code": "705129",
+      "authored_on": "2025-05-29T22:00:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "carvedilol 25 MG Oral Tablet",
+      "rxnorm_code": "200033",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Furosemide 40 MG Oral Tablet",
+      "rxnorm_code": "313988",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "losartan potassium 50 MG Oral Tablet",
+      "rxnorm_code": "979492",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 20 MG Oral Tablet",
+      "rxnorm_code": "314077",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "rxnorm_code": "860975",
+      "authored_on": "2025-07-31T22:00:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'aspirin 81 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 50 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'atorvastatin 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'prasugrel 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Simvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 100 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'carvedilol 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Furosemide 40 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Ibuprofen 400 MG Oral Tablet [Ibu]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'losartan potassium 50 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'lisinopril 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:06.969679+00:00",
+  "source_file": "Julian715_Beatty507_d374c41d-2c62-4456-f2d0-472e844e3fe7.json"
+}

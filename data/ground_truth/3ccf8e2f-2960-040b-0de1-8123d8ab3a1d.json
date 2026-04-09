@@ -1,0 +1,30 @@
+{
+  "patient_id": "3ccf8e2f-2960-040b-0de1-8123d8ab3a1d",
+  "patient_name": "Treva754 O'Connell601",
+  "birth_date": "1974-04-04",
+  "gender": "female",
+  "history_span_years": 27,
+  "total_medication_requests": 11,
+  "status_summary": {
+    "completed": 10,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-05-22T15:01:58+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.990673+00:00",
+  "source_file": "Treva754_Adele475_O'Connell601_3ccf8e2f-2960-040b-0de1-8123d8ab3a1d.json"
+}

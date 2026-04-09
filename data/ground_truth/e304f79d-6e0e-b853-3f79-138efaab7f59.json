@@ -1,0 +1,93 @@
+{
+  "patient_id": "e304f79d-6e0e-b853-3f79-138efaab7f59",
+  "patient_name": "Milford485 Gaylord332",
+  "birth_date": "1972-04-02",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 42,
+  "status_summary": {
+    "completed": 35,
+    "active": 7
+  },
+  "active_medication_count": 7,
+  "medications": [
+    {
+      "medication_name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+      "rxnorm_code": "198031",
+      "authored_on": "2014-04-13T07:59:23+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2020-05-24T07:59:23+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "312961",
+      "authored_on": "2020-05-24T07:59:23+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "rxnorm_code": "866412",
+      "authored_on": "2020-05-24T07:59:23+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "rxnorm_code": "705129",
+      "authored_on": "2020-05-24T07:59:23+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2023-06-04T07:59:23+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2023-06-04T07:59:23+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'24 HR nicotine 0.292 MG/HR Transdermal System' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Simvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR metoprolol succinate 100 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:23.387459+00:00",
+  "source_file": "Milford485_Gaylord332_e304f79d-6e0e-b853-3f79-138efaab7f59.json"
+}

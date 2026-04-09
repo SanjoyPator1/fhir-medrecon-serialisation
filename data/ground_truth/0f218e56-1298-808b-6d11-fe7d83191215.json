@@ -1,0 +1,97 @@
+{
+  "patient_id": "0f218e56-1298-808b-6d11-fe7d83191215",
+  "patient_name": "Garret233 Durgan499",
+  "birth_date": "1971-01-26",
+  "gender": "male",
+  "history_span_years": 17,
+  "total_medication_requests": 57,
+  "status_summary": {
+    "active": 7,
+    "completed": 50
+  },
+  "active_medication_count": 7,
+  "medications": [
+    {
+      "medication_name": "ferrous sulfate 325 MG Oral Tablet",
+      "rxnorm_code": "310325",
+      "authored_on": "2008-04-22T04:08:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "2008-04-22T04:08:13+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-08-05T11:21:29+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "rxnorm_code": "993770",
+      "authored_on": "2025-06-17T02:48:30+05:30",
+      "dosage_text": "Every four hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2025-06-17T02:48:30+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2025-06-17T02:48:30+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "tramadol hydrochloride 50 MG Oral Tablet",
+      "rxnorm_code": "835603",
+      "authored_on": "2025-06-17T02:48:30+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'ferrous sulfate 325 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'tramadol hydrochloride 50 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.270218+00:00",
+  "source_file": "Garret233_Durgan499_0f218e56-1298-808b-6d11-fe7d83191215.json"
+}

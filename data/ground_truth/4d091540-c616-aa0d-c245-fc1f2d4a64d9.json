@@ -1,0 +1,42 @@
+{
+  "patient_id": "4d091540-c616-aa0d-c245-fc1f2d4a64d9",
+  "patient_name": "Thad495 Auer97",
+  "birth_date": "1976-09-15",
+  "gender": "male",
+  "history_span_years": 30,
+  "total_medication_requests": 37,
+  "status_summary": {
+    "completed": 35,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+      "rxnorm_code": "1306292",
+      "authored_on": "2026-03-11T14:13:32+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2026-03-11T14:13:32+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:23.417784+00:00",
+  "source_file": "Thad495_Auer97_4d091540-c616-aa0d-c245-fc1f2d4a64d9.json"
+}

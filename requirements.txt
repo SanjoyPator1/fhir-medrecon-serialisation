@@ -1,0 +1,9 @@
+requests
+ollama
+openai
+fhir.resources
+pandas
+matplotlib
+seaborn
+jupyter
+tqdm

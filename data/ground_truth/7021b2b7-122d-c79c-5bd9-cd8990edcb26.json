@@ -1,0 +1,81 @@
+{
+  "patient_id": "7021b2b7-122d-c79c-5bd9-cd8990edcb26",
+  "patient_name": "Daniel959 Mohr916",
+  "birth_date": "1953-04-15",
+  "gender": "male",
+  "history_span_years": 24,
+  "total_medication_requests": 26,
+  "status_summary": {
+    "completed": 20,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "aspirin 81 MG Oral Tablet",
+      "rxnorm_code": "243670",
+      "authored_on": "2021-05-18T07:42:30+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "carvedilol 25 MG Oral Tablet",
+      "rxnorm_code": "200033",
+      "authored_on": "2021-05-18T07:42:30+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "atorvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "617312",
+      "authored_on": "2021-05-18T07:42:30+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "ramipril 2.5 MG Oral Capsule",
+      "rxnorm_code": "198188",
+      "authored_on": "2021-05-18T07:42:30+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "prasugrel 10 MG Oral Tablet",
+      "rxnorm_code": "855812",
+      "authored_on": "2021-05-18T07:42:30+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "rxnorm_code": "209387",
+      "authored_on": "2025-08-20T05:40:14+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'aspirin 81 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'carvedilol 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'atorvastatin 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'ramipril 2.5 MG Oral Capsule' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'prasugrel 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:08.345904+00:00",
+  "source_file": "Daniel959_Mohr916_7021b2b7-122d-c79c-5bd9-cd8990edcb26.json"
+}

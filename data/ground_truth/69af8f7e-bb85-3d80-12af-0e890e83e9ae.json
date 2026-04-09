@@ -1,0 +1,39 @@
+{
+  "patient_id": "69af8f7e-bb85-3d80-12af-0e890e83e9ae",
+  "patient_name": "Vania595 Willms744",
+  "birth_date": "1957-01-25",
+  "gender": "female",
+  "history_span_years": 22,
+  "total_medication_requests": 24,
+  "status_summary": {
+    "completed": 22,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "albuterol 5 MG/ML Inhalation Solution",
+      "rxnorm_code": "245314",
+      "authored_on": "1988-04-01T01:36:28+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+      "rxnorm_code": "896209",
+      "authored_on": "1988-04-01T01:36:28+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'albuterol 5 MG/ML Inhalation Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:41.176156+00:00",
+  "source_file": "Vania595_Evalyn273_Willms744_69af8f7e-bb85-3d80-12af-0e890e83e9ae.json"
+}

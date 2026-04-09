@@ -1,0 +1,53 @@
+{
+  "patient_id": "8efb0cc1-91fa-8f7d-b6b4-202490475e09",
+  "patient_name": "Hiedi833 Mayer370",
+  "birth_date": "1985-07-29",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 32,
+  "status_summary": {
+    "completed": 29,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "2008-10-13T18:56:33+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2025-11-03T17:39:34+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-11-03T17:39:34+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:04.946267+00:00",
+  "source_file": "Hiedi833_Mayer370_8efb0cc1-91fa-8f7d-b6b4-202490475e09.json"
+}

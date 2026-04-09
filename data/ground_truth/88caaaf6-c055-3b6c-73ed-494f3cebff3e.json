@@ -1,0 +1,30 @@
+{
+  "patient_id": "88caaaf6-c055-3b6c-73ed-494f3cebff3e",
+  "patient_name": "Ruben688 Donnelly343",
+  "birth_date": "1973-10-26",
+  "gender": "male",
+  "history_span_years": 26,
+  "total_medication_requests": 7,
+  "status_summary": {
+    "completed": 6,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-11-07T21:09:07+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:22.858709+00:00",
+  "source_file": "Ruben688_Donnelly343_88caaaf6-c055-3b6c-73ed-494f3cebff3e.json"
+}

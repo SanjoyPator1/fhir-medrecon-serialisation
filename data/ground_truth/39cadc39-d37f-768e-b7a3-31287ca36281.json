@@ -1,0 +1,85 @@
+{
+  "patient_id": "39cadc39-d37f-768e-b7a3-31287ca36281",
+  "patient_name": "Darwin703 Conn188",
+  "birth_date": "1979-08-04",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 54,
+  "status_summary": {
+    "completed": 48,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "Hydrocortisone 10 MG/ML Topical Cream",
+      "rxnorm_code": "106258",
+      "authored_on": "2006-06-19T04:17:52+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Loratadine 10 MG Oral Tablet",
+      "rxnorm_code": "311372",
+      "authored_on": "2006-07-03T09:43:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+      "rxnorm_code": "1870230",
+      "authored_on": "2006-07-03T09:43:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+      "rxnorm_code": "1049504",
+      "authored_on": "2025-12-27T11:17:52+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+      "rxnorm_code": "245134",
+      "authored_on": "2025-12-27T11:17:52+05:30",
+      "dosage_text": "Every seventy two hours (qualifier value)",
+      "frequency": "1 time(s) per 3 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2025-12-27T11:17:52+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Hydrocortisone 10 MG/ML Topical Cream' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Loratadine 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.489187+00:00",
+  "source_file": "Darwin703_Conn188_39cadc39-d37f-768e-b7a3-31287ca36281.json"
+}

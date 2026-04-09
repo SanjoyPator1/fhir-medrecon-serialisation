@@ -1,0 +1,53 @@
+{
+  "patient_id": "9a670b81-019e-5aef-8bab-4f468a593472",
+  "patient_name": "Latrice352 Leuschke194",
+  "birth_date": "1966-09-25",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 48,
+  "status_summary": {
+    "completed": 45,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2022-10-30T10:33:50+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Furosemide 40 MG Oral Tablet",
+      "rxnorm_code": "313988",
+      "authored_on": "2022-10-30T10:33:50+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2022-10-30T10:33:50+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Furosemide 40 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:42.995756+00:00",
+  "source_file": "Latrice352_Melodi744_Leuschke194_9a670b81-019e-5aef-8bab-4f468a593472.json"
+}

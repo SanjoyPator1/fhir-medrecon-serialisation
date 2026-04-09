@@ -1,0 +1,78 @@
+{
+  "patient_id": "7e4a103b-f565-94bd-c826-8de2520429fa",
+  "patient_name": "Basil991 Brekke496",
+  "birth_date": "1958-12-07",
+  "gender": "male",
+  "history_span_years": 29,
+  "total_medication_requests": 45,
+  "status_summary": {
+    "completed": 40,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "ritonavir 100 MG Oral Capsule",
+      "rxnorm_code": "317150",
+      "authored_on": "2001-04-08T21:24:38+05:30",
+      "dosage_text": null,
+      "frequency": "2 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 6.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "didanosine 400 MG Delayed Release Oral Capsule",
+      "rxnorm_code": "284988",
+      "authored_on": "2001-04-08T21:24:38+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "stavudine 40 MG Oral Capsule",
+      "rxnorm_code": "313110",
+      "authored_on": "2001-04-08T21:24:38+05:30",
+      "dosage_text": null,
+      "frequency": "2 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2001-04-08T21:24:38+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2001-04-08T21:24:38+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:06.935989+00:00",
+  "source_file": "Basil991_Brekke496_7e4a103b-f565-94bd-c826-8de2520429fa.json"
+}

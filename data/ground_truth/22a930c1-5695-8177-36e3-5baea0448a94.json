@@ -1,0 +1,39 @@
+{
+  "patient_id": "22a930c1-5695-8177-36e3-5baea0448a94",
+  "patient_name": "Bethann490 Price929",
+  "birth_date": "1963-04-27",
+  "gender": "female",
+  "history_span_years": 28,
+  "total_medication_requests": 15,
+  "status_summary": {
+    "completed": 13,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Clopidogrel 75 MG Oral Tablet",
+      "rxnorm_code": "309362",
+      "authored_on": "2016-07-17T06:48:10+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Alteplase 100 MG Injection",
+      "rxnorm_code": "1804799",
+      "authored_on": "2016-07-17T06:48:10+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Clopidogrel 75 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Alteplase 100 MG Injection' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:23.900587+00:00",
+  "source_file": "Bethann490_Price929_22a930c1-5695-8177-36e3-5baea0448a94.json"
+}

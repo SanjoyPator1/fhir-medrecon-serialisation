@@ -1,0 +1,53 @@
+{
+  "patient_id": "f2e5eb1e-71fd-c045-006b-7de587d313eb",
+  "patient_name": "Ying817 Dickinson688",
+  "birth_date": "1966-06-25",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 246,
+  "status_summary": {
+    "completed": 243,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2026-02-28T19:22:20+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "rxnorm_code": "106892",
+      "authored_on": "2026-03-14T19:22:20+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-03-14T19:22:20+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:22.712506+00:00",
+  "source_file": "Ying817_Dickinson688_f2e5eb1e-71fd-c045-006b-7de587d313eb.json"
+}

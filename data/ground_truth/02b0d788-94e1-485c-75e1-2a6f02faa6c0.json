@@ -1,0 +1,30 @@
+{
+  "patient_id": "02b0d788-94e1-485c-75e1-2a6f02faa6c0",
+  "patient_name": "Hoyt490 Hagenes547",
+  "birth_date": "1957-08-06",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 6,
+  "status_summary": {
+    "completed": 5,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "zidovudine 300 MG Oral Tablet",
+      "rxnorm_code": "199663",
+      "authored_on": "1992-04-07T05:16:13+05:30",
+      "dosage_text": null,
+      "frequency": "2 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:07.786250+00:00",
+  "source_file": "Hoyt490_Hagenes547_02b0d788-94e1-485c-75e1-2a6f02faa6c0.json"
+}

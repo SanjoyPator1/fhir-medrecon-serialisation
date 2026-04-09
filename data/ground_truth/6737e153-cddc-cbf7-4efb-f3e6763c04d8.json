@@ -1,0 +1,41 @@
+{
+  "patient_id": "6737e153-cddc-cbf7-4efb-f3e6763c04d8",
+  "patient_name": "Alonso270 Mills423",
+  "birth_date": "1973-07-12",
+  "gender": "male",
+  "history_span_years": 30,
+  "total_medication_requests": 8,
+  "status_summary": {
+    "active": 2,
+    "completed": 6
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "1995-09-21T04:18:08+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2025-07-24T03:16:58+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.103525+00:00",
+  "source_file": "Alonso270_Mills423_6737e153-cddc-cbf7-4efb-f3e6763c04d8.json"
+}

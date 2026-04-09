@@ -1,0 +1,39 @@
+{
+  "patient_id": "22394f6c-6ec1-31cd-9010-e3f07de1acdb",
+  "patient_name": "Mariana775 Wehner319",
+  "birth_date": "1966-12-11",
+  "gender": "female",
+  "history_span_years": 15,
+  "total_medication_requests": 14,
+  "status_summary": {
+    "completed": 12,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "ferrous sulfate 325 MG Oral Tablet",
+      "rxnorm_code": "310325",
+      "authored_on": "2010-08-01T08:44:29+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "2010-08-01T08:44:29+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'ferrous sulfate 325 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:43.037069+00:00",
+  "source_file": "Mariana775_Janyce124_Wehner319_22394f6c-6ec1-31cd-9010-e3f07de1acdb.json"
+}

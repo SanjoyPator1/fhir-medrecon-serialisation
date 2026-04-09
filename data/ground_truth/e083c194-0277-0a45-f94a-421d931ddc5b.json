@@ -1,0 +1,53 @@
+{
+  "patient_id": "e083c194-0277-0a45-f94a-421d931ddc5b",
+  "patient_name": "Aaron697 Turner526",
+  "birth_date": "1961-04-11",
+  "gender": "male",
+  "history_span_years": 24,
+  "total_medication_requests": 56,
+  "status_summary": {
+    "completed": 53,
+    "active": 3
+  },
+  "active_medication_count": 3,
+  "medications": [
+    {
+      "medication_name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "rxnorm_code": "106892",
+      "authored_on": "2026-03-10T22:39:18+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-03-10T22:39:18+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2026-03-10T22:39:18+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:43.324945+00:00",
+  "source_file": "Aaron697_Turner526_e083c194-0277-0a45-f94a-421d931ddc5b.json"
+}

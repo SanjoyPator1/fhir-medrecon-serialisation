@@ -1,0 +1,41 @@
+{
+  "patient_id": "e8e17c7e-6f40-cb98-7c53-d9c09edc16c6",
+  "patient_name": "Abe604 Waters156",
+  "birth_date": "1963-12-08",
+  "gender": "male",
+  "history_span_years": 22,
+  "total_medication_requests": 27,
+  "status_summary": {
+    "completed": 25,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2026-01-27T02:23:34+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2026-01-31T02:23:34+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:42.966004+00:00",
+  "source_file": "Abe604_Waters156_e8e17c7e-6f40-cb98-7c53-d9c09edc16c6.json"
+}

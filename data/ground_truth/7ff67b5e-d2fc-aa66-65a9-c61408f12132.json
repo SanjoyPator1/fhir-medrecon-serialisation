@@ -1,0 +1,41 @@
+{
+  "patient_id": "7ff67b5e-d2fc-aa66-65a9-c61408f12132",
+  "patient_name": "Julienne688 Schulist381",
+  "birth_date": "1952-11-16",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 63,
+  "status_summary": {
+    "completed": 61,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-04-05T09:49:39+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "rxnorm_code": "860975",
+      "authored_on": "2026-04-05T09:49:39+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:07.171327+00:00",
+  "source_file": "Julienne688_Schulist381_7ff67b5e-d2fc-aa66-65a9-c61408f12132.json"
+}

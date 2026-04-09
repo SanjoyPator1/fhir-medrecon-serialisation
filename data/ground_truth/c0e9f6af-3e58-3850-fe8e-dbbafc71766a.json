@@ -1,0 +1,41 @@
+{
+  "patient_id": "c0e9f6af-3e58-3850-fe8e-dbbafc71766a",
+  "patient_name": "Eldon28 Kunze215",
+  "birth_date": "1962-12-06",
+  "gender": "male",
+  "history_span_years": 12,
+  "total_medication_requests": 21,
+  "status_summary": {
+    "completed": 19,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+      "rxnorm_code": "198031",
+      "authored_on": "2021-01-21T10:15:43+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+      "rxnorm_code": "351266",
+      "authored_on": "2026-02-13T10:19:37+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'24 HR nicotine 0.292 MG/HR Transdermal System' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:42.841721+00:00",
+  "source_file": "Eldon28_Kunze215_c0e9f6af-3e58-3850-fe8e-dbbafc71766a.json"
+}

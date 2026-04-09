@@ -1,0 +1,29 @@
+{
+  "patient_id": "84e19a63-ce31-0823-1d74-7f026242470c",
+  "patient_name": "Silas208 Predovic534",
+  "birth_date": "1974-04-23",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 11,
+  "status_summary": {
+    "completed": 10,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "2005-07-12T21:29:01+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:22.812595+00:00",
+  "source_file": "Silas208_Predovic534_84e19a63-ce31-0823-1d74-7f026242470c.json"
+}

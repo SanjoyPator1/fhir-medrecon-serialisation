@@ -1,0 +1,90 @@
+{
+  "patient_id": "22aee573-94a0-ea77-401b-3a3da9f1e1f6",
+  "patient_name": "Pedro316 Matías497",
+  "birth_date": "1962-01-03",
+  "gender": "male",
+  "history_span_years": 30,
+  "total_medication_requests": 71,
+  "status_summary": {
+    "completed": 65,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-09-13T07:54:07+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2026-03-25T10:54:07+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+      "rxnorm_code": "1049504",
+      "authored_on": "2026-03-25T10:54:07+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+      "rxnorm_code": "245134",
+      "authored_on": "2026-03-25T10:54:07+05:30",
+      "dosage_text": "Every seventy two hours (qualifier value)",
+      "frequency": "1 time(s) per 3 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+      "rxnorm_code": "1860491",
+      "authored_on": "2026-03-25T10:54:07+05:30",
+      "dosage_text": "Every twelve hours as required (qualifier value)",
+      "frequency": "2 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2026-03-26T10:54:07+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:22.740274+00:00",
+  "source_file": "Pedro316_Matías497_22aee573-94a0-ea77-401b-3a3da9f1e1f6.json"
+}

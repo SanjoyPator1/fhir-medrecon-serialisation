@@ -1,0 +1,29 @@
+{
+  "patient_id": "d3d59cd8-9cda-f99a-6e81-482a8d4e363f",
+  "patient_name": "Theda286 Brown30",
+  "birth_date": "1964-10-25",
+  "gender": "female",
+  "history_span_years": 24,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "completed": 17,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "ferrous sulfate 325 MG Oral Tablet",
+      "rxnorm_code": "310325",
+      "authored_on": "2002-01-20T16:46:37+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'ferrous sulfate 325 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:23.335034+00:00",
+  "source_file": "Theda286_Maxie520_Brown30_d3d59cd8-9cda-f99a-6e81-482a8d4e363f.json"
+}

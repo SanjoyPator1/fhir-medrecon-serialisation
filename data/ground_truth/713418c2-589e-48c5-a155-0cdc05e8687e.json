@@ -1,0 +1,73 @@
+{
+  "patient_id": "713418c2-589e-48c5-a155-0cdc05e8687e",
+  "patient_name": "Teddy976 Abbott774",
+  "birth_date": "1970-10-02",
+  "gender": "male",
+  "history_span_years": 28,
+  "total_medication_requests": 118,
+  "status_summary": {
+    "completed": 113,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+      "rxnorm_code": "198031",
+      "authored_on": "1998-11-27T17:21:39+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "rxnorm_code": "106892",
+      "authored_on": "2026-02-20T17:21:39+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2026-02-20T17:21:39+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "rxnorm_code": "860975",
+      "authored_on": "2026-02-20T17:21:39+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2026-02-20T17:21:39+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'24 HR nicotine 0.292 MG/HR Transdermal System' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:22.615622+00:00",
+  "source_file": "Teddy976_Abbott774_713418c2-589e-48c5-a155-0cdc05e8687e.json"
+}

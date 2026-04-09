@@ -1,0 +1,29 @@
+{
+  "patient_id": "0defe8ed-f0fe-b0e3-67fb-6809c22940c8",
+  "patient_name": "Albertina684 Lockman863",
+  "birth_date": "1975-06-11",
+  "gender": "female",
+  "history_span_years": 25,
+  "total_medication_requests": 7,
+  "status_summary": {
+    "completed": 6,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2015-11-04T19:32:37+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.814384+00:00",
+  "source_file": "Albertina684_Tina856_Lockman863_0defe8ed-f0fe-b0e3-67fb-6809c22940c8.json"
+}

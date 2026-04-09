@@ -1,0 +1,73 @@
+{
+  "patient_id": "65f5f177-7fc3-aa03-6229-dfd31acf9a19",
+  "patient_name": "Herschel574 Streich926",
+  "birth_date": "1962-12-06",
+  "gender": "male",
+  "history_span_years": 30,
+  "total_medication_requests": 68,
+  "status_summary": {
+    "completed": 63,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "Naproxen sodium 220 MG Oral Tablet",
+      "rxnorm_code": "849574",
+      "authored_on": "2005-06-20T10:15:43+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2025-02-13T10:15:43+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "albuterol 5 MG/ML Inhalation Solution",
+      "rxnorm_code": "245314",
+      "authored_on": "2025-02-13T10:15:43+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-02-13T10:15:43+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+      "rxnorm_code": "896209",
+      "authored_on": "2025-02-13T10:15:43+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Naproxen sodium 220 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'albuterol 5 MG/ML Inhalation Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:43.285418+00:00",
+  "source_file": "Herschel574_Streich926_65f5f177-7fc3-aa03-6229-dfd31acf9a19.json"
+}

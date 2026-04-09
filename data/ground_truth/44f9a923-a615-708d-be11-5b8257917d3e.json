@@ -1,0 +1,30 @@
+{
+  "patient_id": "44f9a923-a615-708d-be11-5b8257917d3e",
+  "patient_name": "Freddy176 Fritsch593",
+  "birth_date": "1973-01-28",
+  "gender": "male",
+  "history_span_years": 13,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "completed": 17,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2026-02-22T17:30:18+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:05.695387+00:00",
+  "source_file": "Freddy176_Fritsch593_44f9a923-a615-708d-be11-5b8257917d3e.json"
+}

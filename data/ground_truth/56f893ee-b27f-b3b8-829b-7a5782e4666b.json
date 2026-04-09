@@ -1,0 +1,30 @@
+{
+  "patient_id": "56f893ee-b27f-b3b8-829b-7a5782e4666b",
+  "patient_name": "Vincenzo126 Parisian75",
+  "birth_date": "1964-09-25",
+  "gender": "male",
+  "history_span_years": 26,
+  "total_medication_requests": 18,
+  "status_summary": {
+    "completed": 17,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2025-11-28T21:46:16+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.968679+00:00",
+  "source_file": "Vincenzo126_Parisian75_56f893ee-b27f-b3b8-829b-7a5782e4666b.json"
+}

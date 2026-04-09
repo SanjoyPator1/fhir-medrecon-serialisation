@@ -1,0 +1,77 @@
+{
+  "patient_id": "24f29144-9e56-3217-a207-61011295e4f8",
+  "patient_name": "Neil122 Howell947",
+  "birth_date": "1979-03-09",
+  "gender": "male",
+  "history_span_years": 19,
+  "total_medication_requests": 64,
+  "status_summary": {
+    "completed": 59,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "rxnorm_code": "993770",
+      "authored_on": "2025-08-01T10:14:54+05:30",
+      "dosage_text": "Every four hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+      "rxnorm_code": "1049504",
+      "authored_on": "2025-08-01T10:14:54+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+      "rxnorm_code": "245134",
+      "authored_on": "2025-08-01T10:14:54+05:30",
+      "dosage_text": "Every seventy two hours (qualifier value)",
+      "frequency": "1 time(s) per 3 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "tramadol hydrochloride 50 MG Oral Tablet",
+      "rxnorm_code": "835603",
+      "authored_on": "2025-08-01T10:14:54+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+      "rxnorm_code": "1860491",
+      "authored_on": "2025-08-01T10:14:54+05:30",
+      "dosage_text": "Every twelve hours as required (qualifier value)",
+      "frequency": "2 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'tramadol hydrochloride 50 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.172849+00:00",
+  "source_file": "Neil122_Howell947_24f29144-9e56-3217-a207-61011295e4f8.json"
+}

@@ -1,0 +1,39 @@
+{
+  "patient_id": "522f53ae-2875-15c4-e926-28fc2c0d184b",
+  "patient_name": "Hollie21 Padberg411",
+  "birth_date": "1976-05-09",
+  "gender": "female",
+  "history_span_years": 19,
+  "total_medication_requests": 67,
+  "status_summary": {
+    "active": 2,
+    "completed": 65
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "clonazePAM 0.25 MG Oral Tablet",
+      "rxnorm_code": "204892",
+      "authored_on": "1982-07-06T20:55:56+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]",
+      "rxnorm_code": "1359133",
+      "authored_on": "2000-12-29T18:25:40+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'clonazePAM 0.25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.503539+00:00",
+  "source_file": "Hollie21_Padberg411_522f53ae-2875-15c4-e926-28fc2c0d184b.json"
+}

@@ -1,0 +1,59 @@
+{
+  "patient_id": "8f51273e-9cdb-92d2-630d-b7eee6039723",
+  "patient_name": "Rocio28 Valdés907",
+  "birth_date": "1969-04-07",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 59,
+  "status_summary": {
+    "completed": 55,
+    "active": 4
+  },
+  "active_medication_count": 4,
+  "medications": [
+    {
+      "medication_name": "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+      "rxnorm_code": "748879",
+      "authored_on": "2019-02-27T22:36:07+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "rxnorm_code": "106892",
+      "authored_on": "2019-09-02T22:13:17+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "albuterol 5 MG/ML Inhalation Solution",
+      "rxnorm_code": "245314",
+      "authored_on": "2019-09-02T22:13:17+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+      "rxnorm_code": "896209",
+      "authored_on": "2019-09-02T22:13:17+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'albuterol 5 MG/ML Inhalation Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:41.314834+00:00",
+  "source_file": "Rocio28_Mayte822_Valdés907_8f51273e-9cdb-92d2-630d-b7eee6039723.json"
+}

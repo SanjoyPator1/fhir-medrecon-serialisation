@@ -1,0 +1,41 @@
+{
+  "patient_id": "a44ba18b-ef29-8897-550a-290567467188",
+  "patient_name": "Orlando897 Schaden604",
+  "birth_date": "1977-02-04",
+  "gender": "male",
+  "history_span_years": 27,
+  "total_medication_requests": 24,
+  "status_summary": {
+    "completed": 22,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "rxnorm_code": "860975",
+      "authored_on": "2026-03-27T04:15:59+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2026-03-27T04:15:59+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:23.329002+00:00",
+  "source_file": "Orlando897_Schaden604_a44ba18b-ef29-8897-550a-290567467188.json"
+}

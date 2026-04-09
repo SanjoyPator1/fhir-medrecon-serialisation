@@ -1,0 +1,29 @@
+{
+  "patient_id": "24f7ebda-1993-833b-4674-ca6f752d366b",
+  "patient_name": "Dante562 Welch179",
+  "birth_date": "1963-05-03",
+  "gender": "male",
+  "history_span_years": 25,
+  "total_medication_requests": 19,
+  "status_summary": {
+    "completed": 18,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-07-11T18:56:24+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Ibuprofen 400 MG Oral Tablet [Ibu]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:07.304113+00:00",
+  "source_file": "Dante562_Welch179_24f7ebda-1993-833b-4674-ca6f752d366b.json"
+}

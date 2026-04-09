@@ -1,0 +1,30 @@
+{
+  "patient_id": "95aea4f0-d303-7311-b8fc-d83c2bb5b153",
+  "patient_name": "Lourdes258 Castro740",
+  "birth_date": "1962-01-07",
+  "gender": "female",
+  "history_span_years": 19,
+  "total_medication_requests": 17,
+  "status_summary": {
+    "completed": 16,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "rxnorm_code": "856987",
+      "authored_on": "2014-04-05T10:58:48+05:30",
+      "dosage_text": "Every four to six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.889556+00:00",
+  "source_file": "Lourdes258_Castro740_95aea4f0-d303-7311-b8fc-d83c2bb5b153.json"
+}

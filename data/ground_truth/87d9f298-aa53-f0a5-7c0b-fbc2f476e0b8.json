@@ -1,0 +1,42 @@
+{
+  "patient_id": "87d9f298-aa53-f0a5-7c0b-fbc2f476e0b8",
+  "patient_name": "Esteban536 Moore224",
+  "birth_date": "1977-11-08",
+  "gender": "male",
+  "history_span_years": 27,
+  "total_medication_requests": 30,
+  "status_summary": {
+    "completed": 28,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "rxnorm_code": "993770",
+      "authored_on": "2025-07-01T02:09:51+05:30",
+      "dosage_text": "Every four hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2025-07-01T02:09:51+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:04.918106+00:00",
+  "source_file": "Esteban536_Moore224_87d9f298-aa53-f0a5-7c0b-fbc2f476e0b8.json"
+}

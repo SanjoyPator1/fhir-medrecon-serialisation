@@ -1,0 +1,39 @@
+{
+  "patient_id": "bb88b4a2-77be-6165-d15b-e788caf14a25",
+  "patient_name": "Christal240 Schneider199",
+  "birth_date": "1985-07-06",
+  "gender": "female",
+  "history_span_years": 26,
+  "total_medication_requests": 60,
+  "status_summary": {
+    "completed": 58,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+      "rxnorm_code": "831533",
+      "authored_on": "2025-06-19T08:17:35+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Milnacipran hydrochloride 100 MG Oral Tablet",
+      "rxnorm_code": "833135",
+      "authored_on": "2026-03-21T04:11:49+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Milnacipran hydrochloride 100 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:04.858186+00:00",
+  "source_file": "Christal240_Schneider199_bb88b4a2-77be-6165-d15b-e788caf14a25.json"
+}

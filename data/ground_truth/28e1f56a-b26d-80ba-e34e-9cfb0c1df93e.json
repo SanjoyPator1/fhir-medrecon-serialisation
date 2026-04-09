@@ -1,0 +1,39 @@
+{
+  "patient_id": "28e1f56a-b26d-80ba-e34e-9cfb0c1df93e",
+  "patient_name": "Ouida808 Harber290",
+  "birth_date": "1978-02-16",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 19,
+  "status_summary": {
+    "completed": 17,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Vitamin B12 5 MG/ML Injectable Solution",
+      "rxnorm_code": "2001499",
+      "authored_on": "2021-07-01T02:33:34+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",
+      "rxnorm_code": "757594",
+      "authored_on": "2026-03-03T01:15:25+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Vitamin B12 5 MG/ML Injectable Solution' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.941991+00:00",
+  "source_file": "Ouida808_Harber290_28e1f56a-b26d-80ba-e34e-9cfb0c1df93e.json"
+}

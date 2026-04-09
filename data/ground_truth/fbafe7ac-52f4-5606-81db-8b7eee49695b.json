@@ -1,0 +1,30 @@
+{
+  "patient_id": "fbafe7ac-52f4-5606-81db-8b7eee49695b",
+  "patient_name": "Demetrius568 Miller503",
+  "birth_date": "1978-11-26",
+  "gender": "male",
+  "history_span_years": 24,
+  "total_medication_requests": 12,
+  "status_summary": {
+    "completed": 11,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2026-01-11T19:29:25+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:05.040309+00:00",
+  "source_file": "Demetrius568_Miller503_fbafe7ac-52f4-5606-81db-8b7eee49695b.json"
+}

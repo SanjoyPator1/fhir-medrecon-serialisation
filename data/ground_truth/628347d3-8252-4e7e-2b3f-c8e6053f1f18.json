@@ -1,0 +1,42 @@
+{
+  "patient_id": "628347d3-8252-4e7e-2b3f-c8e6053f1f18",
+  "patient_name": "Martin117 Littel644",
+  "birth_date": "1966-11-09",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 20,
+  "status_summary": {
+    "completed": 18,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Hydrochlorothiazide 25 MG Oral Tablet",
+      "rxnorm_code": "310798",
+      "authored_on": "2025-12-31T20:23:12+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2025-12-31T20:23:12+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:23.955019+00:00",
+  "source_file": "Martin117_Karon907_Littel644_628347d3-8252-4e7e-2b3f-c8e6053f1f18.json"
+}

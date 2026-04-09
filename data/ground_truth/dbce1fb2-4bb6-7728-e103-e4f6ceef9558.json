@@ -1,0 +1,42 @@
+{
+  "patient_id": "dbce1fb2-4bb6-7728-e103-e4f6ceef9558",
+  "patient_name": "Emile522 Hahn503",
+  "birth_date": "1975-07-13",
+  "gender": "male",
+  "history_span_years": 24,
+  "total_medication_requests": 31,
+  "status_summary": {
+    "completed": 29,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "rxnorm_code": "1049625",
+      "authored_on": "2025-04-20T03:37:02+05:30",
+      "dosage_text": "Every six hours (qualifier value)",
+      "frequency": "4 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+      "rxnorm_code": "1049504",
+      "authored_on": "2025-04-20T03:37:02+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:22.486925+00:00",
+  "source_file": "Emile522_Hahn503_dbce1fb2-4bb6-7728-e103-e4f6ceef9558.json"
+}

@@ -1,0 +1,30 @@
+{
+  "patient_id": "d3bd2921-dbc1-c65a-ae8c-fc5ffa5845ba",
+  "patient_name": "Twila243 Kunze215",
+  "birth_date": "1979-06-14",
+  "gender": "female",
+  "history_span_years": 30,
+  "total_medication_requests": 20,
+  "status_summary": {
+    "completed": 19,
+    "active": 1
+  },
+  "active_medication_count": 1,
+  "medications": [
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2025-07-10T03:47:05+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:09:04.985113+00:00",
+  "source_file": "Twila243_Migdalia164_Kunze215_d3bd2921-dbc1-c65a-ae8c-fc5ffa5845ba.json"
+}

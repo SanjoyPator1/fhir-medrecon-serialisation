@@ -1,0 +1,81 @@
+{
+  "patient_id": "1b3c405a-3234-4205-f92a-cac8a2569bae",
+  "patient_name": "Burma963 Goyette777",
+  "birth_date": "1961-02-12",
+  "gender": "female",
+  "history_span_years": 19,
+  "total_medication_requests": 44,
+  "status_summary": {
+    "completed": 38,
+    "active": 6
+  },
+  "active_medication_count": 6,
+  "medications": [
+    {
+      "medication_name": "atenolol 25 MG Oral Tablet",
+      "rxnorm_code": "197380",
+      "authored_on": "2009-04-01T19:10:29+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "atorvastatin 20 MG Oral Tablet",
+      "rxnorm_code": "617310",
+      "authored_on": "2009-04-01T19:10:29+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "losartan potassium 50 MG Oral Tablet",
+      "rxnorm_code": "979492",
+      "authored_on": "2009-04-01T19:10:29+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "prasugrel 10 MG Oral Tablet",
+      "rxnorm_code": "855812",
+      "authored_on": "2009-04-01T19:10:29+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "rxnorm_code": "206905",
+      "authored_on": "2025-05-04T16:46:37+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Simvastatin 10 MG Oral Tablet",
+      "rxnorm_code": "314231",
+      "authored_on": "2025-05-25T16:46:37+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'atenolol 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'atorvastatin 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'losartan potassium 50 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'prasugrel 10 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Ibuprofen 400 MG Oral Tablet [Ibu]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:43.015599+00:00",
+  "source_file": "Burma963_Goyette777_1b3c405a-3234-4205-f92a-cac8a2569bae.json"
+}

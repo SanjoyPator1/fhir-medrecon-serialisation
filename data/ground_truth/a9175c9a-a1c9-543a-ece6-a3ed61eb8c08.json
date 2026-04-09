@@ -1,0 +1,59 @@
+{
+  "patient_id": "a9175c9a-a1c9-543a-ece6-a3ed61eb8c08",
+  "patient_name": "Ossie995 Kutch271",
+  "birth_date": "1951-10-13",
+  "gender": "female",
+  "history_span_years": 24,
+  "total_medication_requests": 45,
+  "status_summary": {
+    "completed": 41,
+    "active": 4
+  },
+  "active_medication_count": 4,
+  "medications": [
+    {
+      "medication_name": "carvedilol 25 MG Oral Tablet",
+      "rxnorm_code": "200033",
+      "authored_on": "2005-11-05T02:27:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "Furosemide 40 MG Oral Tablet",
+      "rxnorm_code": "313988",
+      "authored_on": "2005-11-05T02:27:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "losartan potassium 50 MG Oral Tablet",
+      "rxnorm_code": "979492",
+      "authored_on": "2005-11-05T02:27:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 20 MG Oral Tablet",
+      "rxnorm_code": "314077",
+      "authored_on": "2005-11-05T02:27:02+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'carvedilol 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'Furosemide 40 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'losartan potassium 50 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'lisinopril 20 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:07.005370+00:00",
+  "source_file": "Ossie995_Dreama246_Kutch271_a9175c9a-a1c9-543a-ece6-a3ed61eb8c08.json"
+}

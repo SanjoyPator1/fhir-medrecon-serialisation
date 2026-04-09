@@ -1,0 +1,39 @@
+{
+  "patient_id": "d767dee4-caf1-2e52-2259-11fe75f22c11",
+  "patient_name": "Rick943 Aufderhar910",
+  "birth_date": "1972-05-19",
+  "gender": "male",
+  "history_span_years": 26,
+  "total_medication_requests": 9,
+  "status_summary": {
+    "completed": 7,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "Diazepam 5 MG Oral Tablet",
+      "rxnorm_code": "197591",
+      "authored_on": "2003-08-01T19:50:03+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]",
+      "rxnorm_code": "308971",
+      "authored_on": "2003-11-15T22:17:29+05:30",
+      "dosage_text": null,
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    }
+  ],
+  "warnings": [
+    "'Diazepam 5 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'carbamazepine 20 MG/ML Oral Suspension [Tegretol]' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:09:05.080749+00:00",
+  "source_file": "Rick943_Aufderhar910_d767dee4-caf1-2e52-2259-11fe75f22c11.json"
+}

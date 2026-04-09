@@ -1,0 +1,42 @@
+{
+  "patient_id": "397ac18e-706a-d727-3f53-84cf2993f1ce",
+  "patient_name": "Ashlea10 Hermann103",
+  "birth_date": "1951-10-13",
+  "gender": "female",
+  "history_span_years": 29,
+  "total_medication_requests": 103,
+  "status_summary": {
+    "completed": 101,
+    "active": 2
+  },
+  "active_medication_count": 2,
+  "medications": [
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2005-04-30T02:27:02+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2005-04-30T02:27:02+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [],
+  "extracted_at": "2026-04-08T13:10:07.707903+00:00",
+  "source_file": "Ashlea10_Hermann103_397ac18e-706a-d727-3f53-84cf2993f1ce.json"
+}

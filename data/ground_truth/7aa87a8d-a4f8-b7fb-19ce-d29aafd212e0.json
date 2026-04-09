@@ -1,0 +1,73 @@
+{
+  "patient_id": "7aa87a8d-a4f8-b7fb-19ce-d29aafd212e0",
+  "patient_name": "Miguel815 Hegmann834",
+  "birth_date": "1952-08-05",
+  "gender": "male",
+  "history_span_years": 30,
+  "total_medication_requests": 78,
+  "status_summary": {
+    "completed": 73,
+    "active": 5
+  },
+  "active_medication_count": 5,
+  "medications": [
+    {
+      "medication_name": "metoprolol tartrate 25 MG Oral Tablet",
+      "rxnorm_code": "866924",
+      "authored_on": "2019-05-17T01:41:22+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "simvastatin 40 MG Oral Tablet",
+      "rxnorm_code": "198211",
+      "authored_on": "2019-05-17T01:41:22+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 5 MG Oral Tablet",
+      "rxnorm_code": "311354",
+      "authored_on": "2019-05-17T01:41:22+05:30",
+      "dosage_text": "Take as needed.",
+      "frequency": null,
+      "dose_quantity": null,
+      "has_structured_dosage": false
+    },
+    {
+      "medication_name": "lisinopril 10 MG Oral Tablet",
+      "rxnorm_code": "314076",
+      "authored_on": "2026-02-03T23:40:26+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    },
+    {
+      "medication_name": "amLODIPine 2.5 MG Oral Tablet",
+      "rxnorm_code": "308136",
+      "authored_on": "2026-02-03T23:40:26+05:30",
+      "dosage_text": null,
+      "frequency": "1 time(s) per 1 day",
+      "dose_quantity": {
+        "value": 1.0,
+        "unit": null
+      },
+      "has_structured_dosage": true
+    }
+  ],
+  "warnings": [
+    "'metoprolol tartrate 25 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'simvastatin 40 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown).",
+    "'lisinopril 5 MG Oral Tablet' has no structured dosage in source data (dose accuracy evaluation will mark as unknown)."
+  ],
+  "extracted_at": "2026-04-08T13:10:06.475594+00:00",
+  "source_file": "Miguel815_Hegmann834_7aa87a8d-a4f8-b7fb-19ce-d29aafd212e0.json"
+}
