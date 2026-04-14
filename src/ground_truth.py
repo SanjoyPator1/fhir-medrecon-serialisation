@@ -54,9 +54,10 @@ GROUND_TRUTH_DIR = REPO_ROOT / "data" / "ground_truth"
 LOG_DIR = REPO_ROOT / "logs"
 LOG_FILE = LOG_DIR / "ground_truth.log"
 
+from fhir_utils import RXNORM_SYSTEM, build_medication_index, enrich_med_requests
+
 ACTIVE_STATUSES = {"active"}
 ALL_STATUSES = {"active", "completed", "cancelled", "stopped", "entered-in-error", "on-hold", "draft", "unknown"}
-RXNORM_SYSTEM = "http://www.nlm.nih.gov/research/umls/rxnorm"
 
 
 def setup_logging():
@@ -252,7 +253,10 @@ def extract_medications(bundle, patient_id, logger, filename):
     Only MedicationRequest resources with status == "active" go into the ground truth.
     All other statuses are counted for the summary log but not included in output.
     """
-    all_med_requests = get_resources(bundle, "MedicationRequest")
+    all_med_requests = enrich_med_requests(
+        get_resources(bundle, "MedicationRequest"),
+        build_medication_index(bundle),
+    )
 
     if not all_med_requests:
         logger.warning(f"{filename}: no MedicationRequest resources found. Patient may have no medication history.")
@@ -277,7 +281,7 @@ def extract_medications(bundle, patient_id, logger, filename):
 
         med_concept = mr.get("medicationCodeableConcept")
         if not med_concept:
-            msg = f"Active MedicationRequest {mr.get('id')} has no medicationCodeableConcept. Skipping."
+            msg = f"Active MedicationRequest {mr.get('id')} has no resolvable medication concept (neither medicationCodeableConcept nor a resolvable medicationReference). Skipping."
             logger.warning(f"{filename}: {msg}")
             warnings.append(msg)
             continue
