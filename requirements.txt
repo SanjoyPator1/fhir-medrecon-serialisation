@@ -1,9 +1,11 @@
 requests
 ollama
 openai
+python-dotenv
 fhir.resources
 pandas
 matplotlib
 seaborn
 jupyter
 tqdm
+transformers
