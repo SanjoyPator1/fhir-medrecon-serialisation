@@ -1,0 +1,91 @@
+\section{Related Work}
+\label{sec:related}
+
+\subsection{LLMs for FHIR and Clinical Records}
+
+The most direct predecessor to this work is LLMonFHIR \citep{schmiedmayer2025llmonfhir},
+a Stanford physician-validated iOS application that allows patients to query their
+own FHIR records using natural language. The JACC publication evaluates 210 physician-rated
+responses on Synthea patients and reports median accuracy scores of 5/5, but explicitly
+identifies context size as the central unresolved technical challenge: raw FHIR bundles
+can reach 800,000 lines of JSON for a single patient, far exceeding current LLM context
+windows. The earlier arXiv version of the same project \citep{schmiedmayer2024llmonfhir}
+addresses this with GPT-4 function-calling to select relevant resource types before
+sending data to the model. Our work takes a different angle: given a bounded,
+task-relevant subset of FHIR resources (only MedicationRequest), how does the
+\textit{format} of that subset affect model performance? This is the layer below
+resource selection that prior work has not systematically examined.
+
+\citet{wu2026plannerauditor} build a dual-agent discharge planning system using MIMIC-IV
+FHIR data, where a Planner LLM generates structured discharge action plans and a
+deterministic Auditor validates coverage and calibration. Their self-improvement loop
+raises task coverage from 32\% to 86\%. This work is relevant because it shows that
+FHIR-native LLM pipelines can reach high task coverage when structured validation is
+applied, a design pattern that could be combined with our serialisation findings
+for production deployment.
+
+\subsection{Medication Extraction and FHIR-Specific Tasks}
+
+\citet{li2024fhirgpt} introduce FHIR-GPT, which converts free-text clinical notes
+and discharge summaries into FHIR MedicationStatement resources using GPT-4 and
+few-shot prompting. On 3,671 medication snippets from the n2c2 2018 dataset, GPT-4
+achieves over 90\% exact match, substantially outperforming prior NLP pipelines.
+This is the closest prior work to our task: LLMs applied to medication-specific
+FHIR resources. The key distinction is directionality. FHIR-GPT extracts from
+unstructured clinical text \textit{into} FHIR format; we extract from FHIR format
+\textit{into} a medication list. The inverse task uses the same data format but
+requires different model capabilities: structured input comprehension rather than
+structured output generation.
+
+\subsection{Hallucination, Omission, and Clinical Safety}
+
+\citet{asgari2025clinicalsafety} conduct the largest manual evaluation of LLM clinical
+note generation to date (12,999 annotated sentences) and measure hallucination at 1.47\%
+and omission at 3.45\%. They find that iterative prompt engineering can bring error
+rates below human baseline and identify omission as a persistent challenge even after
+optimisation. This paper establishes the methodological framing that we extend:
+treating precision failures (hallucination) and recall failures (omission) as distinct
+error types with different clinical consequences.
+
+\citet{zeba2025granularfactcheck} introduce a proposition-level, LLM-free fact-checking
+module that validates clinical text against EHR source data using discrete logical checks
+(negation, temporal consistency, numerical comparison). Their approach achieves F1 = 0.856
+for hallucination detection and demonstrates that systematic validation is tractable
+without another LLM in the loop. The distinction between hallucination and omission
+they formalise maps directly onto our finding that omission dominates hallucination in
+this benchmark: mean precision exceeds mean recall in every model--strategy combination,
+even though precision failures do occur.
+
+\citet{kim2025medicalhallucination} evaluate medical hallucination across 11 foundation
+models on 7 clinical tasks, with survey input from 70 clinicians. Their finding that
+general-purpose models outperform medical-specialised ones (76.6\% vs.\ 51.3\%
+hallucination-free) and that hallucination is a reasoning failure rather than a knowledge
+deficit aligns closely with our BioMistral result: domain pretraining without instruction
+tuning produces a model that generates no useful output on a structured extraction task.
+
+\subsection{Prompting and Format Effects in Clinical NLP}
+
+\citet{delaunay2025fhirprompting} evaluate three LLMs on converting Spanish clinical
+reports into FHIR bundles using six prompting strategies. They find that two-step
+prompting (extract then format) significantly outperforms single-step prompting, and
+that temperature 0 is optimal for FHIR compliance. This is the most directly comparable
+prompting study to our work. We differ in task direction (FHIR comprehension vs.\
+FHIR generation), language, model family, and the specific format variable we test,
+but the shared finding is that how you structure the model's task matters as much as
+which model you choose.
+
+\citet{kruse2025temporal} evaluate LLMs on longitudinal clinical summarisation and
+prediction using full patient trajectories from multi-modal EHRs. A key finding is
+that longer context windows improve input \textit{integration} but do not reliably
+improve clinical \textit{reasoning}. This connects to our capacity ceiling result:
+the failure mode for small models on complex patients is not that the records do not
+fit in context, but that the models fail to enumerate all active medications in their
+output even when the information is present in the input. The reasoning bottleneck, not
+the context window, is the limiting factor.
+
+\subsection{Models Evaluated}
+
+We evaluate Phi-3.5-mini \citep{abdin2024phi3}, Mistral-7B \citep{jiang2023mistral},
+BioMistral-7B \citep{labrak2024biomistral}, and models from the Llama 3 family
+\citep{llama3team2024}. Synthetic patient data is generated with Synthea
+\citep{walonoski2018synthea}.

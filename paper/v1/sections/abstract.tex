@@ -1,0 +1,25 @@
+\begin{abstract}
+Medication reconciliation at clinical handoffs is a high-stakes, error-prone process.
+Large language models are increasingly proposed to assist with this task using
+FHIR-structured patient records, but a fundamental and largely unstudied variable is
+how the FHIR data is serialised before being passed to the model. We present the first
+systematic comparison of four FHIR serialisation strategies (Raw JSON, Markdown Table,
+Clinical Narrative, and Chronological Timeline) across five open-weight models
+(Phi-3.5-mini, Mistral-7B, BioMistral-7B, Llama-3.1-8B, Llama-3.3-70B) on a
+controlled benchmark of 200 synthetic patients, totalling 4,000 inference runs. We
+find that serialisation strategy has a large, statistically significant effect on
+performance for models up to 8B parameters: Clinical Narrative outperforms Raw JSON
+by up to 19 F1 points for Mistral-7B ($r = 0.617$, $p < 10^{-10}$). This advantage
+reverses at 70B, where Raw JSON achieves the best mean F1 of 0.9956. In all 20
+model and strategy combinations, mean precision exceeds mean recall: omission is the
+dominant failure mode, with models more often missing an active medication than
+fabricating one, which changes how clinical safety auditing priorities should be set. Smaller models plateau at roughly 7--10 concurrent
+active medications, leaving polypharmacy patients, the patients most at risk from
+reconciliation errors, systematically underserved. BioMistral-7B, a domain-pretrained
+model without instruction tuning, produces zero usable output in all conditions,
+showing that domain pretraining alone is not sufficient for structured extraction.
+These results offer practical, evidence-based format recommendations for clinical LLM
+deployment: Clinical Narrative for models up to 8B, Raw JSON for 70B and above. The
+complete pipeline is reproducible on open-source tools running on an AWS
+\texttt{g6e.xlarge} instance (NVIDIA L40S, 48 GB VRAM).
+\end{abstract}

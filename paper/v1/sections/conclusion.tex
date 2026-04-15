@@ -1,0 +1,34 @@
+\section{Conclusion}
+\label{sec:conclusion}
+
+Medication reconciliation is one of the highest-stakes tasks at clinical handoff points.
+Missed or duplicated medications cause preventable patient harm, and every hospital
+discharge or transfer is an opportunity for one to slip through. As LLMs begin to be
+deployed for this task on FHIR-structured records, the question of how to present FHIR
+data to a model has gone largely unexamined. This work provides the first systematic
+comparison.
+
+We evaluated 5 models across 4 serialisation strategies on 200 synthetic patients,
+totalling 4,000 runs. The findings are consistent and clear. Serialisation strategy
+has a statistically significant effect on performance for all instruction-tuned models
+up to 8B parameters, with Clinical Narrative being the best-performing format at that
+scale. The ranking flips at 70B: Raw JSON becomes the best format, and the strategy
+effect loses significance. In all 20 model and strategy combinations, mean precision
+exceeds mean recall: omission is the dominant failure mode, and that changes how safety
+auditing of these systems should work. Small models plateau at 7--10 active medications;
+polypharmacy patients remain systematically underserved below 70B scale. BioMistral's
+complete failure adds a fifth finding: domain pretraining without instruction tuning is
+not sufficient for structured extraction tasks.
+
+The practical guidance from this work is straightforward. For teams using a 7B--8B
+instruction-tuned model, Clinical Narrative serialisation is the right default. For
+70B deployments, Raw JSON is simpler and marginally better. In both cases, the key
+metric to track in production is recall, not precision. The system's completeness is
+what matters clinically, not its accuracy on what it does report.
+
+Future work should extend this benchmark to real hospital EHR data, evaluate
+properly instruction-tuned biomedical models, and explore whether few-shot examples
+or chain-of-thought prompting can push recall higher for complex patients. The pipeline
+uses only open tools: Synthea for patient generation, Ollama for local inference, all
+running on an AWS \texttt{g6e.xlarge} instance with an NVIDIA L40S (48 GB VRAM),
+making the entire benchmark reproducible without proprietary APIs.

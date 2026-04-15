@@ -1,0 +1,86 @@
+\section{Discussion}
+\label{sec:discussion}
+
+\paragraph{Format is a deployment decision.}
+Serialisation strategy is not a cosmetic choice. It is a performance variable with
+statistically significant, clinically meaningful effect sizes. For Mistral-7B,
+choosing Clinical Narrative (Strategy C) over Raw JSON (Strategy A) raises mean F1
+from 0.72 to 0.91. That is a 19 percentage point gain on the same model, same hardware,
+same data, with no additional training. For Llama-3.1-8B, the gain is smaller but
+still significant: 0.92 to 0.95. These gains cost nothing beyond a preprocessing step.
+No retraining, no fine-tuning, no prompt engineering beyond the format change itself.
+Any team deploying a 7B--8B model for medication reconciliation should default to
+Clinical Narrative format unless they have evidence that their specific model and data
+distribution behave differently.
+
+At 70B, the story changes. Llama-3.3-70B reaches near-perfect performance on Raw JSON
+(F1 = 0.9956) and shows no significant degradation on Clinical Narrative (F1 = 0.9850),
+but drops to F1 = 0.8742 on the Chronological Timeline, with 25 patients receiving zero
+F1. A model of this scale appears to handle JSON structure natively without needing it
+reorganised, but it still struggles with temporal inference across interleaved statuses,
+even when it handles all other formats correctly. Format sensitivity does not disappear
+at large scale; it shifts. Large models are more robust to structural format changes
+but remain vulnerable to tasks that require specific reasoning patterns.
+
+\paragraph{Omission defines the clinical risk profile.}
+Omission is the dominant failure mode across all conditions. In all 20 model--strategy
+combinations, mean precision exceeds mean recall, meaning models are substantially more
+likely to miss an active medication than to fabricate one. Hallucination does still
+occur, particularly for smaller models on less structured formats: Phi-3.5-mini on Raw
+JSON has mean precision 0.73 (roughly 27\% of its output items are not in the ground
+truth) and Mistral-7B on Raw JSON reaches 0.89. These are measurable, non-trivial error
+rates. What the data shows is not the absence of hallucination but its
+subordination to omission.
+
+Two caveats sharpen this finding. First, under exact string matching, some apparent
+hallucinations reflect name formatting variations rather than true fabrication: the
+model outputs a real active medication with a suffix such as \textit{(RxNorm: 314076)}
+or a truncated bracketed brand name, which counts as both a false positive and a false
+negative. Inspection of Llama-3.3-70B's Strategy D errors shows this pattern accounts
+for the majority of its 73 precision errors. Our reported precision and recall values
+are therefore conservative lower bounds; fuzzy matching would raise both. Second,
+the asymmetry itself is consistent across scales and strategies even at 70B, which
+suggests it is a property of the task under exact-match evaluation rather than a
+small-model artefact.
+
+A model with high precision and imperfect recall produces output that can be treated
+as a confirmed active subset, not a complete active list. Downstream reconciliation
+workflows should be designed accordingly. Model output flags confident positives;
+human review focuses on completeness rather than accuracy checking. That is a
+different cognitive task, and potentially a more tractable one. Instead of verifying
+every model output item is correct, the clinician's job becomes catching what the
+model missed.
+
+\paragraph{Polypharmacy patients are systematically underserved.}
+Small models hit a hard capacity ceiling around 7--10 concurrent medications. For
+Mistral-7B, this ceiling is stark: recall at 11 active medications falls to 0.24.
+For context, roughly 30\% of adults aged 50--80 take five or more prescription
+medications \citep{lantz2020polypharmacy}. Patients with 10+ active medications are
+rare in the general population, but they are the patients most likely to present at
+hospital handoffs and most at risk from reconciliation errors. The small-model capacity
+ceiling affects precisely the population where medication reconciliation matters most.
+
+Llama-3.3-70B does not show this ceiling. It maintains near-perfect recall through
+16 active medications. The practical implication: for clinical deployments involving
+complex, multi-medication patients, model scale may matter more than serialisation
+choice. No format of Mistral-7B reaches Llama-3.3-70B's performance on the hardest
+patients.
+
+\paragraph{Domain pretraining without instruction tuning is insufficient.}
+BioMistral produced F1 = 0.0 on all 4,000 runs assigned to it. Its sibling model,
+Mistral-7B (same architecture, same parameter count), produced F1 = 0.9149 on
+Strategy C. The domain knowledge was there. The instruction-following capability was
+not. BioMistral was further-pretrained on 3B tokens of PubMed Central text starting
+from Mistral-7B Instruct v0.1, which should have preserved instruction-following
+capability in principle. It did not. The catastrophic forgetting of structured
+response generation during continued pretraining rendered it entirely unusable,
+regardless of input format.
+
+This aligns with \citet{kim2025medicalhallucination}, who show that general-purpose
+models outperform medical-specialised models on structured clinical tasks (76.6\% vs.\
+51.3\% hallucination-free) and interpret the gap as a reasoning failure rather than a
+knowledge deficit. Our result is more extreme. BioMistral does not underperform; it
+produces zero useful output. For clinical NLP practitioners, the lesson is clear:
+instruction-following capability is the prerequisite. A general-purpose instruction-tuned
+model at the same parameter count will reliably outperform a domain-pretrained base
+model on these tasks, regardless of medical vocabulary coverage.

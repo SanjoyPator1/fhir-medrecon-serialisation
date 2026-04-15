@@ -1,0 +1,67 @@
+\section{Introduction}
+\label{sec:intro}
+
+Every hospital transfer, every discharge, every clinical handoff carries a risk: a
+medication gets dropped from the list, a dose gets duplicated, or a drug a patient
+has been taking for years simply disappears from the record. Medication reconciliation
+is the process of comparing a patient's complete medication history against every new
+prescription, and it exists specifically to catch these errors. Medication discrepancies
+occur in over 60\% of patients at care transitions, and a significant fraction of these
+discrepancies lead to preventable adverse events \citep{asgari2025clinicalsafety}.
+
+Large language models are beginning to be proposed and deployed for medication
+reconciliation, often as part of broader FHIR-based EHR query pipelines. The appeal
+is clear: LLMs can read unstructured clinical notes, understand medication names and
+dosage semantics, and produce structured output, capabilities that rule-based systems
+often struggle with. But the standard format for patient health records, FHIR R4,
+is deeply nested JSON built around numeric ontology codes (RxNorm, SNOMED, LOINC)
+rather than readable medication names. A single patient's complete FHIR bundle can
+exceed 800,000 lines of JSON \citep{schmiedmayer2025llmonfhir}, far beyond any current
+context window. Before a model can reason over a patient's medication history, that
+history must be preprocessed, selected, and formatted into a prompt.
+
+Prior work has recognised the preprocessing challenge. \citet{schmiedmayer2025llmonfhir}
+and \citet{schmiedmayer2024llmonfhir} use function-calling to select relevant FHIR
+resource types before passing data to a model. \citet{wu2026plannerauditor} apply
+deterministic auditing pipelines on top of LLM-generated FHIR plans. What none of
+these works have systematically studied is a more fundamental question: given a
+task-relevant subset of FHIR data, does the \textit{format} in which that data is
+presented to the model matter? Should it be raw JSON? A markdown table? A clinical
+narrative? A chronological timeline?
+
+This is not a hypothetical question. Every integration pipeline that sends FHIR data
+to an LLM makes an implicit serialisation choice. That choice is almost always made
+based on convenience or convention, not on empirical evidence about which format
+produces better outcomes. We set out to generate that evidence.
+
+\paragraph{Contributions.} This paper makes the following contributions:
+
+\begin{itemize}
+  \item A controlled benchmark of 200 synthetic patients $\times$ 4 serialisation
+        strategies $\times$ 5 open-weight models = 4,000 total inference runs, measuring
+        precision, recall, and F1 for medication name extraction from FHIR bundles.
+
+  \item Evidence that serialisation strategy has a statistically significant,
+        clinically meaningful effect on performance for models up to 8B parameters
+        (Mistral-7B: $r = 0.617$, $p < 10^{-10}$), and that the optimal strategy is
+        model-size-dependent: Clinical Narrative is best for $\leq$8B models; Raw JSON
+        is best at 70B.
+
+  \item Evidence that omission dominates hallucination in this task. Mean precision
+        exceeds mean recall in all 20 model and strategy combinations, though
+        hallucinations do occur, which changes how clinical safety auditing of these
+        systems should be framed.
+
+  \item Evidence of a hard capacity ceiling for smaller models: recall degrades sharply
+        for patients with more than 7--10 concurrent active medications, affecting the
+        highest-risk polypharmacy patients.
+
+  \item A reproducible open pipeline using Synthea, Ollama, and no proprietary APIs,
+        running on an AWS \texttt{g6e.xlarge} instance (NVIDIA L40S, 48 GB VRAM).
+\end{itemize}
+
+The rest of this paper is structured as follows. Section~\ref{sec:related} reviews
+related work; Section~\ref{sec:methods} describes the dataset, strategies, models,
+and evaluation; Section~\ref{sec:results} reports findings; Section~\ref{sec:discussion}
+interprets them for clinical deployment; Section~\ref{sec:limitations} discusses
+limitations.

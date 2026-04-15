@@ -1,0 +1,183 @@
+\section{Methods}
+\label{sec:methods}
+
+\subsection{Dataset}
+
+We generate a synthetic cohort of 200 patients using Synthea \cite{walonoski2018synthea},
+an open-source patient simulator that produces medically realistic FHIR R4 records based
+on clinical guidelines, public health statistics, and US census data. Each patient is
+aged 40--75 at simulation end, has at least 10 years of medication history, and has at
+least one currently active medication. Because Synthea creates one \texttt{MedicationRequest}
+resource per prescription refill, a patient with a 25-year chronic disease history can
+accumulate hundreds of entries for a handful of distinct drugs. No real patient data is
+used at any point.
+
+Ground truth is defined as the set of distinct medication names from all
+\texttt{MedicationRequest} resources with \texttt{status = "active"} in the FHIR bundle.
+Names are taken from the \texttt{medicationCodeableConcept.text} field, exactly as they
+appear in the record. The ground truth set for the 200 patients ranges from 1 to 16 active
+medications, with a median of 5.
+
+\subsection{Serialisation Strategies}
+\label{sec:strategies}
+
+All four strategies receive the same FHIR bundle and produce a text string that is
+embedded verbatim into the model prompt. We strip administrative fields
+(\texttt{subject}, \texttt{encounter}, \texttt{requester}, \texttt{meta}, \texttt{id})
+from all strategies; the model sees only clinically relevant content. Table~\ref{tab:strategy_comparison}
+summarises how the four strategies differ along the dimensions that matter for model
+comprehension: structural form, ordering, and how the active/historical distinction is
+signalled. Appendix~\ref{app:strategy_examples} shows the complete serialised output of
+each strategy for a single patient.
+
+\begin{table*}[t]
+\centering
+\small
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{p{2.4cm} p{3.2cm} p{3.2cm} p{3.2cm} p{3.2cm}}
+\toprule
+\textbf{Aspect} & \textbf{A: Raw JSON} & \textbf{B: Markdown Table} & \textbf{C: Clinical Narrative} & \textbf{D: Chrono. Timeline} \\
+\midrule
+Structural form &
+Nested FHIR JSON, indented &
+Six-column markdown table &
+One sentence per medication &
+Pipe-delimited timeline lines \\
+
+Ordering &
+As in the FHIR bundle, grouped by resource &
+Chronological, oldest to newest &
+Active medications first, then history &
+Strictly chronological, oldest to newest \\
+
+Active/historical signal &
+\texttt{"status"} field inside each resource &
+\texttt{active} or \texttt{completed} cell in the Status column &
+Explicit heading: \textit{``Currently active medications:''} &
+Inline \texttt{active} token on each line, no separation \\
+\bottomrule
+\end{tabular}
+\caption{The four serialisation strategies compared along their structural, ordering,
+  and status-signalling dimensions. Full verbatim examples of each strategy applied
+  to the same patient appear in Appendix~\ref{app:strategy_examples}.}
+\label{tab:strategy_comparison}
+\end{table*}
+
+\paragraph{Strategy A — Raw JSON (baseline).}
+\texttt{MedicationRequest} resources are serialised as indented JSON with clinical
+fields intact. Because Synthea emits one resource per refill, the full JSON bundle
+for some patients exceeds the context windows of the smaller models in our evaluation
+(Mistral-7B and BioMistral-7B at 32K tokens). For Strategy A only, we therefore cap
+the input at 100 resources: all active medications are kept, and the remaining slots
+are filled with the most recent historical records. Strategies B, C, and D apply no
+such cap because their more compact representations (a flat table, per-medication
+sentences, and pipe-delimited lines) fit the full history within context for every
+patient in the cohort. This asymmetry is itself part of what Strategy A represents
+in practice: a raw-JSON pipeline is not deployable for typical chronic-disease
+histories without some form of truncation or preprocessing, so the active-first cap
+is a minimally-invasive form of the filtering any real deployment would have to
+perform. It is a conservative choice for Strategy A in our comparison: active items
+are guaranteed to appear, so any remaining performance gap against the other
+strategies reflects format effects rather than missing input.
+
+\paragraph{Strategy B — Markdown Table.}
+All \texttt{MedicationRequest} resources are flattened into a single markdown table
+(columns: Medication, RxNorm code, Status, Prescribed date, Dose, Frequency), sorted
+chronologically. Missing dose or frequency fields are shown as a dash. This format is
+structurally explicit and human-readable while remaining machine-parseable.
+
+\paragraph{Strategy C — Clinical Narrative.}
+Each medication becomes a plain-English sentence. Active medications appear first under
+a labelled heading (\textit{Currently active medications:}), followed by a separate
+section for historical medications. This structure explicitly signals the task-relevant
+partition, reducing the model's need to classify status from raw field values.
+
+\paragraph{Strategy D — Chronological Timeline.}
+All \texttt{MedicationRequest} resources are sorted strictly by prescription date,
+oldest to newest, regardless of status. Each entry is a pipe-delimited line showing
+date, status, medication name, and dosage. This format makes no attempt to distinguish
+active from historical medications — the model must reason across the full temporal
+sequence to determine what is currently active.
+
+\subsection{Models}
+\label{sec:models}
+
+We evaluate five open-weight models spanning two orders of magnitude in parameter count.
+Table~\ref{tab:models} summarises specifications. All models are served locally via
+Ollama using 4-bit quantisation (Q4\_K\_M) on an AWS \texttt{g6e.xlarge} instance
+(NVIDIA L40S, 48 GB VRAM). No proprietary APIs are used.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lrrll}
+\toprule
+\textbf{Model} & \textbf{Params} & \textbf{Context} & \textbf{Type} & \textbf{Quant.} \\
+\midrule
+Phi-3.5-mini   & 3.8B  & 128K & Instruct & Q4\_K\_M \\
+Mistral-7B     & 7B    & 32K  & Instruct & Q4\_K\_M \\
+BioMistral-7B  & 7B    & 32K  & Pretrain & Q4\_K\_M \\
+Llama-3.1-8B   & 8B    & 128K & Instruct & Q4\_K\_M \\
+Llama-3.3-70B  & 70B   & 128K & Instruct & Q4\_K\_M \\
+\bottomrule
+\end{tabular}
+\caption{Models evaluated. BioMistral is a further-pretrained base model (not
+  instruction-tuned), included to test whether domain pretraining alone is sufficient.
+  All other models are instruction-tuned.}
+\label{tab:models}
+\end{table}
+
+BioMistral~\cite{labrak2024biomistral} is further-pretrained on PubMed Central text but
+is \textit{not} instruction-tuned. We include it specifically to test whether domain
+pretraining alone is sufficient for a structured extraction task, given that several
+recent deployments use completion-style medical models for clinical NLP tasks.
+
+\subsection{Prompt Design}
+\label{sec:prompt}
+
+We use a single prompt template across all models and all strategies:
+
+\begin{quote}
+\small
+\textit{You are a clinical assistant performing medication reconciliation.
+You will be given a patient's medication history. Your task is to identify all
+medications that are currently ACTIVE for this patient.
+A medication is currently active if its status is ``active''. Medications with
+status ``completed'', ``stopped'', ``cancelled'', or ``on-hold'' are historical
+and must NOT be included in your answer.
+Return your answer as a JSON array of medication names exactly as they appear
+in the data. Return nothing else — no explanation, no prose, just the JSON array.
+If there are no active medications, return an empty array: []}
+\end{quote}
+
+\noindent
+For strategies B, C, and D, which use dashes to indicate missing dosage fields, an
+additional sentence is appended clarifying that a dash represents missing data, not
+inactive status. No chain-of-thought prompting or few-shot examples are used; the
+prompt is designed to elicit clean structured output directly. Temperature is set to
+0.0 for all runs.
+
+\subsection{Evaluation}
+\label{sec:evaluation}
+
+We parse the model output as a JSON array of strings and compute precision,
+recall, and F1 against the ground truth medication name set using \textit{exact
+string match}. A predicted medication counts as correct only if it appears
+verbatim in the ground truth set. This is intentionally strict: name variations
+such as ``Metformin 500 MG Oral Tablet'' versus ``metformin 500mg'' count as a
+miss. F1 under exact match therefore represents a lower bound on real-world
+performance, where fuzzy matching would recover some of these near-misses.
+If the model output cannot be parsed as a JSON array, we record
+\texttt{parse\_failed=True} and assign precision = recall = F1 = 0.
+
+We run 200 patients $\times$ 4 strategies $\times$ 5 models = 4,000 total
+inference runs.
+
+For statistical comparisons, we use the Wilcoxon signed-rank test
+\citep{wilcoxon1945individual}, a non-parametric test appropriate for the
+non-normal, bounded F1 distributions we observe. For within-model strategy
+comparisons (Strategy A vs.\ Strategy C), p-values are Bonferroni-corrected
+for four simultaneous tests per model ($k=4$). Effect sizes are reported as
+$r = |Z| / \sqrt{N}$, where $N$ is the number of patient pairs, following
+\citet{field2009discovering}. We use the thresholds $r \geq 0.1$ (small),
+$r \geq 0.3$ (medium), and $r \geq 0.5$ (large).
