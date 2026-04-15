@@ -56,7 +56,8 @@ MODEL_CONFIG: dict = {
     "phi-3.5-mini": {"backend": "ollama", "tag": "phi3.5",                          "options": {"num_ctx": 65536}},
     "mistral-7b":   {"backend": "ollama", "tag": "mistral",                          "options": {"num_ctx": 65536}},
     "llama-3.1-8b": {"backend": "ollama", "tag": "llama3.1:8b",                      "options": {"num_ctx": 65536}},
-    "biomistral":   {"backend": "ollama", "tag": "cniongolo/biomistral:latest",       "options": {"num_ctx": 65536}},
+    # num_predict=512: biomistral generates runaway output on narrative strategies without a cap.
+    "biomistral":   {"backend": "ollama", "tag": "cniongolo/biomistral:latest",       "options": {"num_ctx": 65536, "num_predict": 512}, "timeout": 1200},
     # 70B stays at 32768.
     # timeout=1200
     "llama-3.3-70b":{"backend": "ollama", "tag": "llama3.3-research:latest", "options": {"num_ctx": 32768}, "timeout": 1200},
