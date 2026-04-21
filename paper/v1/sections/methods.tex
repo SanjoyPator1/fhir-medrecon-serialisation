@@ -104,28 +104,34 @@ sequence to determine what is currently active.
 
 We evaluate five open-weight models spanning two orders of magnitude in parameter count.
 Table~\ref{tab:models} summarises specifications. All models are served locally via
-Ollama using 4-bit quantisation (Q4\_K\_M) on an AWS \texttt{g6e.xlarge} instance
+Ollama using 4-bit quantisation on an AWS \texttt{g6e.xlarge} instance
 (NVIDIA L40S, 48 GB VRAM). No proprietary APIs are used.
 
-\begin{table}[h]
+\begin{table*}[t]
 \centering
 \small
-\begin{tabular}{lrrll}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{lrrrll}
 \toprule
-\textbf{Model} & \textbf{Params} & \textbf{Context} & \textbf{Type} & \textbf{Quant.} \\
+\textbf{Model} & \textbf{Params} & \textbf{Native Ctx} & \textbf{Runtime Ctx} & \textbf{Type} & \textbf{Quant.} \\
 \midrule
-Phi-3.5-mini   & 3.8B  & 128K & Instruct & Q4\_K\_M \\
-Mistral-7B     & 7B    & 32K  & Instruct & Q4\_K\_M \\
-BioMistral-7B  & 7B    & 32K  & Pretrain & Q4\_K\_M \\
-Llama-3.1-8B   & 8B    & 128K & Instruct & Q4\_K\_M \\
-Llama-3.3-70B  & 70B   & 128K & Instruct & Q4\_K\_M \\
+Phi-3.5-mini   & 3.8B  & 128K & 64K          & Instruct & Q4\_0   \\
+Mistral-7B     & 7B    & 32K  & 64K$^{*}$    & Instruct & Q4\_K\_M \\
+BioMistral-7B  & 7B    & 32K  & 64K$^{*}$    & Pretrain & Q4\_K\_M \\
+Llama-3.1-8B   & 8B    & 128K & 64K          & Instruct & Q4\_K\_M \\
+Llama-3.3-70B  & 70B   & 128K & 32K$^{\dag}$ & Instruct & Q4\_K\_M \\
 \bottomrule
 \end{tabular}
-\caption{Models evaluated. BioMistral is a further-pretrained base model (not
-  instruction-tuned), included to test whether domain pretraining alone is sufficient.
-  All other models are instruction-tuned.}
+\caption{Models evaluated. \textit{Native Ctx} is the model's trained maximum context;
+  \textit{Runtime Ctx} is the \texttt{num\_ctx} setting passed to Ollama for our runs.
+  $^{*}$Mistral-7B and BioMistral-7B were run with a runtime context exceeding their
+  native 32K window; this affects 13 strategy-A patients whose serialised prompts
+  exceed 32K tokens. $^{\dag}$Llama-3.3-70B was capped at 32K to keep weights plus KV
+  cache within the 48 GB L40S VRAM budget. BioMistral is a further-pretrained base
+  model (not instruction-tuned), included to test whether domain pretraining alone is
+  sufficient. All other models are instruction-tuned.}
 \label{tab:models}
-\end{table}
+\end{table*}
 
 BioMistral~\cite{labrak2024biomistral} is further-pretrained on PubMed Central text but
 is \textit{not} instruction-tuned. We include it specifically to test whether domain
