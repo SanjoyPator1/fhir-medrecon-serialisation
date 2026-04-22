@@ -1,0 +1,21 @@
+Patient: Cleveland582 Hyatt152 | Age: 51 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2007-05-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2013-03-15 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-03-09 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2017-11-06 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-03-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2018-05-29 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-03-09 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-03-08 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2021-02-06 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-03-18 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-03-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2022-09-06 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-03-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-08-31 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-03-17 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2025-03-17 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2026-03-17 | 1.0 | 1 time(s) per 1 day |

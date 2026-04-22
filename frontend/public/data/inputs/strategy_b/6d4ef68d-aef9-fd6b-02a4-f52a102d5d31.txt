@@ -1,0 +1,135 @@
+Patient: Hal307 Grimes165 | Age: 57 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1995-12-19 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1995-12-19 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1996-04-23 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1996-04-23 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-03-15 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1997-03-25 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1997-03-25 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1997-04-01 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1997-04-01 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1997-04-29 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1997-04-29 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1998-05-05 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1998-05-05 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 1999-05-11 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 1999-05-11 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2000-05-16 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2000-05-16 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2000-07-25 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2000-07-25 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2001-05-22 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2001-05-22 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2002-05-28 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2002-05-28 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2003-06-03 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2003-06-03 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2004-06-08 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2004-06-08 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2005-06-14 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2005-06-14 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2006-04-04 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2006-04-04 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2006-06-20 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2006-06-20 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2007-06-26 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2007-06-26 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2008-07-01 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2008-07-01 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2009-07-07 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2009-07-07 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2010-07-13 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2010-07-13 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2011-07-19 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2011-07-19 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2012-07-24 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2012-07-24 | - | - |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2013-07-30 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2013-07-30 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-02-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-08-05 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2014-08-05 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2014-08-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-08-11 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2015-08-11 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2015-08-11 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-05-17 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2016-05-17 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2016-05-17 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-08-16 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2016-08-16 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2016-08-16 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-02-07 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2017-02-07 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2017-02-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-08-22 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2017-08-22 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2017-08-22 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-08-28 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2018-08-28 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2018-08-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-04-09 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2019-04-09 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2019-04-09 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-09-03 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2019-09-03 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2019-09-03 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-08-25 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2020-08-25 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2020-08-25 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-09-08 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2020-09-08 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2020-09-08 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-09-14 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2021-09-14 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2021-09-14 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-09-20 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2022-09-20 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2022-09-20 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-10-18 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2022-10-18 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2022-10-18 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-09-26 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2023-09-26 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2023-09-26 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2023-10-03 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2023-10-03 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2023-10-03 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2023-10-03 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2023-10-10 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2023-10-10 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2023-10-10 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2023-10-10 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2023-10-10 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2023-10-10 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2023-10-10 | - | - |
+| sevoflurane 1000 MG/ML Inhalation Solution | 200243 | completed | 2023-10-10 | - | - |
+| 5 ML SUFentanil 0.05 MG/ML Injection | 1809104 | completed | 2023-10-10 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-10-01 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2024-10-01 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2024-10-01 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-10-07 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-10-07 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-10-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-10-14 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-10-14 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-10-14 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-10-21 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-10-21 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-10-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-10-28 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-10-28 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-10-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-11-04 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-11-04 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-11-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2025-11-11 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | completed | 2025-11-11 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | completed | 2025-11-11 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-11-18 | 1.0 | 4 time(s) per 1 day |
+| budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] | 616830 | active | 2025-11-18 | - | - |
+| NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] | 745752 | active | 2025-11-18 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2025-11-25 | - | - |

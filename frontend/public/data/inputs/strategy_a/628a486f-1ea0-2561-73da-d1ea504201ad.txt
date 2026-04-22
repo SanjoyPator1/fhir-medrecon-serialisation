@@ -1,0 +1,979 @@
+Patient: Eilene124 Mohr916 | Age: 58 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1359133",
+          "display": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+        }
+      ],
+      "text": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+    },
+    "authoredOn": "1998-09-16T07:37:56+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "1999-09-11T07:37:56+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1366343",
+          "display": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+        }
+      ],
+      "text": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2003-05-18T02:51:34+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-11-18T12:07:24+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-12-09T08:33:39+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-12-31T10:40:04+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-01-19T16:48:39+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-02-09T23:31:48+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-03-04T05:27:16+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-03-23T07:43:27+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-04-14T07:25:56+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1732186",
+          "display": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-05-17T21:23:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-06-07T18:55:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-06-30T04:46:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-07-19T10:49:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-08-10T23:51:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-08-31T04:43:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-09-23T04:50:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-10-15T11:41:09+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "597195",
+          "display": "Carboplatin 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Carboplatin 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2015-10-22T04:04:09+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ],
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "198240",
+          "display": "Tamoxifen 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Tamoxifen 10 MG Oral Tablet"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2016-08-31T07:37:56+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1043400",
+          "display": "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution"
+        }
+      ],
+      "text": "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution"
+    },
+    "authoredOn": "2017-08-15T21:11:28+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2020-10-28T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2020-10-28T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2020-10-28T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2020-10-28T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-11-03T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2021-11-03T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2022-11-09T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2022-11-09T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-11-15T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2023-11-15T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-20T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-20T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-11-26T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308136",
+          "display": "amLODIPine 2.5 MG Oral Tablet"
+        }
+      ],
+      "text": "amLODIPine 2.5 MG Oral Tablet"
+    },
+    "authoredOn": "2025-11-26T07:37:56+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

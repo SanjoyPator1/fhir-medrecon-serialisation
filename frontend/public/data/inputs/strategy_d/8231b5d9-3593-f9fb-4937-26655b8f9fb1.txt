@@ -1,0 +1,22 @@
+Patient: Horacio317 Ocampo729 | Age: 62 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-09-17 | active       | ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325) | -
+1997-04-18 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2002-03-18 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2002-03-18 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-09-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-09-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-09-08 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-03-29 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2017-09-08 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-05-09 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2018-09-08 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-09-08 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-09-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-09-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-04-12 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2022-09-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-09-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-09-06 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

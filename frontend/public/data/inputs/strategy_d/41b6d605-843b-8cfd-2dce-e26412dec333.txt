@@ -1,0 +1,77 @@
+Patient: Sharan181 Kulas532 | Age: 56 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1998-06-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1998-09-25 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2000-07-17 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2001-07-12 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2002-07-07 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2003-07-02 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2005-12-18 | completed    | {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762) | -
+2007-12-08 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2008-12-02 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2009-11-27 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2013-02-15 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2013-02-15 | completed    | Sodium Chloride 9 MG/ML Injectable Solution (RxNorm: 313002) | -
+2013-02-15 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2013-02-15 | completed    | 1 ML Morphine Sulfate 5 MG/ML Injection (RxNorm: 1732136) | -
+2013-02-15 | completed    | Piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149) | -
+2013-02-15 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2013-02-15 | completed    | Lorazepam 2 MG/ML Injectable Solution (RxNorm: 238100) | -
+2013-02-15 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2013-02-15 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2013-02-15 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2013-02-15 | completed    | 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104) | -
+2013-02-16 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2013-11-06 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2014-02-04 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-02-16 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-04-04 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-06-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-08-21 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-11-01 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2015-02-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-02-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2015-02-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-10-27 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2016-02-28 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-02-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2016-02-28 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-10-21 | completed    | levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] (RxNorm: 1856546) | -
+2017-03-05 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-03-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2017-03-05 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-10-19 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2018-03-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-03-11 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2018-03-11 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-10-14 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2019-03-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-03-17 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2019-03-17 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-03-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-03-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-03-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2021-03-28 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-03-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2021-03-28 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-04-03 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-04-03 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2022-04-03 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-04-09 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-04-09 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2023-04-09 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-04-14 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-04-14 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-04-14 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-04-20 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-04-20 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-04-20 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-06-13 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-06-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-06-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-06-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-06-29 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-06-29 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-06-29 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day

@@ -1,0 +1,42 @@
+Patient: Darin74 Smith67 | Age: 50 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-05-29 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2013-04-24 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2020-11-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-11-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-12-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-01-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-01-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-02-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-04-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-04-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-04-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-11-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-11-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-11-21 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-11-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-11-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-11-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-12-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-11-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-11-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-11-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-12-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-12-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-12-06 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-12-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-12-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-12-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-12-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-12-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-12-18 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2024-12-18 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2024-12-18 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2024-12-18 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2024-12-25 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-12-17 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-12-17 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-12-17 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-12-25 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

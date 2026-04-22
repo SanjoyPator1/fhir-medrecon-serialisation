@@ -1,0 +1,19 @@
+Patient: Josef103 Wilkinson796 | Age: 57 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-12-08 | completed    | 12 HR Cefaclor 500 MG Extended Release Oral Tablet (RxNorm: 309043) | 1.0, 2 time(s) per 1 day
+1996-12-08 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2002-07-03 | completed    | Naproxen 500 MG Oral Tablet (RxNorm: 198014) | -
+2002-07-03 | completed    | Allopurinol 100 MG Oral Tablet (RxNorm: 197319) | -
+2006-04-18 | completed    | Colchicine 0.6 MG Oral Tablet (RxNorm: 197541) | -
+2006-04-18 | completed    | Allopurinol 100 MG Oral Tablet (RxNorm: 197319) | -
+2007-09-26 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2011-04-14 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2011-04-14 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2011-04-14 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2011-04-14 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2011-05-05 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2016-01-22 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2017-03-27 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2022-05-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -

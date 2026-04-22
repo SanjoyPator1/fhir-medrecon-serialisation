@@ -1,0 +1,49 @@
+Patient: Basil991 Brekke496 | Age: 68 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1972-06-01 | - | - |
+| Doxycycline Monohydrate 100 MG Oral Tablet | 1650142 | completed | 1975-08-27 | 1.0 | 2 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1975-08-27 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 1981-07-15 | - | - |
+| piperacillin 2000 MG / tazobactam 250 MG Injection | 1659131 | completed | 1985-05-20 | - | - |
+| 150 ML vancomycin 5 MG/ML Injection | 1807510 | completed | 1985-05-20 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 1986-02-15 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1987-08-20 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1992-06-21 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1992-10-04 | - | - |
+| zidovudine 300 MG Oral Tablet | 199663 | completed | 1993-03-02 | 1.0 | 2 time(s) per 1 day |
+| zalcitabine 0.75 MG Oral Tablet | 313760 | completed | 1993-11-27 | 1.0 | 3 time(s) per 1 day |
+| zalcitabine 0.75 MG Oral Tablet | 313760 | completed | 1994-02-27 | 1.0 | 3 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 1994-12-02 | 1.0 | 2 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 1995-03-05 | 1.0 | 2 time(s) per 1 day |
+| zidovudine 300 MG Oral Tablet | 199663 | completed | 1995-03-12 | 1.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1995-03-12 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1995-07-31 | - | - |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1996-03-10 | 1.0 | 1 time(s) per 1 day |
+| zidovudine 300 MG Oral Tablet | 199663 | completed | 1996-03-10 | 1.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1997-03-16 | 1.0 | 1 time(s) per 1 day |
+| zidovudine 300 MG Oral Tablet | 199663 | completed | 1997-03-16 | 1.0 | 2 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 1997-04-12 | 1.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1997-04-12 | 1.0 | 1 time(s) per 1 day |
+| ritonavir 100 MG Oral Capsule | 317150 | completed | 1997-04-12 | 6.0 | 2 time(s) per 1 day |
+| ritonavir 100 MG Oral Capsule | 317150 | completed | 1998-03-22 | 6.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1998-03-22 | 1.0 | 1 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 1998-03-22 | 1.0 | 2 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1998-03-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-04-21 | 1.0 | 1 time(s) per 1 day |
+| ritonavir 100 MG Oral Capsule | 317150 | completed | 1999-03-28 | 6.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 1999-03-28 | 1.0 | 1 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 1999-03-28 | 1.0 | 2 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1999-03-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-03-28 | 1.0 | 1 time(s) per 1 day |
+| ritonavir 100 MG Oral Capsule | 317150 | completed | 2000-04-02 | 6.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | completed | 2000-04-02 | 1.0 | 1 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | completed | 2000-04-02 | 1.0 | 2 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-04-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-04-02 | 1.0 | 1 time(s) per 1 day |
+| ritonavir 100 MG Oral Capsule | 317150 | active | 2001-04-08 | 6.0 | 2 time(s) per 1 day |
+| didanosine 400 MG Delayed Release Oral Capsule | 284988 | active | 2001-04-08 | 1.0 | 1 time(s) per 1 day |
+| stavudine 40 MG Oral Capsule | 313110 | active | 2001-04-08 | 1.0 | 2 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2001-04-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2001-04-08 | 1.0 | 1 time(s) per 1 day |

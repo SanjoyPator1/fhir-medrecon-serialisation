@@ -1,0 +1,28 @@
+Patient: Kimberlee228 Fisher429 | Age: 69 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2000-04-07 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2002-05-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2004-09-12 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2008-02-24 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2011-04-14 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2012-03-21 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-12-17 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-12-17 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2018-12-23 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-12-29 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2021-01-03 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-01-09 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2023-01-15 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2024-01-21 | - | - |
+| nitroglycerin 0.4 MG Sublingual Tablet | 198039 | completed | 2024-08-29 | - | - |
+| 50 ML bivalirudin 5 MG/ML Injection | 1997015 | completed | 2024-08-29 | - | - |
+| ticagrelor 90 MG Oral Tablet | 1116635 | completed | 2024-08-29 | - | - |
+| aspirin 81 MG Oral Tablet | 243670 | active | 2024-08-29 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | active | 2024-08-29 | - | - |
+| rosuvastatin calcium 10 MG Oral Tablet | 859747 | active | 2024-08-29 | - | - |
+| lisinopril 5 MG Oral Tablet | 311354 | active | 2024-08-29 | - | - |
+| prasugrel 10 MG Oral Tablet | 855812 | active | 2024-08-29 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2025-01-26 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2026-02-01 | - | - |

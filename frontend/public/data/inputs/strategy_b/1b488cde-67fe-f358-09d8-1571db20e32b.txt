@@ -1,0 +1,13 @@
+Patient: Merry217 Parisian75 | Age: 60 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2006-02-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2006-04-05 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2014-12-17 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2014-12-17 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2014-12-17 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2014-12-17 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2018-01-24 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2019-09-21 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2025-10-17 | - | - |

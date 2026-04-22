@@ -1,0 +1,34 @@
+Patient: Lorena247 Cedillo160 | Age: 47 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1995-07-31 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1996-05-04 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule (RxNorm: 1648755) | 1.0, 2 time(s) per 1 day
+1996-05-05 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule (RxNorm: 1648755) | 1.0, 2 time(s) per 1 day
+1996-07-25 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+1996-08-24 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2000-07-04 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2001-04-16 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2002-06-24 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2005-10-15 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2006-10-28 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2007-10-23 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2008-10-17 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2009-10-12 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2013-09-21 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2015-09-11 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2016-01-09 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2018-01-20 | completed    | 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2019-01-15 | completed    | levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] (RxNorm: 1605257) | -
+2019-06-28 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2020-01-12 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2021-01-06 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2022-01-01 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2023-12-22 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2024-06-06 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-04-26 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2025-09-06 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2025-09-06 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2025-09-06 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2025-09-06 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2025-12-11 | active       | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -

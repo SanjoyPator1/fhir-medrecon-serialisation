@@ -1,0 +1,15 @@
+Patient: Silas208 Predovic534 | Age: 52 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1997-04-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-07-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2002-09-02 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2003-03-23 | - | - |
+| Vitamin B12 5 MG/ML Injectable Solution | 2001499 | active | 2005-07-12 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2005-08-16 | - | - |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2008-09-01 | 1.0 | 1 time(s) per 6 hour |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2008-09-01 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2012-06-07 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2021-05-29 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2025-11-19 | - | - |

@@ -1,0 +1,2166 @@
+Patient: Lou594 Conroy74 | Age: 55 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1998-06-22T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308182",
+          "display": "Amoxicillin 250 MG Oral Capsule"
+        }
+      ],
+      "text": "Amoxicillin 250 MG Oral Capsule"
+    },
+    "authoredOn": "2003-02-27T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "418577003",
+                "display": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+              }
+            ],
+            "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 2,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "857005",
+          "display": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet"
+    },
+    "authoredOn": "2003-02-27T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 6.0,
+            "periodUnit": "h"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2003-02-27T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834102",
+          "display": "Penicillin V Potassium 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 500 MG Oral Tablet"
+    },
+    "authoredOn": "2010-01-27T16:11:58+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2014-01-31T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2014-04-02T03:17:32+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2014-04-30T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2014-04-30T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2014-06-01T03:17:32+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2015-05-06T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2015-05-06T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2015-05-06T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2016-05-11T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2016-05-11T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2016-05-11T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2017-05-17T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2017-05-17T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2017-05-17T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2017-07-05T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2017-07-05T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2017-07-05T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2018-05-23T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2018-05-23T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2018-05-23T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2019-05-29T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2019-05-29T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2019-05-29T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2020-06-03T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2020-06-03T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2020-06-03T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2020-06-03T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2021-06-09T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2021-06-09T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-06-09T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2021-06-09T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2022-06-15T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2022-06-15T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2022-06-15T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2022-06-15T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2023-06-21T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2023-06-21T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-06-21T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2023-06-21T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2024-06-26T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2024-06-26T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-06-26T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2024-06-26T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1049504",
+          "display": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+        }
+      ],
+      "text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]"
+    },
+    "authoredOn": "2025-07-02T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "835603",
+          "display": "tramadol hydrochloride 50 MG Oral Tablet"
+        }
+      ],
+      "text": "tramadol hydrochloride 50 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-02T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-02T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "856987",
+          "display": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-02T18:11:58+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four to six hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225757006",
+                "display": "Every four to six hours (qualifier value)"
+              }
+            ],
+            "text": "Every four to six hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "309362",
+          "display": "Clopidogrel 75 MG Oral Tablet"
+        }
+      ],
+      "text": "Clopidogrel 75 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-09T18:11:58+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312961",
+          "display": "Simvastatin 20 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 20 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-09T18:11:58+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "866412",
+          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+        }
+      ],
+      "text": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+    },
+    "authoredOn": "2025-07-09T18:11:58+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "705129",
+          "display": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+        }
+      ],
+      "text": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    },
+    "authoredOn": "2025-07-09T18:11:58+05:30"
+  }
+]

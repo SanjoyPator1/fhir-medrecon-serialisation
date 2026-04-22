@@ -1,0 +1,34 @@
+Patient: Toya963 Bogisich202 | Age: 61 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-10-09 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1997-10-04 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1998-09-29 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2000-10-23 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2000-10-23 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2001-10-16 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+2002-10-11 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2009-01-30 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2010-01-25 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2011-01-20 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2012-01-15 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2012-02-23 | completed    | Amoxicillin 250 MG Oral Capsule (RxNorm: 308182) | 1.0, 2 time(s) per 1 day
+2012-02-23 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2013-01-09 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2014-01-04 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2014-02-12 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-11-12 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-12-30 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2015-11-18 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2016-11-23 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2017-11-29 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2018-12-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2019-12-11 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-12-16 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-12-30 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2021-12-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2022-12-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-01-03 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-01-08 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2026-01-14 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -

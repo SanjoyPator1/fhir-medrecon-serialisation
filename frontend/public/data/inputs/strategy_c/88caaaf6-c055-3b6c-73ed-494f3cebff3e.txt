@@ -1,0 +1,12 @@
+Patient: Ruben688 Donnelly343 | Age: 53 | Gender: male
+
+Currently active medications:
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-11-07, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1999-04-30, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2007-04-26, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2012-09-06, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2020-08-14, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-11-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-11-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

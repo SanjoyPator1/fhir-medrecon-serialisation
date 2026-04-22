@@ -1,0 +1,10 @@
+Patient: Armand155 Gerhold939 | Age: 68 | Gender: male
+
+Currently active medications:
+  - Diazepam 5 MG Oral Tablet (RxNorm: 197591), prescribed on 1969-04-29, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1958-08-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1958-08-12, status: completed. Dosage not recorded.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1964-10-19, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 1964-11-10, status: completed. Dosage not recorded.

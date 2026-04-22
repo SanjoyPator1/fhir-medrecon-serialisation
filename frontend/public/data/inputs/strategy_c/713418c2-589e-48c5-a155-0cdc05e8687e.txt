@@ -1,0 +1,123 @@
+Patient: Teddy976 Abbott774 | Age: 56 | Gender: male
+
+Currently active medications:
+  - 24 HR nicotine 0.292 MG/HR Transdermal System (RxNorm: 198031), prescribed on 1998-11-27, status: active. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-02-20, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2026-02-20, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2026-02-20, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-02-20, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 1998-02-11, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2008-12-07, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2010-05-16, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2010-10-08, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2010-10-08, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2011-10-14, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2012-10-19, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2013-10-25, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2014-10-31, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2014-10-31, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2015-11-06, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2015-11-06, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2016-04-15, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2016-04-15, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2016-11-11, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2016-11-11, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2017-04-07, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2017-04-07, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2017-11-17, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2017-11-17, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2018-11-23, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2018-11-23, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2019-11-29, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2019-11-29, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2019-12-27, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2019-12-27, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2020-05-22, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2020-05-22, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2020-12-04, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2020-12-04, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-04, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-04, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-04, status: completed. Dosage not recorded.
+  - chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758), prescribed on 2021-02-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-05, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-05, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-05, status: completed. Dosage not recorded.
+  - chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758), prescribed on 2021-02-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-06, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-06, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-06, status: completed. Dosage not recorded.
+  - chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758), prescribed on 2021-02-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-07, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-07, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-07, status: completed. Dosage not recorded.
+  - chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758), prescribed on 2021-02-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-08, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-08, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-08, status: completed. Dosage not recorded.
+  - chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758), prescribed on 2021-02-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-09, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-09, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-09, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-10, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-10, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-10, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-11, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-11, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-11, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-12, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-12, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-13, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-13, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-14, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-14, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-15, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-15, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2021-12-10, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2021-12-10, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-02-11, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2022-02-11, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-04-15, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2022-04-15, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-06-10, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2022-06-10, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-12-16, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2022-12-16, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2023-10-06, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-10-06, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2023-12-22, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-12-22, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-12-27, status: completed. Dosage not recorded.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-12-27, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-12-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-12-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-01-03, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-01-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-01-03, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-01-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-01-31, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-01-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-01-31, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-01-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-05-30, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-05-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-05-30, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-05-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-09-26, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-09-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-09-26, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-09-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-10-24, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-10-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-10-24, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-10-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-01-02, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2026-01-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2026-01-02, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-01-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

@@ -1,0 +1,48 @@
+Patient: Burma963 Goyette777 | Age: 65 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+2006-05-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2007-05-07 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-05-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2009-04-01 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2009-04-01 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2009-04-01 | completed    | 2 ML morphine sulfate 1 MG/ML Injection (RxNorm: 1728805) | -
+2009-04-01 | completed    | heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048) | -
+2009-04-01 | completed    | clopidogrel 300 MG Oral Tablet (RxNorm: 749196) | -
+2009-04-01 | active       | atenolol 25 MG Oral Tablet (RxNorm: 197380) | -
+2009-04-01 | active       | atorvastatin 20 MG Oral Tablet (RxNorm: 617310) | -
+2009-04-01 | active       | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2009-04-01 | active       | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2009-05-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2010-05-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2011-05-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2012-05-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2013-05-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-02-04 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-03-02 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-05-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-03-08 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2015-05-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-03-13 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2016-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-03-19 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2017-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-03-25 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2018-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-03-31 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2019-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-01-02 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2020-04-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-05-03 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-09-01 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2021-04-11 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2021-05-03 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-04-17 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2022-05-03 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-04-23 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2023-05-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-04-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-05-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-05-04 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-05-25 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

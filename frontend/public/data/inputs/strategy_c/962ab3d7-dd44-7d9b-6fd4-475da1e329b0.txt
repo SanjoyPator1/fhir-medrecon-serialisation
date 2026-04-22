@@ -1,0 +1,14 @@
+Patient: Louie190 Emard19 | Age: 53 | Gender: male
+
+Currently active medications:
+  - Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499), prescribed on 2013-06-24, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1998-06-20, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1998-11-30, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2002-03-08, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2005-10-06, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2011-09-03, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2018-11-05, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-09-13, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2025-08-29, status: completed. Dosage not recorded.

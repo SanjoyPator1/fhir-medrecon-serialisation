@@ -1,0 +1,140 @@
+Patient: Curt84 Satterfield305 | Age: 52 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-10-03 | - | - |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 1997-10-10 | 1.0 | 1 time(s) per 4 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1998-08-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-05-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-05-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-05-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-05-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-05-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-05-13 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-05-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-05-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-05-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-05-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-05-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-05-30 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-06-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-06-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-06-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-06-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-07-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-07-29 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-06-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-06-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-08-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-08-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-11-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-11-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-02-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-02-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-06-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-06-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-07-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-07-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-07-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-07-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-08-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-08-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-08-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-08-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-08-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-08-17 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-08-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-08-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-08-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-08-31 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2010-09-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-09-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-09-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-09-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-09-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-04-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-04-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-06-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-06-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-07-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-07-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-07-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-07-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-08-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-08-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-08-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-08-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-09-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-09-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-10-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-10-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-03-04 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-03-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-07-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-07-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-06-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-06-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-07-21 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-07-21 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2016-05-26 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-06-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-06-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-07-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-07-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-03-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-03-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-08-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-08-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-09-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-09-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-11-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-11-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-08-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-08-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-08-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-08-13 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-05-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-05-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-08-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-08-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-06-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-06-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-08-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-08-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-08-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-08-30 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-10-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-10-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-06-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-06-13 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2023-06-20 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2023-06-20 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2023-06-20 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2023-06-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-09-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-09-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-11-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-11-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-03-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-03-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2024-05-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-06-04 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-06-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-09-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-09-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-09-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-09-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-06-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-06-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-09-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-09-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-11-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-11-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-12-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-12-30 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2026-02-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-02-24 | 1.0 | 1 time(s) per 1 day |

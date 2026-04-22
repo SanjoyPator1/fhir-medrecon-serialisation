@@ -1,0 +1,20 @@
+Patient: Josef103 Wilkinson796 | Age: 57 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2011-04-14, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2011-04-14, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2011-04-14, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2011-04-14, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - 12 HR Cefaclor 500 MG Extended Release Oral Tablet (RxNorm: 309043), prescribed on 1996-12-08, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1996-12-08, status: completed. Dosage not recorded.
+  - Naproxen 500 MG Oral Tablet (RxNorm: 198014), prescribed on 2002-07-03, status: completed. Dosage not recorded.
+  - Allopurinol 100 MG Oral Tablet (RxNorm: 197319), prescribed on 2002-07-03, status: completed. Dosage not recorded.
+  - Colchicine 0.6 MG Oral Tablet (RxNorm: 197541), prescribed on 2006-04-18, status: completed. Dosage not recorded.
+  - Allopurinol 100 MG Oral Tablet (RxNorm: 197319), prescribed on 2006-04-18, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2007-09-26, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2011-05-05, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2016-01-22, status: completed. Dosage not recorded.
+  - ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309), prescribed on 2017-03-27, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2022-05-12, status: completed. Dosage not recorded.

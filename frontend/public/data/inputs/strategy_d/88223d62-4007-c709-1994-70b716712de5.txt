@@ -1,0 +1,50 @@
+Patient: Katheleen349 Gutkowski940 | Age: 61 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+2000-08-10 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2001-08-05 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2002-07-31 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2002-10-08 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2003-07-29 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2004-07-23 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2005-07-18 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+2007-07-08 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2007-09-17 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-07-02 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2008-09-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2009-06-27 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2009-09-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2010-06-22 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2010-09-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2011-06-17 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2011-09-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2012-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2013-06-06 | completed    | {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762) | -
+2013-06-30 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2013-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-08-24 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2015-08-24 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2015-08-24 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2015-08-24 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2015-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-09-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-09-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-09-24 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-09-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-09-24 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-09-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-10-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-09-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-10-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-09-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-10-17 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-10-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-10-17 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-10-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-10-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-10-13 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-10-28 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

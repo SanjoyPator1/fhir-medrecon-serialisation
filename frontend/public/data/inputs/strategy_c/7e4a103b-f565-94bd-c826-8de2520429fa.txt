@@ -1,0 +1,50 @@
+Patient: Basil991 Brekke496 | Age: 68 | Gender: male
+
+Currently active medications:
+  - ritonavir 100 MG Oral Capsule (RxNorm: 317150), prescribed on 2001-04-08, status: active. Dose: 6.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 2001-04-08, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 2001-04-08, status: active. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2001-04-08, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2001-04-08, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1972-06-01, status: completed. Dosage not recorded.
+  - Doxycycline Monohydrate 100 MG Oral Tablet (RxNorm: 1650142), prescribed on 1975-08-27, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 1975-08-27, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 1981-07-15, status: completed. Dosage not recorded.
+  - piperacillin 2000 MG / tazobactam 250 MG Injection (RxNorm: 1659131), prescribed on 1985-05-20, status: completed. Dosage not recorded.
+  - 150 ML vancomycin 5 MG/ML Injection (RxNorm: 1807510), prescribed on 1985-05-20, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 1986-02-15, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1987-08-20, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1992-06-21, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1992-10-04, status: completed. Dosage not recorded.
+  - zidovudine 300 MG Oral Tablet (RxNorm: 199663), prescribed on 1993-03-02, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - zalcitabine 0.75 MG Oral Tablet (RxNorm: 313760), prescribed on 1993-11-27, status: completed. Dose: 1.0, frequency: 3 time(s) per 1 day.
+  - zalcitabine 0.75 MG Oral Tablet (RxNorm: 313760), prescribed on 1994-02-27, status: completed. Dose: 1.0, frequency: 3 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 1994-12-02, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 1995-03-05, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - zidovudine 300 MG Oral Tablet (RxNorm: 199663), prescribed on 1995-03-12, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1995-03-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 1995-07-31, status: completed. Dosage not recorded.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1996-03-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - zidovudine 300 MG Oral Tablet (RxNorm: 199663), prescribed on 1996-03-10, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1997-03-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - zidovudine 300 MG Oral Tablet (RxNorm: 199663), prescribed on 1997-03-16, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 1997-04-12, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1997-04-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - ritonavir 100 MG Oral Capsule (RxNorm: 317150), prescribed on 1997-04-12, status: completed. Dose: 6.0, frequency: 2 time(s) per 1 day.
+  - ritonavir 100 MG Oral Capsule (RxNorm: 317150), prescribed on 1998-03-22, status: completed. Dose: 6.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1998-03-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 1998-03-22, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 1998-03-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 1998-04-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - ritonavir 100 MG Oral Capsule (RxNorm: 317150), prescribed on 1999-03-28, status: completed. Dose: 6.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 1999-03-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 1999-03-28, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 1999-03-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 1999-03-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - ritonavir 100 MG Oral Capsule (RxNorm: 317150), prescribed on 2000-04-02, status: completed. Dose: 6.0, frequency: 2 time(s) per 1 day.
+  - didanosine 400 MG Delayed Release Oral Capsule (RxNorm: 284988), prescribed on 2000-04-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - stavudine 40 MG Oral Capsule (RxNorm: 313110), prescribed on 2000-04-02, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2000-04-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2000-04-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

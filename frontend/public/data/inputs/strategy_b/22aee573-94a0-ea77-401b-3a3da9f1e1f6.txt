@@ -1,0 +1,75 @@
+Patient: Pedro316 Matías497 | Age: 64 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 1996-10-23 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1997-01-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2007-11-28 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-01-31 | 1.0 | 4 time(s) per 1 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2014-03-17 | 1.0 | 2 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2014-05-16 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-09-13 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-01-21 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2015-01-21 | 1.0 | 1 time(s) per 1 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2015-01-21 | 1.0 | 2 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2015-02-02 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-02-11 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-03-12 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-01-27 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2016-01-27 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-01-27 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2016-01-27 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-02-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-02-01 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2017-02-01 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-02-01 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2017-02-01 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-02-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2017-08-04 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-02-07 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2018-02-07 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-02-07 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2018-02-07 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-02-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-02-13 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2019-02-13 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-02-13 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2019-02-13 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-03-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-02-19 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2020-02-19 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-02-19 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2020-02-19 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-03-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2020-06-29 | 1.0 | 1 time(s) per 6 hour |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2020-06-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-02-24 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2021-02-24 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-02-24 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2021-02-24 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-03-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-03-02 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2022-03-02 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-03-02 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2022-03-02 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-03-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-03-08 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2023-03-08 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-03-08 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2023-03-08 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-03-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-03-13 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2024-03-13 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-03-13 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2024-03-13 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-03-14 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-03-19 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2025-03-19 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-03-19 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | completed | 2025-03-19 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2025-03-26 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2026-03-25 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | active | 2026-03-25 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | active | 2026-03-25 | 1.0 | 1 time(s) per 3 day |
+| 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule | 1860491 | active | 2026-03-25 | 1.0 | 2 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2026-03-26 | 1.0 | 1 time(s) per 1 day |

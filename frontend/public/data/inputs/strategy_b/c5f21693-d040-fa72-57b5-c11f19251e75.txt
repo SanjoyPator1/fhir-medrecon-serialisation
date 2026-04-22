@@ -1,0 +1,71 @@
+Patient: Lou594 Langosh790 | Age: 50 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-03-13 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 1998-03-03 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1999-02-26 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2001-02-15 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2003-02-05 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2007-06-20 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2009-09-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-08-30 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2011-02-16 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2012-02-11 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2013-09-15 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2014-01-31 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-01-31 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-03-13 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-07-09 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-07-09 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-11-14 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2015-01-26 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-07-15 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-07-15 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-07-15 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2016-01-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-07-20 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-07-20 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-07-20 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-05-24 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-05-24 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-05-24 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-07-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-07-26 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-07-26 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2018-01-10 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-08-01 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-08-01 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-08-01 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2019-01-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-08-07 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-08-07 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-08-07 | 1.0 | 4 time(s) per 1 day |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2019-12-31 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-08-12 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-08-12 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-08-12 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2020-12-25 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-08-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-08-18 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-08-18 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2021-12-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-08-24 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-08-24 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-08-24 | 1.0 | 4 time(s) per 1 day |
+| ferrous sulfate 325 MG Oral Tablet | 310325 | active | 2022-08-31 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2022-12-15 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-04-19 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-04-19 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-04-19 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-04-26 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-08-30 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-08-30 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-08-30 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-09-04 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-09-04 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-09-04 | 1.0 | 4 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2024-12-04 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2025-09-10 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-09-10 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-09-10 | 1.0 | 4 time(s) per 1 day |

@@ -1,0 +1,1498 @@
+Patient: Janetta325 Weissnat378 | Age: 67 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749785",
+          "display": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]"
+        }
+      ],
+      "text": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]"
+    },
+    "authoredOn": "1995-12-08T07:41:21+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1996-10-08T13:27:01+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749882",
+          "display": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+        }
+      ],
+      "text": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+    },
+    "authoredOn": "1997-11-30T12:34:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749882",
+          "display": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+        }
+      ],
+      "text": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+    },
+    "authoredOn": "1998-11-25T12:34:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "1999-11-20T12:34:17+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1366343",
+          "display": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+        }
+      ],
+      "text": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749882",
+          "display": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+        }
+      ],
+      "text": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+    },
+    "authoredOn": "2001-11-12T13:46:35+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2002-11-07T13:46:35+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1000126",
+          "display": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+        }
+      ],
+      "text": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "751905",
+          "display": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]"
+        }
+      ],
+      "text": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]"
+    },
+    "authoredOn": "2005-10-22T13:57:33+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2005-11-29T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2005-11-29T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2005-11-29T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2005-11-29T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2005-12-06T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2005-12-06T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2006-01-03T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2006-01-03T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2006-01-10T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2006-01-10T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2006-01-17T13:38:29+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2006-06-20T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2006-06-20T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2006-07-30T13:49:48+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1367439",
+          "display": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]"
+        }
+      ],
+      "text": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]"
+    },
+    "authoredOn": "2006-10-17T13:57:33+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2007-06-26T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2007-06-26T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2007-10-12T13:57:33+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "807283",
+          "display": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]"
+        }
+      ],
+      "text": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2008-07-01T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2008-07-01T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2008-10-10T17:07:17+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "389221",
+          "display": "Etonogestrel 68 MG Drug Implant"
+        }
+      ],
+      "text": "Etonogestrel 68 MG Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2009-07-07T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2009-07-07T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2009-08-29T13:49:48+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2010-07-13T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2010-07-13T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2011-07-19T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2011-07-19T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2012-07-24T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2012-07-24T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2013-04-04T14:11:54+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2013-07-30T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2013-07-30T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2014-02-06T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2014-08-05T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2014-08-05T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2014-08-05T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2015-08-11T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2015-08-11T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2015-08-11T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2016-08-16T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2016-08-16T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2016-08-16T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2017-08-22T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2017-08-22T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2017-08-22T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2018-08-28T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2018-08-28T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2018-08-28T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2019-09-03T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2019-09-03T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2019-09-03T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2020-09-08T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2020-09-08T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2020-09-08T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2021-09-14T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2021-09-14T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2021-09-14T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2022-07-02T14:11:54+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2022-09-20T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2022-09-20T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2022-09-20T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2023-09-26T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2023-09-26T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2023-09-26T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2024-10-01T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2024-10-01T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2024-10-01T13:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-05T22:23:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "245314",
+          "display": "albuterol 5 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 5 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2025-10-14T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2025-10-14T13:23:05+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "896209",
+          "display": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+        }
+      ],
+      "text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    },
+    "authoredOn": "2025-10-14T13:23:05+05:30"
+  }
+]

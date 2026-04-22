@@ -1,0 +1,82 @@
+Patient: Miguel815 Hegmann834 | Age: 74 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-08-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1996-08-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1996-09-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1997-08-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1997-08-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1997-09-02 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1997-09-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1997-09-09 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1998-09-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1998-09-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1999-09-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1999-09-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2000-09-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2000-09-12 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2001-09-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2001-09-18 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-09-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-09-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2003-09-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2003-09-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2004-10-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2004-10-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-10-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-10-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-12-29 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2006-10-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-10-17 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2007-01-30 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2007-10-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-10-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-10-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-10-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-11-25 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2009-11-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2009-11-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2010-11-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-11-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-11-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-11-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-11-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2012-11-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2013-11-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-11-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-12-02 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-12-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-12-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-12-08 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-10-04 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2016-12-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-12-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-12-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-12-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-12-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-12-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-05-16 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2019-05-16 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2019-05-17 | completed    | heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048) | -
+2019-05-17 | completed    | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2019-05-17 | active       | metoprolol tartrate 25 MG Oral Tablet (RxNorm: 866924) | -
+2019-05-17 | active       | simvastatin 40 MG Oral Tablet (RxNorm: 198211) | -
+2019-05-17 | active       | lisinopril 5 MG Oral Tablet (RxNorm: 311354) | -
+2019-05-17 | completed    | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2019-12-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-12-31 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-01-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-01-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-06-07 | completed    | Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005) | 1.0, 1 time(s) per 6 hour
+2021-06-07 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2022-01-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-01-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-01-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-01-17 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-01-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-01-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-01-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-01-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2026-02-03 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-02-03 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day

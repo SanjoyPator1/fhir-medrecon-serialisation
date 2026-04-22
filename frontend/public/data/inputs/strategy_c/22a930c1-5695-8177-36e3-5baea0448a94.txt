@@ -1,0 +1,20 @@
+Patient: Bethann490 Price929 | Age: 63 | Gender: female
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2016-07-17, status: active. Dosage not recorded.
+  - Alteplase 100 MG Injection (RxNorm: 1804799), prescribed on 2016-07-17, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343), prescribed on 1995-10-19, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 1998-12-08, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2000-08-27, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2001-11-24, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2002-04-22, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 2002-11-19, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2004-11-08, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2005-03-19, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762), prescribed on 2009-05-23, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2011-05-13, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2016-09-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2018-08-17, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-02-25, status: completed. Dosage not recorded.

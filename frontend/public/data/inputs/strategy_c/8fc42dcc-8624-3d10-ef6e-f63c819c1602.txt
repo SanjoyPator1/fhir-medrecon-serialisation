@@ -1,0 +1,13 @@
+Patient: Shizuko29 Larson43 | Age: 62 | Gender: female
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2017-08-24, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1995-11-29, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 1998-11-16, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2007-06-04, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2010-04-22, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2017-08-23, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2020-09-24, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2022-11-16, status: completed. Dosage not recorded.

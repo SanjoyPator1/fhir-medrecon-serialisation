@@ -1,0 +1,50 @@
+Patient: Jeane173 Leannon79 | Age: 49 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1996-11-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-09-30 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 1999-10-23 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2001-10-12 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2002-07-10 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2002-10-07 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2003-10-02 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2004-05-21 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2006-11-26 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2007-04-18 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2009-08-19 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2009-11-10 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2010-11-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-12-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-08-07 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2011-10-31 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2013-10-20 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2016-10-04 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2017-10-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-12-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-12-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-01-09 | 1.0 | 1 time(s) per 1 day |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2018-09-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-12-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-12-16 | 1.0 | 1 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2019-09-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-12-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-12-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-12-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-12-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-01-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-01-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2022-05-18 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2022-09-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-01-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-01-08 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-01-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-01-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-01-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-01-19 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-01-19 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-02-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2026-01-25 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2026-01-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-01-25 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2026-02-01 | - | - |

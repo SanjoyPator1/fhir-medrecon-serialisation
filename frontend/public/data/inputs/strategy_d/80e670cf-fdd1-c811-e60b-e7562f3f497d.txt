@@ -1,0 +1,98 @@
+Patient: Cedric746 Hessel84 | Age: 69 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1997-11-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2003-05-14 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2003-05-14 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2004-05-19 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2005-05-25 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2005-06-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2006-05-31 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2006-06-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2006-07-05 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2006-07-12 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2006-07-19 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2006-08-01 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2006-08-02 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2007-06-06 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2007-06-27 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2007-12-05 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2008-06-11 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2008-06-18 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2008-06-18 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2008-06-18 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2008-06-18 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2008-06-26 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-11-13 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2009-06-17 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2009-06-26 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2010-06-23 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2010-06-26 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2011-06-29 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2011-07-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2012-07-04 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2012-07-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2013-07-10 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2013-07-17 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-02-05 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-02-19 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-07-16 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-07-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-07-17 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-08-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-07-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-07-22 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2015-07-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-07-23 | completed    | Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | 1.0, 1 time(s) per 6 hour
+2015-07-23 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2015-07-29 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-07-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-07-27 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2016-07-27 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-07-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-08-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-08-02 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2017-08-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-08-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-08-08 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-08-08 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2018-08-08 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-08-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-12-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-12-19 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2018-12-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-12-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-12-26 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2018-12-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-01-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-01-02 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2019-01-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-08-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-08-14 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2019-08-14 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-08-21 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-08-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-08-19 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2020-08-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-08-20 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-08-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-08-25 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2021-08-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-09-01 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-08-31 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-08-31 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-08-31 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-09-01 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-09-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-09-06 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2023-09-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-09-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-09-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-09-11 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2024-09-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-09-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-09-17 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-09-17 | active       | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-09-17 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-09-24 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

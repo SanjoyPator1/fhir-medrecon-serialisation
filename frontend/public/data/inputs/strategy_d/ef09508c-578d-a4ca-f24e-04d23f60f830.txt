@@ -1,0 +1,141 @@
+Patient: Cedrick207 Ryan260 | Age: 46 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-03-02 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1996-03-02 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1997-01-25 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1997-01-25 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1998-01-31 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1998-01-31 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1999-02-06 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1999-02-06 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2000-02-12 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2000-02-12 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2001-02-17 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2001-02-17 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2002-02-23 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2002-02-23 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2003-03-01 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2003-03-01 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2003-04-08 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2004-03-06 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2004-03-06 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2005-03-12 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2005-03-12 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2006-03-18 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2006-03-18 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2006-07-05 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2007-03-24 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2007-03-24 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2008-03-29 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2008-03-29 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2009-04-04 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2009-04-04 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2010-04-10 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2010-04-10 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2011-04-16 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2011-04-16 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2012-04-21 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2012-04-21 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2013-04-27 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2013-04-27 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2014-04-25 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-05-03 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2014-05-03 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2014-09-17 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2014-11-16 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-01-15 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-05-09 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2015-05-09 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2015-05-09 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-05-09 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-05-09 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2015-05-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-05-14 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2016-05-14 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2016-05-14 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-05-14 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-05-14 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-05-14 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2016-10-01 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2016-10-01 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2016-10-01 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-10-01 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-10-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-10-01 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2016-10-08 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2017-05-20 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2017-05-20 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-05-20 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-05-20 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-05-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-05-20 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2017-12-16 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2017-12-16 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-12-16 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-12-16 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-12-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-12-16 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2017-12-23 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2017-12-23 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-12-23 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-12-23 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-12-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-12-23 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2017-12-30 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2018-05-26 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2018-05-26 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2018-05-26 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-05-26 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-05-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-05-26 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2019-06-01 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2019-06-01 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2019-06-01 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-06-01 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-06-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-06-01 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2020-06-06 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2020-06-06 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2020-06-06 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-06-06 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-06-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-06-06 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2021-06-12 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2021-06-12 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2021-06-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-06-12 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2021-06-12 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-06-12 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2022-06-18 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2022-06-18 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2022-06-18 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-06-18 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-06-18 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-06-18 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2023-06-24 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2023-06-24 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2023-06-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-06-24 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-06-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-06-24 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2023-09-30 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2023-09-30 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2023-09-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-09-30 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-09-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-09-30 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2024-06-29 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2024-06-29 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2024-06-29 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-06-29 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-06-29 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-06-29 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2025-07-05 | active       | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2025-07-05 | active       | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2025-07-05 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-07-05 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-07-05 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-07-05 | active       | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2025-08-19 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -

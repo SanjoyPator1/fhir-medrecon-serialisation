@@ -1,0 +1,82 @@
+Patient: Terrell212 Labadie908 | Age: 71 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2022-03-31, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2022-03-31, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2022-03-31, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2022-03-31, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-02-12, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1997-02-21, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2006-05-28, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-01-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-01-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-01-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-10-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-12-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-02-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-02-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2016-12-20, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-02-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-05-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-07-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-09-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-02-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-04-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-12-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-02-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-02-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-03-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-09-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-09-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-09-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2020-10-01, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-10-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-10-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-12-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-12-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-12-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-12-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-02-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-02-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-02-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-02-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-03-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-03-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-09-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-11-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-03-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104), prescribed on 2022-04-21, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-02-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-03-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-12-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-02-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-02-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-02-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-03-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-04-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-05-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-04-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-04-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

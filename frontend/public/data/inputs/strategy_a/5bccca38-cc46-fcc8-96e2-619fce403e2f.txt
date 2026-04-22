@@ -1,0 +1,257 @@
+Patient: Lorrine765 Konopelski743 | Age: 59 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749882",
+          "display": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+        }
+      ],
+      "text": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]"
+    },
+    "authoredOn": "1996-04-22T01:07:01+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "1997-04-17T01:07:01+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1366343",
+          "display": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+        }
+      ],
+      "text": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "197511",
+          "display": "ciprofloxacin 250 MG Oral Tablet"
+        }
+      ],
+      "text": "ciprofloxacin 250 MG Oral Tablet"
+    },
+    "authoredOn": "1998-08-30T02:08:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 2.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1648755",
+          "display": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule"
+        }
+      ],
+      "text": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule"
+    },
+    "authoredOn": "1998-08-31T07:39:35+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 2,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "831533",
+          "display": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+        }
+      ],
+      "text": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+    },
+    "authoredOn": "2005-03-03T03:40:20+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "748962",
+          "display": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]"
+        }
+      ],
+      "text": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]"
+    },
+    "authoredOn": "2006-02-26T03:40:20+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2008-12-27T00:48:20+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "389221",
+          "display": "Etonogestrel 68 MG Drug Implant"
+        }
+      ],
+      "text": "Etonogestrel 68 MG Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "831533",
+          "display": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+        }
+      ],
+      "text": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+    },
+    "authoredOn": "2010-12-17T01:19:54+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-06-01T00:48:20+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "807283",
+          "display": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]"
+        }
+      ],
+      "text": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "978950",
+          "display": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]"
+        }
+      ],
+      "text": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]"
+    },
+    "authoredOn": "2014-05-30T02:57:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "757594",
+          "display": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+        }
+      ],
+      "text": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+    },
+    "authoredOn": "2015-05-25T02:57:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2016-05-19T02:57:10+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "389221",
+          "display": "Etonogestrel 68 MG Drug Implant"
+        }
+      ],
+      "text": "Etonogestrel 68 MG Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2022-10-14T00:48:20+05:30"
+  }
+]

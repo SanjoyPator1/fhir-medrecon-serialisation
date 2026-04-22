@@ -1,0 +1,46 @@
+Patient: Rolande819 Kuvalis369 | Age: 56 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1995-08-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1998-11-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1998-11-07 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG Oral Capsule | 308182 | completed | 1999-03-09 | 1.0 | 2 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1999-03-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1999-11-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-01-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2000-01-22 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2000-07-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-11-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2000-12-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2001-11-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-11-30 | 1.0 | 1 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2003-08-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-12-06 | 1.0 | 1 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2004-08-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-12-11 | 1.0 | 1 time(s) per 1 day |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2005-07-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-12-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-12-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-12-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-01-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-01-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-01-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-01-21 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-01-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-02-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-02-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-02-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-02-18 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2017-03-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-02-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-08-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-03-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-03-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-03-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-03-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-03-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-03-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-04-05 | 1.0 | 1 time(s) per 1 day |

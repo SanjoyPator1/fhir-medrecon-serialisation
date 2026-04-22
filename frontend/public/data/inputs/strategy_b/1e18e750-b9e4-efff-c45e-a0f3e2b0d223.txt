@@ -1,0 +1,100 @@
+Patient: Dalila583 Hartmann983 | Age: 65 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1997-02-27 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2000-02-25 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2002-02-04 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2003-01-30 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2004-01-25 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2004-12-13 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2005-01-24 | - | - |
+| {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] | 749762 | completed | 2006-01-19 | - | - |
+| {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] | 749762 | completed | 2007-01-14 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2009-12-29 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2010-10-30 | - | - |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2010-12-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-10-25 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2012-01-07 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-01-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-12-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-12-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-12-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-12-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-01-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-01-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-01-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-01-11 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-01-11 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-01-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-01-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-01-17 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-09-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-09-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-09-18 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-09-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-09-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-09-25 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-09-25 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2024-09-25 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2024-09-25 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2024-09-25 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-09 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-16 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-23 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-23 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-30 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-11-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-11-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-11-27 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-12-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-12-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-12-04 | 1.0 | 1 time(s) per 1 day |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2024-12-11 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2024-12-11 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2024-12-11 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2024-12-11 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2024-12-11 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2024-12-11 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2024-12-11 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2024-12-11 | - | - |
+| 5 ML SUFentanil 0.05 MG/ML Injection | 1809104 | completed | 2024-12-11 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-12-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-12-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-12-25 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-01-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-01-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-01-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-01-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-01-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-01-22 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-01-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-01-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-01-29 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-02-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-02-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-02-05 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-12-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-12-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-12-24 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-12-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-12-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-12-31 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2026-01-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2026-01-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2026-01-07 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2026-02-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-02-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2026-02-04 | 1.0 | 1 time(s) per 1 day |

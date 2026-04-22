@@ -1,0 +1,96 @@
+Patient: Mike230 Skiles927 | Age: 73 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1996-05-31 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2000-07-19 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2004-07-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2005-07-11 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-07-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-07-02 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-07-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-07-02 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2006-07-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-08-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-07-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-07-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-07-08 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2007-07-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-07-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-07-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-07-13 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-07-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-07-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-07-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-07-19 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-07-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-07-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-07-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-07-25 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-08-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-07-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-07-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-07-31 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-08-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-08-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-08-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-08-05 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-08-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-08-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-08-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-08-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-08-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-08-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-08-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-08-17 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-08-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-08-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-08-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-08-23 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-08-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-08-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-08-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-08-28 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-09-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-09-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-09-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-09-03 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-09-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-09-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-09-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-09-09 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-09-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-09-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-09-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-09-15 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-09-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-09-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-09-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-09-20 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-09-27 | 1.0 | 1 time(s) per 1 day |
+| amoxicillin 875 MG / clavulanate 125 MG Oral Tablet | 562508 | completed | 2021-07-08 | 1.0 | 2 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-09-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-09-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-09-26 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-09-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-10-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-10-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-10-02 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2022-10-09 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2022-10-09 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2022-10-09 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2022-10-09 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-10-16 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2023-05-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-10-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-10-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-10-08 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-10-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-10-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-13 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-10-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-10-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-10-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-10-19 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-10-26 | 1.0 | 1 time(s) per 1 day |

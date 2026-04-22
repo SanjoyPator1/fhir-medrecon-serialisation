@@ -1,0 +1,46 @@
+Patient: Milford485 Gaylord332 | Age: 54 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1995-07-08 | completed    | Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | 1.0, 1 time(s) per 6 hour
+1995-07-08 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2002-11-13 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2006-03-17 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2010-08-15 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-09-30 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2014-04-05 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-04-13 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-04-13 | active       | 24 HR nicotine 0.292 MG/HR Transdermal System (RxNorm: 198031) | -
+2014-06-04 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-04-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-04-19 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-04-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-04-24 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-04-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-04-30 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-05-06 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-05-06 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-05-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-05-12 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-05-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-05-17 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-05-24 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2020-05-24 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2020-05-24 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2020-05-24 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2020-05-31 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2020-05-31 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2020-05-31 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2020-05-31 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2020-05-31 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2020-05-31 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2020-05-31 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2020-05-31 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2020-05-31 | completed    | 10 ML Alfentanil 0.5 MG/ML Injection (RxNorm: 1723208) | -
+2021-05-23 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-05-23 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-05-29 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-05-29 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-11-22 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2023-06-04 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-06-04 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day

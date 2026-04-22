@@ -1,0 +1,98 @@
+Patient: Cedric746 Hessel84 | Age: 69 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-11-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2003-05-14 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2003-05-14 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2004-05-19 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2005-05-25 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2005-06-15 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-05-31 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2006-06-15 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-07-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-07-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2006-07-19 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-08-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-08-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-06-06 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2007-06-27 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-12-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2008-06-11 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2008-06-18 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2008-06-18 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2008-06-18 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2008-06-18 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-06-26 | 1.0 | 1 time(s) per 1 day |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 2008-11-13 | 1.0 | 2 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2009-06-17 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-06-26 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2010-06-23 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-06-26 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-06-29 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-07-06 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-07-04 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-07-05 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-07-10 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-07-17 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-02-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-02-19 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-07-16 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-07-16 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-07-17 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-08-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-07-22 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-07-22 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-07-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2015-07-23 | 1.0 | 1 time(s) per 6 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2015-07-23 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-07-29 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-07-27 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-07-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-07-27 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-07-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-08-02 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-08-02 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-08-02 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-08-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-08-08 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-08-08 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-08-08 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-08-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-12-19 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-12-19 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-12-26 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-12-26 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-01-02 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-01-02 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-01-02 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-08-14 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-08-14 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-08-14 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-08-21 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-08-19 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-08-19 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-08-19 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-08-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-08-25 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-08-25 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-08-25 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-09-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-08-31 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-08-31 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-08-31 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-09-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-09-06 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-09-06 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-09-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-09-13 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-09-11 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-09-11 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-09-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-09-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-09-17 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2025-09-17 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-09-17 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-09-24 | 1.0 | 1 time(s) per 1 day |

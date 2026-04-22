@@ -1,0 +1,41 @@
+Patient: Adina377 Mitchell808 | Age: 60 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-07-01 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1997-06-26 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1998-06-21 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2000-06-10 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2004-12-28 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2012-01-14 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2017-02-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-02-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-02-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-03-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-02-10 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-03-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-03-16 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-04-04 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-04-26 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-05-17 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-06-06 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-06-27 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-07-17 | completed    | 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099) | -
+2020-08-28 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2020-09-18 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2020-10-07 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2020-11-09 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2020-11-29 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2020-12-21 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2021-01-10 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2021-02-02 | completed    | Paclitaxel 100 MG Injection (RxNorm: 583214) | -
+2021-02-09 | completed    | Tamoxifen 10 MG Oral Tablet (RxNorm: 198240) | 1.0, 1 time(s) per 1 day
+2021-02-09 | completed    | abemaciclib 100 MG Oral Tablet [Verzenio] (RxNorm: 1946840) | -
+2021-03-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-03-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-11-06 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2023-03-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-04-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-04-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-02-16 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-02-23 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -

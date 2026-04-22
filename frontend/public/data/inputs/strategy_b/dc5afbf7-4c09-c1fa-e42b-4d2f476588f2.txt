@@ -1,0 +1,32 @@
+Patient: Benny518 Jakubowski832 | Age: 58 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2008-04-15 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2009-10-14 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-12-31 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2014-05-31 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2015-06-30 | 1.0 | 2 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2018-04-24 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2018-04-24 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2018-04-24 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2018-04-24 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2018-05-12 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2018-05-12 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2018-05-12 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2018-05-12 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2018-05-12 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2018-05-12 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2018-05-12 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2018-05-12 | - | - |
+| 10 ML Alfentanil 0.5 MG/ML Injection | 1723208 | completed | 2018-05-12 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2025-02-18 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2025-05-27 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-17 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-17 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-18 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-18 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-19 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-19 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-20 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-08-20 | - | - |

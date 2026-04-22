@@ -1,0 +1,34 @@
+Patient: Esteban536 Moore224 | Age: 49 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-09-21 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2000-05-28 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2005-04-28 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2008-02-01 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2014-04-18 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2014-04-29 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2014-06-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-05-05 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2015-05-05 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-05-10 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2016-05-10 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-05-16 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-05-16 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-05-22 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2018-05-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-05-28 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2019-05-28 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-06-02 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2020-06-02 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-06-08 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2021-06-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-09-30 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2022-06-14 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2022-06-14 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-06-20 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2023-06-20 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-06-25 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2024-06-25 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-07-01 | active       | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2025-07-01 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day

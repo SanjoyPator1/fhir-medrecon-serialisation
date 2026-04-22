@@ -1,0 +1,22 @@
+Patient: Jamaal34 Schowalter414 | Age: 54 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-12-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-11-10 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2021-11-28 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2021-11-28 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2021-11-28 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2021-11-28 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2021-12-16 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2021-12-16 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2021-12-16 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2021-12-16 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2021-12-16 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2021-12-16 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2021-12-16 | - | - |
+| sevoflurane 1000 MG/ML Inhalation Solution | 200243 | completed | 2021-12-16 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2021-12-16 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2022-09-13 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2025-06-01 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2025-10-03 | - | - |

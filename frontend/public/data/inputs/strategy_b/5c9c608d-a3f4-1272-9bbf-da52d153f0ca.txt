@@ -1,0 +1,12 @@
+Patient: Vito638 Predovic534 | Age: 54 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Vitamin B12 5 MG/ML Injectable Solution | 2001499 | active | 2003-08-08 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2008-05-07 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2009-05-04 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 2019-05-03 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-06-07 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2024-06-07 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2024-06-07 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2024-06-07 | - | - |

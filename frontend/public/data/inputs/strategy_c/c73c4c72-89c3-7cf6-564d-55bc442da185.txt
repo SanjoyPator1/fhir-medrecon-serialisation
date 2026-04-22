@@ -1,0 +1,40 @@
+Patient: Lavelle273 Huel628 | Age: 67 | Gender: female
+
+Currently active medications:
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-09-30, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-09-30, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1995-07-07, status: completed. Dosage not recorded.
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 1997-06-26, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 1998-06-21, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2000-08-29, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2001-07-24, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2002-07-22, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2003-07-17, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2004-07-11, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2006-11-14, status: completed. Dosage not recorded.
+  - Etonogestrel 68 MG Drug Implant (RxNorm: 389221), prescribed on 2007-11-09, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2013-11-26, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-08-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-08-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2017-09-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-08-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-08-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2019-04-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2019-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-09-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2020-09-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-09-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2021-09-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-09-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2022-09-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-10-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2022-10-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2022-10-18, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2023-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2023-10-05, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-09-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-09-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

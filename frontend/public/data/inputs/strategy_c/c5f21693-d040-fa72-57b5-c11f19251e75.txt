@@ -1,0 +1,72 @@
+Patient: Lou594 Langosh790 | Age: 50 | Gender: female
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2022-08-31, status: active. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2025-09-10, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-09-10, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2025-09-10, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1996-03-13, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 1998-03-03, status: completed. Dosage not recorded.
+  - Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343), prescribed on 1999-02-26, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 2001-02-15, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2003-02-05, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2007-06-20, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2009-09-21, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2010-08-30, status: completed. Dosage not recorded.
+  - Etonogestrel 68 MG Drug Implant (RxNorm: 389221), prescribed on 2011-02-16, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2012-02-11, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2013-09-15, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-01-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2014-01-31, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2014-03-13, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-07-09, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2014-07-09, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2014-11-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2015-01-26, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2015-07-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-07-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2015-07-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2016-01-21, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2016-07-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-07-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-07-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2017-05-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-05-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2017-05-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2017-07-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-07-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2017-07-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2018-01-10, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2018-08-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-08-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2018-08-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2019-01-05, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2019-08-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-08-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2019-08-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2019-12-31, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2020-08-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-08-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2020-08-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2020-12-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2021-08-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-08-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2021-08-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2021-12-20, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2022-08-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-08-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2022-08-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2022-12-15, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2023-04-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-04-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2023-04-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-04-26, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2023-08-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-08-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2023-08-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2024-09-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-09-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2024-09-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2024-12-04, status: completed. Dosage not recorded.

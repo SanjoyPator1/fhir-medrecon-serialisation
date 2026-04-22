@@ -1,0 +1,18 @@
+Patient: Juan88 Senger904 | Age: 49 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2003-06-17 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2011-04-07 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2013-02-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2020-07-15 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2020-07-15 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2020-07-15 | completed    | 0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe (RxNorm: 861356) | -
+2020-07-16 | completed    | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2020-07-16 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2020-07-16 | active       | 24 HR metoprolol succinate 25 MG Extended Release Oral Tablet (RxNorm: 866427) | -
+2020-07-16 | active       | pravastatin sodium 40 MG Oral Tablet (RxNorm: 904475) | -
+2020-07-16 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | -
+2020-07-16 | completed    | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2024-07-28 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2026-02-02 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -

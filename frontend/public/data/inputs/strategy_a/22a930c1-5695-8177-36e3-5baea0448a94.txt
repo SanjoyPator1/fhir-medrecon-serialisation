@@ -1,0 +1,243 @@
+Patient: Bethann490 Price929 | Age: 63 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "1995-10-19T06:48:10+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1366343",
+          "display": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+        }
+      ],
+      "text": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1359133",
+          "display": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+        }
+      ],
+      "text": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+    },
+    "authoredOn": "1998-12-08T06:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2000-08-27T22:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2001-11-24T20:49:00+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1000126",
+          "display": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+        }
+      ],
+      "text": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834102",
+          "display": "Penicillin V Potassium 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 500 MG Oral Tablet"
+    },
+    "authoredOn": "2002-04-22T07:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1359133",
+          "display": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+        }
+      ],
+      "text": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]"
+    },
+    "authoredOn": "2002-11-19T21:00:13+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2004-11-08T21:00:13+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1000126",
+          "display": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+        }
+      ],
+      "text": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310965",
+          "display": "Ibuprofen 200 MG Oral Tablet"
+        }
+      ],
+      "text": "Ibuprofen 200 MG Oral Tablet"
+    },
+    "authoredOn": "2005-03-19T07:11:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "749762",
+          "display": "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]"
+        }
+      ],
+      "text": "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]"
+    },
+    "authoredOn": "2009-05-23T06:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2011-05-13T06:48:10+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1000126",
+          "display": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+        }
+      ],
+      "text": "1 ML medroxyprogesterone acetate 150 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "309362",
+          "display": "Clopidogrel 75 MG Oral Tablet"
+        }
+      ],
+      "text": "Clopidogrel 75 MG Oral Tablet"
+    },
+    "authoredOn": "2016-07-17T06:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1804799",
+          "display": "Alteplase 100 MG Injection"
+        }
+      ],
+      "text": "Alteplase 100 MG Injection"
+    },
+    "authoredOn": "2016-07-17T06:48:10+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2016-09-25T07:11:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2018-08-17T03:08:00+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2023-02-25T06:56:39+05:30"
+  }
+]

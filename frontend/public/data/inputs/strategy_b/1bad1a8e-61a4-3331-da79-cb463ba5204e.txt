@@ -1,0 +1,32 @@
+Patient: Demetrius568 Bode78 | Age: 57 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2002-12-25 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2013-09-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-01-31 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-05-14 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-05-22 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-05-20 | 1.0 | 4 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2016-02-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-05-25 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-05-31 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-06-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-06-12 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-07-03 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-06-17 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-07-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-06-23 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-07-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-06-29 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-07-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-07-05 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-07-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-12-26 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-01-03 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-06-05 | 1.0 | 4 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2024-06-26 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-07-10 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-07-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-07-16 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-07-23 | 1.0 | 1 time(s) per 1 day |

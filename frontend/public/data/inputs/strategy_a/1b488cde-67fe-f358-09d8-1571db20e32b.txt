@@ -1,0 +1,139 @@
+Patient: Merry217 Parisian75 | Age: 60 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2006-02-21T14:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2006-04-05T15:34:05+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "309362",
+          "display": "Clopidogrel 75 MG Oral Tablet"
+        }
+      ],
+      "text": "Clopidogrel 75 MG Oral Tablet"
+    },
+    "authoredOn": "2014-12-17T15:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312961",
+          "display": "Simvastatin 20 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 20 MG Oral Tablet"
+    },
+    "authoredOn": "2014-12-17T15:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "866412",
+          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+        }
+      ],
+      "text": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+    },
+    "authoredOn": "2014-12-17T15:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "705129",
+          "display": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+        }
+      ],
+      "text": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    },
+    "authoredOn": "2014-12-17T15:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2018-01-24T10:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2019-09-21T05:22:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2025-10-17T04:22:22+05:30"
+  }
+]

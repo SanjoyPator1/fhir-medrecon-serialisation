@@ -1,0 +1,24 @@
+Patient: Jarred626 Mohr916 | Age: 62 | Gender: male
+
+Currently active medications:
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-08-06, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1998-09-15, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2006-10-01, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-05-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-05-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-05-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-05-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-05-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-06-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-06-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-06-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-06-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-06-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-07-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-07-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-07-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-07-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-07-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-07-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

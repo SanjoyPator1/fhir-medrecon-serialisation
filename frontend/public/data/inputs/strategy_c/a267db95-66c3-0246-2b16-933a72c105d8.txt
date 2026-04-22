@@ -1,0 +1,81 @@
+Patient: Karon907 Crist667 | Age: 51 | Gender: female
+
+Currently active medications:
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2025-12-22, status: active. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2025-12-22, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1996-10-14, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1997-07-14, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1997-07-14, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1997-07-14, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1997-07-14, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1998-07-20, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1998-07-20, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1998-11-09, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1998-11-09, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1999-07-26, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1999-07-26, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2000-07-31, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2000-07-31, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2001-08-06, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2001-08-06, status: completed. Dosage not recorded.
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 2001-09-18, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2002-08-12, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2002-08-12, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2003-08-18, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2003-08-18, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2004-08-23, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2004-08-23, status: completed. Dosage not recorded.
+  - 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2005-01-03, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2005-08-29, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2005-08-29, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2006-09-04, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2006-09-04, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2006-10-30, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2006-10-30, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2007-09-10, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2007-09-10, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2008-09-15, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2008-09-15, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2009-09-21, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2009-09-21, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2010-09-27, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2010-09-27, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2011-10-03, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2011-10-03, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2012-08-13, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2012-08-13, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2012-08-20, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2012-08-20, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2012-10-08, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2012-10-08, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2013-10-14, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2013-10-14, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2014-06-30, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2014-06-30, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2014-07-07, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2014-10-20, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2014-10-20, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2015-10-26, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2015-10-26, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2016-10-31, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2016-10-31, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2017-11-06, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2017-11-06, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2018-11-12, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2018-11-12, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2019-01-21, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2019-01-21, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2019-11-18, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2019-11-18, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2020-11-23, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2020-11-23, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-11-29, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2021-11-29, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2022-12-05, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2022-12-05, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2023-12-11, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2023-12-11, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2024-12-16, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2024-12-16, status: completed. Dosage not recorded.

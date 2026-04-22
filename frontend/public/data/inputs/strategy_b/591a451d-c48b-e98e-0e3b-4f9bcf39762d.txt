@@ -1,0 +1,133 @@
+Patient: Doug189 Prosacco716 | Age: 53 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1990-02-06 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1990-05-21 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1990-07-18 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1990-11-06 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1991-04-12 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1991-06-18 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1991-11-06 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1991-12-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1992-02-23 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-04-19 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-06-02 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-08-06 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-12-18 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1993-01-24 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1993-03-02 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1993-04-22 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1993-07-05 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1993-09-15 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1993-11-19 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1994-01-25 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1994-03-17 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1994-07-25 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1994-09-28 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1995-01-06 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1995-02-12 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1995-04-27 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1995-06-17 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1995-09-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1995-11-12 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1995-12-26 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1996-02-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1996-05-25 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1996-07-08 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1996-10-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1997-01-14 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1997-02-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1997-08-06 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1997-10-26 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1998-06-17 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1998-09-22 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1998-12-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-21 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2010-04-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-01-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-01-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-01-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-02-06 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-03-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-05-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-07-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-10-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-01-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-02-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-04-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-05-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-07-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-08-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-10-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2012-10-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-11-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-02-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-06-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-07-21 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-08-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-10-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-11-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-11-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-12-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-01-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-02-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-03-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-06-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-09-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-12-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-02-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-02-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-04-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-05-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-07-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-08-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-09-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-10-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-12-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-01-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-02-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-03-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-04-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-06-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-07-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-07-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-09-04 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-10-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-10-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-12-04 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-01-29 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2017-02-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-02-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-07-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-07-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-08-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-09-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-09-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-10-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-11-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-11-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2017-12-24 | 1.0 | 1 time(s) per 1 day |

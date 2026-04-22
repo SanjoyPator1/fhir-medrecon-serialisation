@@ -1,0 +1,18 @@
+Patient: Franklyn361 Breitenberg711 | Age: 68 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1980-12-09 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1990-10-08 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1996-04-09 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2003-09-17 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2003-10-24 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2004-06-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2004-06-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2004-07-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2004-09-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2004-10-18 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2005-07-01 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2005-07-01 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-07-01 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-09-13 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -

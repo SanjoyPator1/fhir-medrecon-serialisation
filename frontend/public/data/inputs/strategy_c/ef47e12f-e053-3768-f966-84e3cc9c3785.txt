@@ -1,0 +1,27 @@
+Patient: Edmund685 Bechtelar572 | Age: 71 | Gender: male
+
+Currently active medications:
+  - carbamazepine 20 MG/ML Oral Suspension [Tegretol] (RxNorm: 308971), prescribed on 2001-02-04, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2006-02-07, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2006-02-07, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2006-02-07, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2006-02-07, status: active. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 2007-02-06, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1980-07-17, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1982-04-05, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1994-02-22, status: completed. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 2001-05-18, status: completed. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 2003-02-18, status: completed. Dosage not recorded.
+  - Diazepam 5 MG Oral Tablet (RxNorm: 197591), prescribed on 2005-01-25, status: completed. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 2006-01-31, status: completed. Dosage not recorded.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - desflurane 1000 MG/ML Inhalation Solution (RxNorm: 562366), prescribed on 2006-04-22, status: completed. Dosage not recorded.
+  - 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104), prescribed on 2006-04-22, status: completed. Dosage not recorded.

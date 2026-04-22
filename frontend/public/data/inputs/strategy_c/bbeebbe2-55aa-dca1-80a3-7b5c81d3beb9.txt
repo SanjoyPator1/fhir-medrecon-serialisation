@@ -1,0 +1,33 @@
+Patient: Samuel331 Villanueva621 | Age: 42 | Gender: male
+
+Currently active medications:
+  - Astemizole 10 MG Oral Tablet (RxNorm: 197378), prescribed on 1985-04-11, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1987-10-24, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1987-10-24, status: completed. Dosage not recorded.
+  - Hydrocortisone 10 MG/ML Topical Cream (RxNorm: 106258), prescribed on 1994-01-02, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1995-05-02, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1995-05-02, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1996-05-07, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1996-05-07, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1997-05-13, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1997-05-13, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1998-05-19, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1998-05-19, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1999-05-25, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1999-05-25, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 1999-08-03, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 1999-08-03, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 2000-05-30, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 2000-05-30, status: completed. Dosage not recorded.
+  - predniSONE 5 MG Oral Tablet (RxNorm: 312617), prescribed on 2001-03-05, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 2001-06-05, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 2001-06-05, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 2002-06-11, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 2002-06-11, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 2003-06-17, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 2003-06-17, status: completed. Dosage not recorded.
+  - budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109), prescribed on 2004-06-22, status: completed. Dosage not recorded.
+  - albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208), prescribed on 2004-06-22, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2014-01-30, status: completed. Dosage not recorded.

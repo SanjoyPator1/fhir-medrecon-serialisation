@@ -1,0 +1,49 @@
+Patient: Rolando809 King743 | Age: 74 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1996-07-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1996-07-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1997-07-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1998-08-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1999-08-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-08-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2001-08-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2001-10-10 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2002-03-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-08-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-09-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-09-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-09-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-09-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-09-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-10-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-10-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-10-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-10-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-10-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-10-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-11-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-11-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-11-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-12-04 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2019-12-11 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2019-12-11 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2019-12-11 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2019-12-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-12-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-12-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-12-21 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-12-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-12-27 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2023-12-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-01-01 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2025-01-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-02-12 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2025-02-12 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-02-12 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2026-01-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-01-07 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2026-01-07 | - | - |

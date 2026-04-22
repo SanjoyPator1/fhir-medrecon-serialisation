@@ -1,0 +1,83 @@
+Patient: Joaquín233 Navarro863 | Age: 62 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-09-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2012-11-27 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2016-05-22 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2020-11-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-11-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-12-30 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-12-30 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-12-30 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-12-31 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-12-31 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-12-31 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-01 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-01 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-01 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-02 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-02 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-02 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-03 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-03 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-03 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-04 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-04 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-04 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-05 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-05 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-05 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-06 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-06 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-06 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-07 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-07 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-07 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-08 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-08 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-08 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-09 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-09 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-09 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-10 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-10 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-10 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-01-11 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-01-11 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-01-11 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-11-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-11-30 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2021-11-30 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2021-11-30 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2021-11-30 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2022-02-21 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2022-02-21 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2022-02-21 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2022-02-21 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2022-02-21 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2022-02-21 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2022-02-21 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2022-02-21 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2022-02-21 | completed    | remifentanil 2 MG Injection (RxNorm: 1729584) | -
+2022-11-29 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-03-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2023-12-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-12-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-12-16 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-03-29 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-03-29 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-03-30 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-03-30 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-03-31 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-03-31 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-04-01 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-04-01 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-04-02 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-04-02 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-04-04 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-04-04 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-04-05 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-04-05 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -
+2026-04-06 | completed    | Cisplatin 50 MG Injection (RxNorm: 1736854) | -
+2026-04-06 | completed    | PACLitaxel 100 MG Injection (RxNorm: 583214) | -

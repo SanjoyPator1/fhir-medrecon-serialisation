@@ -1,0 +1,30 @@
+Patient: Douglas31 Upton904 | Age: 56 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2024-04-18, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2024-04-18, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2024-04-18, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2024-04-18, status: active. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-04-17, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2002-11-06, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2009-06-15, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-02-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-02-13, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-02-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-02-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-03-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-03-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-03-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-01-16, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2020-01-23, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-03-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-06-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-07-09, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-03-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2021-12-16, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-03-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-04-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-04-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.

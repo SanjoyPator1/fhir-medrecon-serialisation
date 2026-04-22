@@ -1,0 +1,26 @@
+Patient: Edmund685 Bechtelar572 | Age: 71 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1980-07-17 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1982-04-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1994-02-22 | - | - |
+| carbamazepine 20 MG/ML Oral Suspension [Tegretol] | 308971 | active | 2001-02-04 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 2001-05-18 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 2003-02-18 | - | - |
+| Diazepam 5 MG Oral Tablet | 197591 | completed | 2005-01-25 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 2006-01-31 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2006-02-07 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2006-02-07 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2006-02-07 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2006-02-07 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2006-04-22 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2006-04-22 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2006-04-22 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2006-04-22 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2006-04-22 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2006-04-22 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2006-04-22 | - | - |
+| desflurane 1000 MG/ML Inhalation Solution | 562366 | completed | 2006-04-22 | - | - |
+| 5 ML SUFentanil 0.05 MG/ML Injection | 1809104 | completed | 2006-04-22 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | active | 2007-02-06 | - | - |

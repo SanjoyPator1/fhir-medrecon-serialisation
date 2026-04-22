@@ -1,0 +1,32 @@
+Patient: Wilburn655 Kuphal363 | Age: 65 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1986-08-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1988-01-11 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1989-11-20 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+1989-11-21 | completed    | cephalexin 500 MG Oral Tablet (RxNorm: 197454) | 1.0, 4 time(s) per 1 day
+2000-10-05 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2001-08-01 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2005-02-17 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2013-07-18 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2013-11-23 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2014-05-22 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2014-05-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2014-05-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2014-05-24 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2014-07-17 | active       | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2015-05-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-22 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-22 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-24 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-24 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2015-05-26 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -

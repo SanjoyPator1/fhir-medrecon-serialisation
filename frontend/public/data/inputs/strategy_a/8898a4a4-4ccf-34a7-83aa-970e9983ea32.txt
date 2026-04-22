@@ -1,0 +1,1744 @@
+Patient: Ignacio928 O'Kon634 | Age: 64 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1998-07-12T03:00:00+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2001-04-15T03:00:00+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310965",
+          "display": "Ibuprofen 200 MG Oral Tablet"
+        }
+      ],
+      "text": "Ibuprofen 200 MG Oral Tablet"
+    },
+    "authoredOn": "2003-09-03T21:09:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2008-05-15T03:00:00+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834102",
+          "display": "Penicillin V Potassium 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 500 MG Oral Tablet"
+    },
+    "authoredOn": "2009-01-21T20:00:00+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2011-01-13T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2011-01-13T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2011-02-12T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2012-01-19T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2012-01-19T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2013-01-24T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2013-01-24T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2014-01-30T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2014-01-30T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2015-02-05T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2015-02-05T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2016-02-11T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2016-02-11T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2017-02-16T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2017-02-16T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2018-01-18T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2018-01-18T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2018-02-22T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2018-02-22T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2019-02-28T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2019-02-28T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2020-03-05T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2020-03-05T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2021-03-11T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-03-11T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2021-05-13T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-05-13T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2021-05-20T03:12:47+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2022-03-17T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2022-03-17T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2023-03-23T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-03-23T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2023-08-17T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-08-17T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2023-08-24T03:14:22+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2024-03-28T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-03-28T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310798",
+          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+        }
+      ],
+      "text": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    "authoredOn": "2025-04-03T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314076",
+          "display": "lisinopril 10 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-04-03T03:00:00+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

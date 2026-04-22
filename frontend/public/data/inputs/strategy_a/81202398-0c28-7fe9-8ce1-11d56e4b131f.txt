@@ -1,0 +1,285 @@
+Patient: Leif534 Rowe323 | Age: 60 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1999-01-12T06:48:28+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2003-05-19T06:48:28+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2010-02-12T05:10:28+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1659131",
+          "display": "piperacillin 2000 MG / tazobactam 250 MG Injection"
+        }
+      ],
+      "text": "piperacillin 2000 MG / tazobactam 250 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2010-02-12T05:10:28+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1807510",
+          "display": "150 ML vancomycin 5 MG/ML Injection"
+        }
+      ],
+      "text": "150 ML vancomycin 5 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310325",
+          "display": "ferrous sulfate 325 MG Oral Tablet"
+        }
+      ],
+      "text": "ferrous sulfate 325 MG Oral Tablet"
+    },
+    "authoredOn": "2010-05-02T06:26:45+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310965",
+          "display": "Ibuprofen 200 MG Oral Tablet"
+        }
+      ],
+      "text": "Ibuprofen 200 MG Oral Tablet"
+    },
+    "authoredOn": "2012-04-02T06:48:28+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310436",
+          "display": "Galantamine 4 MG Oral Tablet"
+        }
+      ],
+      "text": "Galantamine 4 MG Oral Tablet"
+    },
+    "authoredOn": "2017-04-16T05:10:28+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2018-02-01T05:10:28+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1599803",
+          "display": "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
+        }
+      ],
+      "text": "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
+    },
+    "authoredOn": "2018-12-18T05:10:28+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "310965",
+          "display": "Ibuprofen 200 MG Oral Tablet"
+        }
+      ],
+      "text": "Ibuprofen 200 MG Oral Tablet"
+    },
+    "authoredOn": "2023-05-13T07:01:12+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-06-16T05:10:28+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834102",
+          "display": "Penicillin V Potassium 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 500 MG Oral Tablet"
+    },
+    "authoredOn": "2025-03-28T04:10:28+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-06-16T05:10:28+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

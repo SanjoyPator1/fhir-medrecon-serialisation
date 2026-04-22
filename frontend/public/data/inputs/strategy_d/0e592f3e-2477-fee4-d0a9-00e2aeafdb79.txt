@@ -1,0 +1,62 @@
+Patient: Gisela897 Schneider199 | Age: 65 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-05-01 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1999-04-20 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2001-04-09 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2002-04-04 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2003-03-30 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2003-08-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2004-03-26 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2004-08-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2005-03-12 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2005-03-21 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2005-08-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2006-03-16 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2006-08-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2007-04-09 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2007-08-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-03-09 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2008-08-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-10-16 | completed    | Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | 1.0, 1 time(s) per 6 hour
+2009-03-04 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2009-08-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2010-02-27 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2010-08-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2011-08-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2012-08-10 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2013-08-10 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-01-31 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2014-03-18 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-07-30 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2014-08-20 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-08-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2015-08-20 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-06-02 | completed    | Tamoxifen 10 MG Oral Tablet (RxNorm: 198240) | 1.0, 1 time(s) per 1 day
+2016-08-10 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2016-08-19 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-08-16 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2017-08-19 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-08-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2018-08-29 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-08-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2019-08-29 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-11-03 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2019-11-10 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2019-11-13 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2020-09-02 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2020-09-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-09-08 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2021-09-09 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-09-14 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2022-09-21 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-09-20 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2023-09-21 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-09-25 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2024-10-02 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-10-01 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2025-10-01 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-10-01 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-10-02 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-10-31 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day

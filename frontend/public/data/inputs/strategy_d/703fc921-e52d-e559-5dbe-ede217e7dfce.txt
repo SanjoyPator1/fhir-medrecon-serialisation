@@ -1,0 +1,81 @@
+Patient: Leopoldo762 Kovacek682 | Age: 60 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2006-05-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-05-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-05-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-05-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-02-26 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2009-03-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-03-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-05-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-05-29 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-05-29 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2010-05-29 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2011-05-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-07 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2011-05-07 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2011-05-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-14 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2011-05-14 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2011-05-21 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2011-06-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-06-11 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2011-06-11 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2012-06-16 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-06-16 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2012-06-16 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2012-07-27 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2012-07-27 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2012-07-27 | completed    | 2 ML morphine sulfate 1 MG/ML Injection (RxNorm: 1728805) | -
+2012-07-27 | completed    | heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048) | -
+2012-07-27 | completed    | clopidogrel 300 MG Oral Tablet (RxNorm: 749196) | -
+2012-07-27 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2012-07-27 | active       | 24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule [Coreg] (RxNorm: 860518) | -
+2012-07-27 | active       | atorvastatin 80 MG Oral Tablet (RxNorm: 259255) | -
+2012-07-27 | active       | lisinopril 5 MG Oral Tablet (RxNorm: 311354) | -
+2012-07-27 | active       | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2013-06-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-06-22 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2013-06-22 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2013-10-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-10-05 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2013-10-05 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2013-10-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-06-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-06-28 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2014-06-28 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2015-07-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-07-04 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2015-07-04 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2016-07-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-07-09 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2016-07-09 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2017-07-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-07-15 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2017-07-15 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2018-07-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-07-21 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2018-07-21 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2019-07-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-07-27 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2019-07-27 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2020-08-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-08-01 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2020-08-01 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2021-08-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-08-07 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2021-08-07 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2022-08-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-08-13 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2022-08-13 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2023-08-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-08-19 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2023-08-19 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2024-08-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-08-24 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2024-08-24 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2025-08-30 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-08-30 | active       | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2025-08-30 | active       | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -

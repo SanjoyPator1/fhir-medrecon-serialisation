@@ -1,0 +1,23 @@
+Patient: Agripina633 McCullough561 | Age: 59 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1998-01-31 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2000-08-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-02-03 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2014-06-28 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2015-07-04 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2016-07-09 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-07-15 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-08-05 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2018-07-21 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2019-07-27 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2020-08-01 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2021-08-07 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2021-11-16 | completed    | Cefuroxime 250 MG Oral Tablet (RxNorm: 309097) | 1.0, 2 time(s) per 1 day
+2021-11-16 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2022-08-13 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2023-08-19 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2024-08-24 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2025-08-30 | active       | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2025-10-02 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -

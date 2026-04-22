@@ -1,0 +1,25 @@
+Patient: Ken316 Cole117 | Age: 60 | Gender: male
+
+Currently active medications:
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2025-04-12, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2002-10-31, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2008-10-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2012-03-23, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2012-07-11, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2014-02-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2015-02-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-02-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2017-02-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2017-05-16, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2018-03-03, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335), prescribed on 2018-08-01, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2019-03-09, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2019-09-19, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2020-03-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2021-03-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2022-03-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2023-04-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-12-30, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2024-04-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.

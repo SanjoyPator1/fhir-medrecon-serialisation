@@ -1,0 +1,20 @@
+Patient: Ronald408 Cassin499 | Age: 74 | Gender: male
+
+Currently active medications:
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 1967-01-27, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1953-02-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820), prescribed on 1953-02-24, status: completed. Dosage not recorded.
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1953-12-29, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1953-12-29, status: completed. Dosage not recorded.
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1954-12-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820), prescribed on 1954-12-30, status: completed. Dosage not recorded.
+  - predniSONE 5 MG Oral Tablet (RxNorm: 312617), prescribed on 1957-03-01, status: completed. Dosage not recorded.
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1958-12-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1958-12-14, status: completed. Dosage not recorded.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1959-02-15, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 250 MG Oral Tablet (RxNorm: 834061), prescribed on 1964-01-18, status: completed. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 1964-09-24, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1965-10-21, status: completed. Dosage not recorded.
+  - clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892), prescribed on 1966-01-21, status: completed. Dosage not recorded.

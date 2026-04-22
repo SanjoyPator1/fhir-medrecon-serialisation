@@ -1,0 +1,107 @@
+Patient: Ashlea10 Hermann103 | Age: 75 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1976-12-09 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1978-12-02 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1982-05-07 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1982-12-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1982-12-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1983-01-08 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1983-01-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1983-12-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1983-12-31 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1984-01-03 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1984-08-04 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+1984-11-28 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1985-01-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1985-01-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1985-10-15 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1985-10-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1985-10-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1985-11-02 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1985-11-02 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1986-01-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1986-01-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1986-04-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1986-04-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1986-04-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1986-04-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1986-05-03 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1986-09-28 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1987-01-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1987-01-17 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1987-09-23 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1988-01-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1988-01-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1988-03-23 | completed    | ciprofloxacin 250 MG Oral Tablet (RxNorm: 197511) | 1.0, 1 time(s) per 2 day
+1988-08-18 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1989-01-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1989-01-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1989-07-14 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1990-02-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1990-02-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1990-04-13 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1990-06-09 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1991-02-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1991-02-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1991-06-04 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1992-02-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1992-02-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1992-04-02 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1992-04-29 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1993-02-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1993-02-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1993-02-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1993-02-27 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1993-03-06 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1993-03-28 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1993-04-24 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1993-07-14 | completed    | Naproxen 500 MG Oral Tablet (RxNorm: 198014) | -
+1993-07-14 | completed    | Methotrexate 2.5 MG Oral Tablet (RxNorm: 105585) | -
+1994-02-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1994-02-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1994-03-20 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1994-03-23 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1995-03-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1995-03-04 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1995-03-25 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1996-03-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1996-03-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1996-03-19 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1997-03-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1997-03-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1997-03-22 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1998-02-15 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1998-03-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1998-03-21 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1999-01-11 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+1999-02-25 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1999-03-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1999-03-27 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+1999-12-07 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2000-04-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2000-04-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2000-12-01 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2000-12-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2000-12-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2001-04-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2001-04-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2001-10-27 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2002-04-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-04-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-09-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-09-21 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-09-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-09-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-10-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2002-10-22 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2003-04-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2003-04-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2003-09-17 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2004-04-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2004-04-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2004-08-12 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2005-04-30 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-04-30 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-08-07 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -

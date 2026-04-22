@@ -1,0 +1,17 @@
+Patient: Andrea7 Ramos754 | Age: 63 | Gender: female
+
+Currently active medications:
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2025-05-24, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 1998-11-20, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 2001-11-13, status: completed. Dosage not recorded.
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 2002-11-08, status: completed. Dosage not recorded.
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 2003-11-03, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2009-06-22, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2010-06-17, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2012-06-30, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2013-09-25, status: completed. Dosage not recorded.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2023-05-13, status: completed. Dosage not recorded.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2023-05-13, status: completed. Dosage not recorded.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2024-05-18, status: completed. Dosage not recorded.

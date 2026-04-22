@@ -1,0 +1,22 @@
+Patient: Haydee844 Treutel973 | Age: 66 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2004-09-27 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2005-02-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-02-01 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-03-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-04-17 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-04-23 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-04-28 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2016-08-20 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-05-04 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-05-10 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-05-16 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-05-21 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2020-11-18 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-05-27 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-06-02 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-06-08 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-06-13 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-06-19 | 1.0 | 4 time(s) per 1 day |

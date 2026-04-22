@@ -1,0 +1,96 @@
+Patient: Jerry654 Jones311 | Age: 73 | Gender: male
+
+Currently active medications:
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1995-05-13, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2018-04-25, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2018-04-25, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2018-04-25, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2018-04-25, status: active. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-05-28, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-05-29, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2003-06-03, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2007-03-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2008-03-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2009-03-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2010-03-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2011-03-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2012-03-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2013-03-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-02-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-03-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2014-03-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-04-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2015-04-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-04-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2016-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-04-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2017-04-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-04-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - sevoflurane 1000 MG/ML Inhalation Solution (RxNorm: 200243), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2018-05-01, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2018-05-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-04-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2019-05-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-04-29, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2020-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-10-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-01, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-01, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-01, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-02, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-02, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-02, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-03, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-03, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-03, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-04, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-04, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-04, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-05, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-05, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-05, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-02-06, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-06, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-06, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-07, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-07, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-08, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-08, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-09, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-09, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-10, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-10, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-11, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-11, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-12, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-12, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-02-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-02-13, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-02-13, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-05-05, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG Oral Capsule (RxNorm: 308182), prescribed on 2022-03-26, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2022-03-26, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-05-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-05-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2024-05-12, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-05-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-05-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2025-09-21, status: completed. Dosage not recorded.

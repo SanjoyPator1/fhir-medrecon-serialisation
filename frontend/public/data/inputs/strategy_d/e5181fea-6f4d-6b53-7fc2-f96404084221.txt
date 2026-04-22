@@ -1,0 +1,57 @@
+Patient: Rodrick370 Reichert620 | Age: 69 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1993-07-30 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2005-03-02 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2013-11-29 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2014-03-09 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2014-05-12 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2014-05-19 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2015-05-18 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2015-11-02 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2016-05-23 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2016-05-23 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2016-05-29 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2016-06-06 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2016-06-06 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2016-06-13 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2016-06-13 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2016-06-20 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2016-06-20 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2017-04-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2017-04-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2017-05-29 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2017-05-29 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2018-06-04 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2018-06-04 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2018-10-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-22 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-22 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-23 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-24 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-24 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2018-10-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2019-06-10 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2019-06-10 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2020-04-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-04-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-06-15 | active       | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2020-06-15 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | 1.0, 4 time(s) per 1 day
+2020-09-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2020-09-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -

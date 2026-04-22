@@ -1,0 +1,12 @@
+Patient: Alonso270 Mills423 | Age: 53 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Vitamin B12 5 MG/ML Injectable Solution | 2001499 | active | 1995-09-21 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1997-10-16 | - | - |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 2003-02-26 | 1.0 | 2 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2006-04-26 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2010-12-20 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2024-09-07 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-07-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-07-24 | 1.0 | 1 time(s) per 1 day |

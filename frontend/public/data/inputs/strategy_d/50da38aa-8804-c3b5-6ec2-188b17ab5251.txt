@@ -1,0 +1,146 @@
+Patient: Wallace647 Hermiston71 | Age: 65 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2005-07-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-07-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-02-27 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2006-07-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-07-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-07-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-01-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-01-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-07-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-07-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2009-02-02 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2009-07-16 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-07-16 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2009-08-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-08-06 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-06-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-06-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-06-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-06-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-06-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-06-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-07-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-07-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-08-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-08-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-04-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-04-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-08-18 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-08-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2012-04-23 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2012-08-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-08-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-08-29 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-08-29 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-09-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-09-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-05-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-05-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-09-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-09-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-09-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-09-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-10-13 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-10-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-11-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-11-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-08-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-08-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-09-21 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-09-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-09-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-09-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-10-04 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2018-10-04 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2018-10-04 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2018-10-04 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2019-05-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-05-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-10-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-10-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-12-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-12-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-10-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-10-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-10-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-10-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-11-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-11-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-12-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-12-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-03-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-03-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-05-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-05-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-05-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-05-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-08-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-08-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-09-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-09-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-10-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-10-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-11-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-11-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-04-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-04-06 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-06-01 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-06-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-10-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-10-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-11-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-11-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-01-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-01-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-03-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-03-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-04-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-04-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-07-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-07-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-10-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-10-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-11-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-11-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-01-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-01-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-05-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-05-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-05-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-05-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-06-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-06-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-07-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-07-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-11-06 | active       | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-11-06 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-01-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-01-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -

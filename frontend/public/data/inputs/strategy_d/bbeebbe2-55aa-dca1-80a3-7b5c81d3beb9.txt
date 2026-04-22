@@ -1,0 +1,32 @@
+Patient: Samuel331 Villanueva621 | Age: 42 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1985-04-11 | active       | Astemizole 10 MG Oral Tablet (RxNorm: 197378) | -
+1987-10-24 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1987-10-24 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1994-01-02 | completed    | Hydrocortisone 10 MG/ML Topical Cream (RxNorm: 106258) | -
+1995-05-02 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1995-05-02 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1996-05-07 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1996-05-07 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1997-05-13 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1997-05-13 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1998-05-19 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1998-05-19 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1999-05-25 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1999-05-25 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+1999-08-03 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+1999-08-03 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2000-05-30 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2000-05-30 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2001-03-05 | completed    | predniSONE 5 MG Oral Tablet (RxNorm: 312617) | -
+2001-06-05 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2001-06-05 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2002-06-11 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2002-06-11 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2003-06-17 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2003-06-17 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2004-06-22 | completed    | budesonide 0.25 MG/ML Inhalation Suspension (RxNorm: 351109) | -
+2004-06-22 | completed    | albuterol 0.83 MG/ML Inhalation Solution (RxNorm: 630208) | -
+2014-01-30 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -

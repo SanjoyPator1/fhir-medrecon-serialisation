@@ -1,0 +1,64 @@
+Patient: Clark193 Parisian75 | Age: 59 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| carbamazepine 20 MG/ML Oral Suspension [Tegretol] | 308971 | completed | 1996-12-05 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 1998-09-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-09-06 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-09-06 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-09-12 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2002-11-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-11-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-09-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-09-23 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2004-10-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-09-29 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2005-10-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-10-05 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2006-10-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-10-11 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2007-10-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2008-09-12 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-10-16 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2009-08-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-10-22 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2010-08-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-10-28 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2011-06-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-11-03 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2012-06-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-11-08 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2013-06-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-08-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-11-14 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2014-05-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-11-20 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2015-05-09 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2015-11-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-11-26 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2016-04-03 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2016-10-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-11-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-11-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-12-01 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2017-02-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-12-07 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2018-02-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-12-13 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-02-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-12-19 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-01-13 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-12-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-12-24 | 1.0 | 1 time(s) per 1 day |
+| amoxicillin 875 MG / clavulanate 125 MG Oral Tablet | 562508 | completed | 2021-09-27 | 1.0 | 2 time(s) per 1 day |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 2021-09-29 | 1.0 | 2 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-12-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-12-30 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-11-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-01-05 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-11-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-01-11 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-10-19 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-01-16 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-09-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2026-01-22 | 1.0 | 1 time(s) per 1 day |

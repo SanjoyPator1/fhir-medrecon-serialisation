@@ -1,0 +1,841 @@
+Patient: Leo278 Sanford861 | Age: 66 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-04-14 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1998-03-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+1998-03-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+1998-03-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+1999-03-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+1999-03-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2000-03-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2000-03-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2001-02-15 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2001-02-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2001-02-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2001-03-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2001-03-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-03-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2002-03-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-04-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2002-04-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2002-04-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2002-07-23 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2003-03-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2003-03-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2003-03-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2004-04-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2004-04-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2004-04-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-04-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2005-04-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2005-04-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-02-05 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2006-02-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-02-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-04-16 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2006-04-16 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-04-16 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-09-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2006-09-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-09-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-04-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2007-04-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-04-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-07-01 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2007-07-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-07-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-04-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-04-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-04-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-07-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-07-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-07-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-12-21 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-12-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-12-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2009-05-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-05-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-05-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-05-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-05-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-05-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-11-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-11-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-11-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-05-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-05-08 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-05-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-05-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-05-15 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2011-05-15 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2011-05-15 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2011-05-15 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2011-05-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-05-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-05-29 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-05-29 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-05-29 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-06-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-06-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-06-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-06-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-06-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-06-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2012-05-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-05-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-05-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2012-08-05 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-08-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-08-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-01-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-01-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-01-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-05-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-05-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-05-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-06-02 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-06-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-06-02 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-02-04 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-03-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-03-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-03-23 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-03-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-04-01 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-06-01 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-06-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-06-01 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-06-01 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-06-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-08-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-08-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-08-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-08-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-08-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-11-16 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-11-16 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-11-16 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-11-16 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-11-16 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-11-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-11-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-11-23 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-11-23 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-11-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-11-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-11-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-11-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-11-30 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-11-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-12-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-12-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-12-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-12-07 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-12-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-12-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-12-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-12-28 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-12-28 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-12-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-01-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-01-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-01-04 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-01-04 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-01-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-06-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-06-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-06-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-06-07 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-06-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-12-13 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-12-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-12-13 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-12-13 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-12-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-01-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-01-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-01-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-01-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2016-01-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-06-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-06-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-06-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-06-12 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2016-06-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-09-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-09-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-09-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-09-11 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2016-09-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-03-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-03-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-03-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-03-12 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-03-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-05-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-05-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-05-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-05-07 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-05-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-06-18 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-06-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-06-18 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-06-18 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-06-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-11-05 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-11-05 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-11-05 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-11-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-06-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-06-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-06-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-06-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2018-06-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-06-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-06-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-06-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-06-30 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2019-06-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-12-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-12-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-12-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-12-22 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2019-12-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-05-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-05-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-05-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-05-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-05-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-07-05 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-07-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-07-05 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-07-05 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-07-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-07-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-07-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-07-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-07-19 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-07-19 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-09-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-09-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-09-20 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-09-20 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-09-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-09-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-09-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-10-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-11-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2020-12-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-01-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-02-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-03-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-04-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-05-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-06-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-07-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-07-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-07-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-07-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-07-11 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2021-07-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-07-18 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-07-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-07-18 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-07-18 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2021-07-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-07-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-07-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-07-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-09-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-10-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2021-12-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-01-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-02-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-03-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-04-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-05-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-05-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-05-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-05-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-05-15 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-05-15 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-05-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-05-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-05-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-05-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-06-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-06-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-06-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-06-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-06-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-06-26 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-06-26 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-06-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-07-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-07-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-07-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-07-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-07-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-07-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-07-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-07-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-07-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-08-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-08-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-08-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-08-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-08-14 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-08-14 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-08-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-08-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-08-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-08-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-09-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-09-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-09-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-09-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-09-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-09-25 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-09-25 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-09-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-10-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-10-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-12-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-12-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-12-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-12-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-12-11 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-12-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-12-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-12-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2022-12-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-01-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-02-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-03-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-03-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-03-12 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-03-12 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-03-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-03-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-04-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-05-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-05-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-05-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-05-07 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-05-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-05-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-05-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-05-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-06-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-06-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-06-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-06-18 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-06-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-06-18 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-06-18 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-06-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-06-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-06-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-07-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-07-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-07-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-07-09 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-07-09 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-07-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-07-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-07-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-07-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-07-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-07-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-07-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-07-30 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-07-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-08-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-08-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-08-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-08-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-08-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-09-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-09-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-09-03 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-09-03 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-09-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-09-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-09-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-09-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-10-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-05 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-11-05 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-11-05 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-11-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-11-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-11-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2023-12-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-12-31 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-12-31 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-12-31 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-12-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-01-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-01-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-02-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-03-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-03-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-03-03 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-03-03 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-03-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-03-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-03-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-03-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-03-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-04-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-05-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-06-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-06-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-06-30 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-06-30 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-06-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-07-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-07-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-08-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-08-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-08-04 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-08-04 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-08-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-08-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-08-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-08-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-09-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-09-15 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-09-15 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-09-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-09-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-09-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-10-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-10-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-10-27 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-10-27 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-10-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-11-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-11-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-11-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-11-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-11-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-12-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-12-08 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-12-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-12-08 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-12-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-12-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-12-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-12-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2024-12-29 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-12-29 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-12-29 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-12-29 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-12-29 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-01-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-01-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-01-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-01-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-01-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-02-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-02-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-02-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-02-09 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-02-09 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-02-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-02-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-02-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-02-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-03-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-04-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-04-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-04-27 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-04-27 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-04-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-05-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-05-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-05-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-05-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-05-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-05-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-06-08 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-06-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-06-08 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-06-08 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-06-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-06-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-07-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-07-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-07-27 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-07-27 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-07-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-08-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-08-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-08-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-08-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-08-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-08-17 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-08-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-08-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-08-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-08-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-08-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-08-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-08-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-09-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-10-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-10-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-10-26 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-10-26 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-10-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-11-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-11-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-11-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-11-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-11-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-11-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-11-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-11-23 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-11-23 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-11-23 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-12-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-12-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-12-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-12-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2025-12-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-02-08 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2026-02-09 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2026-02-09 | completed    | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2026-02-22 | active       | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2026-02-22 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2026-02-22 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2026-02-22 | active       | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2026-02-22 | active       | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2026-02-22 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-03-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2026-03-08 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -

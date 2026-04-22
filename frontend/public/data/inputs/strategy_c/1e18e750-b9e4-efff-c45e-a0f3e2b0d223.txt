@@ -1,0 +1,101 @@
+Patient: Dalila583 Hartmann983 | Age: 65 | Gender: female
+
+Currently active medications:
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2012-01-07, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2024-09-25, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2024-09-25, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2024-09-25, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2024-09-25, status: active. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-02-04, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-02-04, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2026-02-04, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1997-02-27, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2000-02-25, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2002-02-04, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2003-01-30, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2004-01-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2004-12-13, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2005-01-24, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762), prescribed on 2006-01-19, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762), prescribed on 2007-01-14, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2009-12-29, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2010-10-30, status: completed. Dosage not recorded.
+  - 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2010-12-24, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2011-10-25, status: completed. Dosage not recorded.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-12-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-12-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2019-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-12-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2020-12-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-01-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2022-01-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2023-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2023-01-11, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-01-17, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-01-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-01-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-09-18, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-09-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-09-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-09-25, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-09-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-09-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-10-02, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-10-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-10-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-10-09, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-10-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-10-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-10-16, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-10-23, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-10-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-10-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-10-30, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-10-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-10-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-11-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-11-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-11-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-12-04, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-12-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-12-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104), prescribed on 2024-12-11, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-12-25, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-01-01, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-01-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-01-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-01-22, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-01-29, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-01-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-01-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-02-05, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-02-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-02-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-12-24, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-12-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-12-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-12-31, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-12-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-12-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-01-07, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-01-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2026-01-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

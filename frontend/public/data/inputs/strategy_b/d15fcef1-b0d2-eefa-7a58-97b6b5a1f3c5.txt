@@ -1,0 +1,22 @@
+Patient: Tommye961 Eichmann909 | Age: 44 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1997-01-03 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 1998-02-05 | 1.0 | 2 time(s) per 1 day |
+| amoxicillin 500 MG / clavulanate 125 MG Oral Tablet | 617296 | completed | 1998-02-06 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1998-12-28 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2000-12-17 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 2002-12-07 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2005-01-08 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2006-01-03 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2007-12-24 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2009-12-16 | - | - |
+| {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] | 978950 | completed | 2010-12-11 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2011-12-06 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2012-12-03 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2016-11-12 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2022-06-11 | - | - |
+| {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] | 748879 | completed | 2023-06-06 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2024-08-31 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | active | 2025-08-28 | - | - |

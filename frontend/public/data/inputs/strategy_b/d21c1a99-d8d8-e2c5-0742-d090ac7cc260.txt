@@ -1,0 +1,106 @@
+Patient: Irene779 Ruiz676 | Age: 57 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 2001-02-07 | - | - |
+| ferrous sulfate 325 MG Oral Tablet | 310325 | active | 2004-07-07 | - | - |
+| Vitamin B12 5 MG/ML Injectable Solution | 2001499 | active | 2004-07-07 | - | - |
+| {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] | 749762 | completed | 2005-04-11 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2006-04-13 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2007-04-01 | - | - |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2008-03-26 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2009-03-21 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2011-03-14 | - | - |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2012-03-08 | - | - |
+| {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] | 749762 | completed | 2015-02-21 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2016-02-16 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2018-12-31 | - | - |
+| Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet | 857005 | completed | 2019-01-08 | 1.0 | 1 time(s) per 6 hour |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2019-02-04 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-08 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-08 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-08 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-09 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-09 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-09 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-10 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-10 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-10 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-11 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-11 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-11 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-12 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-12 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-12 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-01-13 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-13 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-13 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-14 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-14 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-14 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-15 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-01-15 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-15 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-16 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-16 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-16 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-16 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-16 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-16 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-16 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-17 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-17 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-17 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-17 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-17 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-17 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-17 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-18 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-18 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-18 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-18 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-18 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-18 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-18 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-19 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-19 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-19 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-19 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-19 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-19 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-19 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-20 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-20 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-20 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-20 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-20 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-20 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-20 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-21 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-21 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-21 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-21 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-21 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-21 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-21 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-22 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-22 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-22 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-22 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-22 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-22 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-22 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-23 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-23 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-23 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-23 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-23 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-23 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-23 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-01-24 | 1.0 | 1 time(s) per 1 day |
+| Albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-24 | 1.0 | 1 time(s) per 4 hour |
+| vancomycin 1000 MG Injection | 1807513 | completed | 2021-01-24 | - | - |
+| piperacillin 4000 MG / tazobactam 500 MG Injection | 1659149 | completed | 2021-01-24 | 1.0 | 1 time(s) per 1 day |
+| 4 ML Norepinephrine 1 MG/ML Injection | 242969 | completed | 2021-01-24 | - | - |
+| 1 ML Vasopressin (USP) 20 UNT/ML Injection | 2103182 | completed | 2021-01-24 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-01-24 | - | - |

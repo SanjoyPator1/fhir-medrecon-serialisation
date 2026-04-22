@@ -1,0 +1,16 @@
+Patient: Demetrius568 Miller503 | Age: 48 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2002-05-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2009-12-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-12-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-12-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-03-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-12-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-12-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-12-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-12-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-01-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2026-01-11 | 1.0 | 1 time(s) per 1 day |

@@ -1,0 +1,47 @@
+Patient: Beau391 Fadel536 | Age: 68 | Gender: male
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2005-01-04, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2023-03-05, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2023-03-05, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2023-03-05, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2023-03-05, status: active. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2026-03-16, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2003-01-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2004-01-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2005-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2006-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2007-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2008-01-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2009-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2010-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2011-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2012-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2013-01-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2014-01-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2015-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2015-09-10, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2016-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2017-01-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2018-01-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2019-02-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467), prescribed on 2019-08-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2019-08-06, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2020-02-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-02-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-02-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-03-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2023-05-22, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-03-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2024-06-23, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-03-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

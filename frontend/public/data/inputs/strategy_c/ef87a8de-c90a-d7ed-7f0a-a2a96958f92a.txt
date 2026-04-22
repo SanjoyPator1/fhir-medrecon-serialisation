@@ -1,0 +1,15 @@
+Patient: Chadwick722 Pollich983 | Age: 75 | Gender: male
+
+Currently active medications:
+  - 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule (RxNorm: 1599803), prescribed on 2025-02-13, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1997-06-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1998-04-27, status: completed. Dosage not recorded.
+  - ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309), prescribed on 2000-10-12, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - cephalexin 500 MG Oral Tablet (RxNorm: 197454), prescribed on 2000-10-13, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2005-03-20, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2020-12-21, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2021-07-10, status: completed. Dosage not recorded.
+  - Galantamine 4 MG Oral Tablet (RxNorm: 310436), prescribed on 2023-03-16, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-11-15, status: completed. Dosage not recorded.

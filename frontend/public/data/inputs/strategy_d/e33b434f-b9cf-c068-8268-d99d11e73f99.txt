@@ -1,0 +1,26 @@
+Patient: Lorinda137 Boyle917 | Age: 61 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+2000-12-29 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2001-12-24 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2004-07-06 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2006-06-26 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+2009-04-22 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2009-06-12 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2010-06-07 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2011-06-02 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2012-05-27 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2013-01-13 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-01-20 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-05-17 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2023-02-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2024-05-21 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2024-05-21 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2024-05-21 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2024-05-21 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2025-01-07 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2025-01-07 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2025-05-27 | active       | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2025-05-27 | active       | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2025-08-09 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -

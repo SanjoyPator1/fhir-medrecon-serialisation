@@ -1,0 +1,16 @@
+Patient: Mitch821 Schneider199 | Age: 64 | Gender: male
+
+Currently active medications:
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-10-16, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1998-03-05, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG Oral Capsule (RxNorm: 308182), prescribed on 2014-06-28, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005), prescribed on 2014-06-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2014-06-28, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2014-12-05, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2015-09-22, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2017-05-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-05-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2025-04-29, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

@@ -1,0 +1,51 @@
+Patient: Woodrow571 Collier206 | Age: 73 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2019-04-20, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2019-04-20, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2019-04-20, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2019-04-20, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-05-17, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2025-05-17, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2006-03-25, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2009-02-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2009-02-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2010-02-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-02-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-03-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-03-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2013-03-09, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-03-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2014-03-15, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-03-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2015-03-21, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-03-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2016-03-26, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-04-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2017-04-01, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2018-04-07, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-04-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2019-04-13, status: completed. Dosage not recorded.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2019-05-13, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-04-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2020-04-18, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-04-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2021-04-24, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-04-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2022-04-30, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-05-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2023-05-06, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2024-05-11, status: completed. Dosage not recorded.
+  - sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335), prescribed on 2024-10-16, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.

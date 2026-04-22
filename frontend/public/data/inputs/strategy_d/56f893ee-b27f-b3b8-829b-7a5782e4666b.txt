@@ -1,0 +1,22 @@
+Patient: Vincenzo126 Parisian75 | Age: 62 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-03-04 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2010-07-09 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2011-09-23 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2016-12-12 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+2016-12-14 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+2017-10-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-10-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-10-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-10-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-10-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-02-15 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2021-02-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-02-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-11-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-11-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-11-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-11-28 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day

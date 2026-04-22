@@ -1,0 +1,17 @@
+Patient: Leif534 Rowe323 | Age: 60 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-01-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2003-05-19 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-02-12 | completed    | piperacillin 2000 MG / tazobactam 250 MG Injection (RxNorm: 1659131) | -
+2010-02-12 | completed    | 150 ML vancomycin 5 MG/ML Injection (RxNorm: 1807510) | -
+2010-05-02 | active       | ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325) | -
+2012-04-02 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2017-04-16 | completed    | Galantamine 4 MG Oral Tablet (RxNorm: 310436) | -
+2018-02-01 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2018-12-18 | active       | 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule (RxNorm: 1599803) | -
+2023-05-13 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2024-06-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-03-28 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2025-06-16 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

@@ -1,0 +1,17 @@
+Patient: Demetrius568 Miller503 | Age: 48 | Gender: male
+
+Currently active medications:
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2026-01-11, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2002-05-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2009-12-27, status: completed. Dosage not recorded.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-12-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-12-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2019-12-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2020-03-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2020-12-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2021-12-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2022-12-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2023-12-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-01-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

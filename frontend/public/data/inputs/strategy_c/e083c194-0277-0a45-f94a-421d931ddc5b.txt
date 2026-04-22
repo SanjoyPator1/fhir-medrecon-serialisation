@@ -1,0 +1,61 @@
+Patient: Aaron697 Turner526 | Age: 65 | Gender: male
+
+Currently active medications:
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-03-10, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2026-03-10, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-03-10, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2002-06-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2007-02-02, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG Oral Capsule (RxNorm: 308182), prescribed on 2012-05-27, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2012-05-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-04-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-04-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-05-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2014-01-13, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-04-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-04-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-05-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-05-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-05-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-05-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-11-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-11-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2019-11-12, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2020-03-10, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-03-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-03-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2020-06-02, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2020-06-09, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-06-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-06-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2021-06-08, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-06-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-06-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-05-03, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-05-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-05-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2022-06-14, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-06-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-06-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2023-06-20, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-06-25, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-06-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-07-01, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-07-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-07-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-10-14, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-10-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-10-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

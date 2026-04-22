@@ -1,0 +1,13 @@
+Patient: Louie190 Emard19 | Age: 53 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-06-20 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1998-11-30 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2002-03-08 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2005-10-06 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2011-09-03 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2013-06-24 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2018-11-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2023-09-13 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-08-29 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -

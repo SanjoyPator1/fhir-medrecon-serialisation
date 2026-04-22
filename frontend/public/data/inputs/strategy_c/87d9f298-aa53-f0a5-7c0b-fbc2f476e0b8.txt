@@ -1,0 +1,35 @@
+Patient: Esteban536 Moore224 | Age: 49 | Gender: male
+
+Currently active medications:
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2025-07-01, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2025-07-01, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1998-09-21, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2000-05-28, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2005-04-28, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2008-02-01, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2014-04-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2014-04-29, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2014-06-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2015-05-05, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2015-05-05, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2016-05-10, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2016-05-10, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2017-05-16, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2017-05-16, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2018-05-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2018-05-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2019-05-28, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2019-05-28, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2020-06-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2020-06-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2021-06-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2021-06-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2021-09-30, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2022-06-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2022-06-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2023-06-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2023-06-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2024-06-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2024-06-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.

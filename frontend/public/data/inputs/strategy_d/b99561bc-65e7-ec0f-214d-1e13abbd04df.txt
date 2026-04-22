@@ -1,0 +1,15 @@
+Patient: Mitch821 Schneider199 | Age: 64 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-03-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-06-28 | completed    | Amoxicillin 250 MG Oral Capsule (RxNorm: 308182) | 1.0, 2 time(s) per 1 day
+2014-06-28 | completed    | Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005) | 1.0, 1 time(s) per 6 hour
+2014-06-28 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2014-12-05 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2015-09-22 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2017-05-25 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2023-05-04 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-04-29 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-10-16 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-10-16 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day

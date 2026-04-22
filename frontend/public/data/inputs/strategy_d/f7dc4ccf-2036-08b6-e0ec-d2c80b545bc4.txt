@@ -1,0 +1,49 @@
+Patient: Antonia30 Wolf938 | Age: 70 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1997-01-07 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1997-02-13 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+1998-02-08 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1999-02-03 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+1999-10-19 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2000-01-29 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2000-08-27 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2001-01-23 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2002-01-18 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2002-08-23 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2004-01-08 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2005-01-02 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2005-12-28 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2006-03-31 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2011-11-20 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2011-11-20 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2012-11-25 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2013-12-01 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-12-07 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2015-12-13 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2016-12-18 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2017-12-24 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2017-12-31 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2017-12-31 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2017-12-31 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2017-12-31 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2018-02-04 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2018-02-04 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2018-02-04 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2018-02-04 | completed    | insulin, regular, human 100 UNT/ML Injectable Solution (RxNorm: 311034) | -
+2018-02-05 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2018-02-05 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2018-02-05 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2018-02-05 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2018-02-05 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2018-02-05 | completed    | 10 ML Alfentanil 0.5 MG/ML Injection (RxNorm: 1723208) | -
+2018-12-30 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2020-01-05 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2021-01-10 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-01-16 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2023-01-22 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2023-06-11 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2024-01-28 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-02-02 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2026-02-08 | active       | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -

@@ -1,0 +1,27 @@
+Patient: Luvenia178 Goldner995 | Age: 61 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Doxycycline Monohydrate 50 MG Oral Tablet | 1652673 | completed | 1970-05-22 | 1.0 | 2 time(s) per 1 day |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1970-05-22 | - | - |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1971-12-21 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1973-05-16 | - | - |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1976-12-23 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1979-01-17 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1979-08-16 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1980-08-10 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1982-07-31 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1986-09-25 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1987-09-20 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 1987-10-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 1987-10-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 1987-10-19 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 1987-10-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 1988-10-24 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 1988-10-24 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 1989-10-30 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 1989-10-30 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 1990-11-05 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 1990-11-05 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 1991-11-11 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 1991-11-11 | - | - |

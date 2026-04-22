@@ -1,0 +1,32 @@
+Patient: Benny518 Jakubowski832 | Age: 58 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2008-04-15 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2009-10-14 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2011-12-31 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-05-31 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2015-06-30 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+2018-04-24 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2018-04-24 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2018-04-24 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2018-04-24 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2018-05-12 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2018-05-12 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2018-05-12 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2018-05-12 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2018-05-12 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2018-05-12 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2018-05-12 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2018-05-12 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2018-05-12 | completed    | 10 ML Alfentanil 0.5 MG/ML Injection (RxNorm: 1723208) | -
+2025-02-18 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2025-05-27 | active       | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2025-08-17 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-17 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-18 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-19 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2025-08-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -

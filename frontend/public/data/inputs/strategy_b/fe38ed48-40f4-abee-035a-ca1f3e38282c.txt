@@ -1,0 +1,19 @@
+Patient: Danial835 Wisoky380 | Age: 60 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Hydrocortisone 10 MG/ML Topical Cream | 106258 | active | 1989-06-16 | - | - |
+| Astemizole 10 MG Oral Tablet | 197378 | active | 1989-07-04 | - | - |
+| NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | 1870230 | active | 1989-07-04 | - | - |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 1998-10-17 | 1.0 | 4 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2000-06-24 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2005-05-09 | - | - |
+| aspirin 325 MG Oral Tablet | 212033 | completed | 2019-05-09 | 4.0 | 1 time(s) per 1 hour |
+| nitroglycerin 0.4 MG Sublingual Tablet | 198039 | completed | 2019-05-09 | - | - |
+| 2 ML morphine sulfate 1 MG/ML Injection | 1728805 | completed | 2019-05-09 | - | - |
+| 50 ML bivalirudin 5 MG/ML Injection | 1997015 | completed | 2019-05-09 | - | - |
+| clopidogrel 300 MG Oral Tablet | 749196 | completed | 2019-05-09 | - | - |
+| aspirin 81 MG Oral Tablet | 243670 | active | 2019-05-09 | - | - |
+| metoprolol tartrate 50 MG Oral Tablet | 866514 | active | 2019-05-09 | - | - |
+| atorvastatin 40 MG Oral Tablet | 617311 | active | 2019-05-09 | - | - |
+| enalapril maleate 5 MG Oral Tablet | 858813 | active | 2019-05-09 | - | - |

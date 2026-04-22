@@ -1,0 +1,154 @@
+Patient: Julian715 Beatty507 | Age: 68 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1996-09-15 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 1999-07-08 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-08-09 | - | - |
+| aspirin 325 MG Oral Tablet | 212033 | completed | 2001-04-28 | 4.0 | 1 time(s) per 1 hour |
+| nitroglycerin 0.4 MG Sublingual Tablet | 198039 | completed | 2001-04-28 | - | - |
+| heparin sodium, porcine 100 UNT/ML Injectable Solution | 1361048 | completed | 2001-04-28 | - | - |
+| clopidogrel 300 MG Oral Tablet | 749196 | completed | 2001-04-29 | - | - |
+| aspirin 81 MG Oral Tablet | 243670 | active | 2001-04-29 | - | - |
+| 24 HR metoprolol succinate 50 MG Extended Release Oral Tablet | 866436 | active | 2001-04-29 | - | - |
+| atorvastatin 10 MG Oral Tablet | 617312 | active | 2001-04-29 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2001-04-29 | - | - |
+| prasugrel 10 MG Oral Tablet | 855812 | active | 2001-04-29 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-02-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-03-20 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2014-04-17 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-03-26 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2015-04-12 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2016-03-07 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-03-31 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2017-03-02 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-04-06 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2017-07-23 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2018-02-25 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-04-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-04-12 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-02-20 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-04-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-04-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-09-18 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-04-23 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-04-23 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-06-15 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-04-11 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2021-04-16 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2021-04-16 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2021-04-16 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2021-04-29 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2021-04-29 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-04-29 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2021-04-29 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-04-29 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-11-07 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2022-05-05 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2022-05-05 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-05-05 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2022-05-05 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2022-05-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-05-05 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-06-05 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-09-03 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2022-09-03 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2022-09-03 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-12-02 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2022-12-02 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2022-12-02 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2023-05-04 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2023-05-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-05-04 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2023-05-04 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2023-05-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-05-04 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2023-05-11 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2023-05-11 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-05-11 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2023-05-11 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2023-05-11 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-05-11 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2023-05-18 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2023-05-18 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-05-18 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2023-05-18 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2023-05-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-05-18 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2023-05-25 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2023-05-25 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-05-25 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2023-05-25 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2023-05-25 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-05-25 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2023-06-01 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2023-06-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-06-01 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2023-06-01 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2023-06-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-06-01 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-06-08 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-06-29 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-11-26 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2023-11-26 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-02-24 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2024-05-16 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2024-05-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-05-16 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2024-05-16 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2024-05-16 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-05-16 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-05-24 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2024-05-24 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2024-05-24 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-08-23 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2024-08-23 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2024-08-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-13 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-14 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-14 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-15 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-15 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-16 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-16 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-17 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-17 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2024-12-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-12-21 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-03-21 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2025-03-21 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2025-03-21 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2025-05-22 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2025-05-22 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-05-22 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2025-05-22 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2025-05-22 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-05-22 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2025-05-29 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2025-05-29 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2025-05-29 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2025-05-29 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2025-06-12 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2025-06-12 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-06-12 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2025-06-12 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2025-06-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-06-12 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2025-07-03 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2025-07-03 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-07-03 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2025-07-03 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2025-07-03 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-07-03 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-07-19 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2025-07-19 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | active | 2025-07-31 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2025-07-31 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-07-31 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | active | 2025-07-31 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | active | 2025-07-31 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2025-07-31 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2025-08-22 | 1.0 | 2 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-12-16 | - | - |
+| proparacaine hydrochloride 5 MG/ML Ophthalmic Solution | 1191013 | completed | 2025-12-16 | - | - |
+| 4 ML bevacizumab 25 MG/ML Injection | 1657066 | completed | 2025-12-16 | - | - |

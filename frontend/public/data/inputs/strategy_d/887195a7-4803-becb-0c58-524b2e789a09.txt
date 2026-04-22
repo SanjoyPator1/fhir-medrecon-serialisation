@@ -1,0 +1,45 @@
+Patient: Chrystal576 Thompson596 | Age: 75 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1992-12-08 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2004-08-23 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2005-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2005-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-11-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-11-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-11-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-01-01 | active       | Levothyroxine Sodium 0.075 MG Oral Tablet (RxNorm: 966222) | 1.0, 1 time(s) per 60 day
+2009-08-22 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2009-11-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-12-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-12-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-12-10 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2012-12-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-12-15 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2013-12-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-12-21 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2014-12-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-12-27 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2016-01-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-01-02 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2016-12-28 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2017-01-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-01-07 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2017-01-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-01-14 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2017-03-19 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2018-01-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-01-13 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2019-01-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-01-19 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2019-08-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-08-10 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2019-08-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-08-17 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2020-01-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-01-25 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2021-01-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-01-30 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2022-02-05 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-02-05 | active       | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -

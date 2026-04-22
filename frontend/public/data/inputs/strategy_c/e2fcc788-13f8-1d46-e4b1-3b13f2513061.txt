@@ -1,0 +1,23 @@
+Patient: Haydee844 Treutel973 | Age: 66 | Gender: female
+
+Currently active medications:
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-03-18, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-06-19, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2004-09-27, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2005-02-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-02-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-04-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-04-23, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-04-28, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2016-08-20, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-05-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-05-10, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-05-16, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-05-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2020-11-18, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-05-27, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-06-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-06-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-06-13, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.

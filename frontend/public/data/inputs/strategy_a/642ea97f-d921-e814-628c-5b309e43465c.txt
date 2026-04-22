@@ -1,0 +1,406 @@
+Patient: Kimberlee228 Fisher429 | Age: 69 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2000-04-07T13:32:17+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2002-05-24T04:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2004-09-12T13:57:14+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "2008-02-24T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2011-04-14T13:55:07+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2012-03-21T14:30:53+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2017-12-17T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2017-12-17T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2018-12-23T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2019-12-29T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-01-03T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2022-01-09T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-01-15T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-01-21T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2024-08-29T13:40:11+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "198039",
+          "display": "nitroglycerin 0.4 MG Sublingual Tablet"
+        }
+      ],
+      "text": "nitroglycerin 0.4 MG Sublingual Tablet"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2024-08-29T13:56:31+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1997015",
+          "display": "50 ML bivalirudin 5 MG/ML Injection"
+        }
+      ],
+      "text": "50 ML bivalirudin 5 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2024-08-29T15:10:04+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1116635",
+          "display": "ticagrelor 90 MG Oral Tablet"
+        }
+      ],
+      "text": "ticagrelor 90 MG Oral Tablet"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "243670",
+          "display": "aspirin 81 MG Oral Tablet"
+        }
+      ],
+      "text": "aspirin 81 MG Oral Tablet"
+    },
+    "authoredOn": "2024-08-29T15:40:04+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "200033",
+          "display": "carvedilol 25 MG Oral Tablet"
+        }
+      ],
+      "text": "carvedilol 25 MG Oral Tablet"
+    },
+    "authoredOn": "2024-08-29T15:40:04+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "859747",
+          "display": "rosuvastatin calcium 10 MG Oral Tablet"
+        }
+      ],
+      "text": "rosuvastatin calcium 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-08-29T15:40:04+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "311354",
+          "display": "lisinopril 5 MG Oral Tablet"
+        }
+      ],
+      "text": "lisinopril 5 MG Oral Tablet"
+    },
+    "authoredOn": "2024-08-29T15:40:04+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "855812",
+          "display": "prasugrel 10 MG Oral Tablet"
+        }
+      ],
+      "text": "prasugrel 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-08-29T15:40:04+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-01-26T13:32:17+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "904419",
+          "display": "Alendronic acid 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Alendronic acid 10 MG Oral Tablet"
+    },
+    "authoredOn": "2026-02-01T13:32:17+05:30"
+  }
+]

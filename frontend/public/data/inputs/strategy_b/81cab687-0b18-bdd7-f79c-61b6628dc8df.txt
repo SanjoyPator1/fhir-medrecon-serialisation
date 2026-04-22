@@ -1,0 +1,23 @@
+Patient: Benito209 Beahan375 | Age: 51 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1975-09-07 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1975-09-07 | - | - |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1975-12-17 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 100 MG Oral Tablet | 198405 | completed | 1975-12-17 | - | - |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1977-11-07 | - | - |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1978-05-26 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1979-03-23 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1981-05-23 | - | - |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1987-12-28 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-12-04 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2003-07-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2003-07-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2003-07-19 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2003-07-19 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2003-12-09 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2003-12-20 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2003-12-20 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 2003-12-27 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 2003-12-27 | - | - |

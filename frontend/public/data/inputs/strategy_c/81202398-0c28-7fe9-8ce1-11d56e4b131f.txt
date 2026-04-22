@@ -1,0 +1,18 @@
+Patient: Leif534 Rowe323 | Age: 60 | Gender: male
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2010-05-02, status: active. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2018-02-01, status: active. Dosage not recorded.
+  - 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule (RxNorm: 1599803), prescribed on 2018-12-18, status: active. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-06-16, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1999-01-12, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2003-05-19, status: completed. Dosage not recorded.
+  - piperacillin 2000 MG / tazobactam 250 MG Injection (RxNorm: 1659131), prescribed on 2010-02-12, status: completed. Dosage not recorded.
+  - 150 ML vancomycin 5 MG/ML Injection (RxNorm: 1807510), prescribed on 2010-02-12, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2012-04-02, status: completed. Dosage not recorded.
+  - Galantamine 4 MG Oral Tablet (RxNorm: 310436), prescribed on 2017-04-16, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2023-05-13, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-06-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2025-03-28, status: completed. Dosage not recorded.

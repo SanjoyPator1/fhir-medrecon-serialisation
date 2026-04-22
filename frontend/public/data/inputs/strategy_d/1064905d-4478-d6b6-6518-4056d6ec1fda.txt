@@ -1,0 +1,24 @@
+Patient: Esteban536 Runolfsson901 | Age: 61 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-08-05 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2006-02-26 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2007-03-20 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2012-06-26 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2015-10-15 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2020-12-01 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2020-12-01 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2020-12-01 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2020-12-01 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2020-12-01 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2021-01-16 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2021-01-16 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2021-01-16 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2021-01-16 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2021-01-16 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2021-01-16 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2021-01-16 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2021-01-16 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2021-01-16 | completed    | remifentanil 2 MG Injection (RxNorm: 1729584) | -
+2021-02-12 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -

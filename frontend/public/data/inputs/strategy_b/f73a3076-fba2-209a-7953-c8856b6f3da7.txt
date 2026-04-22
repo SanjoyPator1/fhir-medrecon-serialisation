@@ -1,0 +1,21 @@
+Patient: Myung778 Wolf938 | Age: 51 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1998-07-24 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2001-09-18 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2002-10-04 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2004-09-27 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2008-04-11 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2009-04-06 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-04-20 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2016-02-29 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2017-02-23 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2018-02-22 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2020-06-28 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2021-02-06 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2022-02-22 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-10-03 | 1.0 | 1 time(s) per 1 day |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2024-02-15 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-10-02 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-10-02 | 1.0 | 1 time(s) per 1 day |

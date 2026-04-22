@@ -1,0 +1,52 @@
+Patient: Latrice352 Leuschke194 | Age: 60 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1993-08-06 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1996-05-03 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1996-09-04 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+1999-06-25 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule (RxNorm: 1648755) | 1.0, 2 time(s) per 1 day
+2003-02-25 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2018-10-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-10-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-11-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-10-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-10-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-10-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-10-18 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-10-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-10-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-06-06 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2022-10-30 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-10-30 | active       | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2022-10-30 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-12-03 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-04 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-04 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-05 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-05 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-06 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-06 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-07 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-07 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-08 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-08 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-09 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-09 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2022-12-10 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-26 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-27 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-27 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-28 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-28 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-29 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-29 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-30 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-30 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-31 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-07-31 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-08-01 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-09-20 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-09-21 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-10-08 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2023-10-09 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -

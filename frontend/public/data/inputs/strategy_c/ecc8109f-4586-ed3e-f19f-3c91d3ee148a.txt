@@ -1,0 +1,27 @@
+Patient: Frederica279 Funk324 | Age: 58 | Gender: female
+
+Currently active medications:
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-12-31, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1996-07-11, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1996-08-13, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2002-07-19, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2005-12-07, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2006-12-06, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2007-12-05, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2008-12-03, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2012-11-21, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2014-12-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2015-11-06, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2015-12-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2016-12-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] (RxNorm: 1856546), prescribed on 2017-10-31, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2017-12-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2018-12-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2019-12-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2020-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-12-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

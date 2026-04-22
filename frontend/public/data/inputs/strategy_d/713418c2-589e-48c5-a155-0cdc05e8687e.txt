@@ -1,0 +1,122 @@
+Patient: Teddy976 Abbott774 | Age: 56 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-02-11 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+1998-11-27 | active       | 24 HR nicotine 0.292 MG/HR Transdermal System (RxNorm: 198031) | -
+2008-12-07 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-05-16 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2010-10-08 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2010-10-08 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2011-10-14 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2012-10-19 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2013-10-25 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-10-31 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2014-10-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-11-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-11-06 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2016-04-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-04-15 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2016-11-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-11-11 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2017-04-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-04-07 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2017-11-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-11-17 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2018-11-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-11-23 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2019-11-29 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-11-29 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2019-12-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-12-27 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2020-05-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-05-22 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2020-12-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-12-04 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2021-02-04 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-04 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-04 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-04 | completed    | chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758) | 1.0, 1 time(s) per 1 day
+2021-02-05 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-05 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-05 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-05 | completed    | chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758) | 1.0, 1 time(s) per 1 day
+2021-02-06 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-06 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-06 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-06 | completed    | chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758) | 1.0, 1 time(s) per 1 day
+2021-02-07 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-07 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-07 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-07 | completed    | chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758) | 1.0, 1 time(s) per 1 day
+2021-02-08 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-08 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-08 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-08 | completed    | chloroquine phosphate 500 MG Oral Tablet (RxNorm: 1116758) | 1.0, 1 time(s) per 1 day
+2021-02-09 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-09 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-09 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-10 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-10 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-10 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-11 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2021-02-11 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-11 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-12 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2021-02-12 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-12 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-13 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2021-02-13 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-13 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-14 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2021-02-14 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-14 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-02-15 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2021-02-15 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2021-02-15 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-12-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-12-10 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-02-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-02-11 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-04-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-04-15 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-06-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-06-10 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2022-12-16 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-12-16 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2023-10-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-10-06 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2023-12-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2023-12-22 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2024-12-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-12-27 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2024-12-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-12-27 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-01-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-01-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-01-03 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-01-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-01-31 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-01-31 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-01-31 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-01-31 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-05-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-05-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-05-30 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-05-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-09-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-09-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-09-26 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-09-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-10-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-10-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-10-24 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2025-10-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-01-02 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2026-01-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2026-01-02 | completed    | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2026-01-02 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-02-20 | active       | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2026-02-20 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2026-02-20 | active       | 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975) | -
+2026-02-20 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day

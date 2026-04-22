@@ -1,0 +1,107 @@
+Patient: Irene779 Ruiz676 | Age: 57 | Gender: female
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2004-07-07, status: active. Dosage not recorded.
+  - Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499), prescribed on 2004-07-07, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343), prescribed on 2001-02-07, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762), prescribed on 2005-04-11, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2006-04-13, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905), prescribed on 2007-04-01, status: completed. Dosage not recorded.
+  - 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2008-03-26, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2009-03-21, status: completed. Dosage not recorded.
+  - Etonogestrel 68 MG Drug Implant (RxNorm: 389221), prescribed on 2011-03-14, status: completed. Dosage not recorded.
+  - 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2012-03-08, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762), prescribed on 2015-02-21, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2016-02-16, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2018-12-31, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005), prescribed on 2019-01-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2019-02-04, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-08, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-08, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-08, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-09, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-09, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-09, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-10, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-10, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-10, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-11, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-11, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-11, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-12, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-12, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-12, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2021-01-13, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-13, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-13, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-14, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-14, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2021-01-15, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-15, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-16, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-16, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-16, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-16, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-17, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-17, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-17, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-17, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-18, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-18, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-18, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-18, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-19, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-19, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-19, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-19, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-20, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-20, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-20, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-20, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-22, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-22, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-22, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-22, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-23, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-23, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-23, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-23, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2021-01-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - vancomycin 1000 MG Injection (RxNorm: 1807513), prescribed on 2021-01-24, status: completed. Dosage not recorded.
+  - piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149), prescribed on 2021-01-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 4 ML Norepinephrine 1 MG/ML Injection (RxNorm: 242969), prescribed on 2021-01-24, status: completed. Dosage not recorded.
+  - 1 ML Vasopressin (USP) 20 UNT/ML Injection (RxNorm: 2103182), prescribed on 2021-01-24, status: completed. Dosage not recorded.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2021-01-24, status: completed. Dosage not recorded.

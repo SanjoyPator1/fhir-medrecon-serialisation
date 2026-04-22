@@ -1,0 +1,40 @@
+Patient: Eilene124 Mohr916 | Age: 58 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1998-09-16 | completed    | {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133) | -
+1999-09-11 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+2003-05-18 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-11-18 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2014-12-09 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2014-12-31 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-01-19 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-02-09 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-03-04 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-03-23 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-04-14 | completed    | 100 ML Epirubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1732186) | -
+2015-05-17 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-06-07 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-06-30 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-07-19 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-08-10 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-08-31 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-09-23 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-10-15 | completed    | Carboplatin 10 MG/ML Injectable Solution (RxNorm: 597195) | -
+2015-10-22 | completed    | Tamoxifen 10 MG Oral Tablet (RxNorm: 198240) | 1.0, 1 time(s) per 1 day
+2016-08-31 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2017-08-15 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2020-10-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-10-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-10-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-10-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-11-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-11-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-11-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-11-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-11-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-11-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-11-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-11-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-11-26 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-11-26 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day

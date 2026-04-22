@@ -1,0 +1,60 @@
+Patient: Lou594 Conroy74 | Age: 55 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1998-06-22 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2003-02-27 | completed    | Amoxicillin 250 MG Oral Capsule (RxNorm: 308182) | 1.0, 2 time(s) per 1 day
+2003-02-27 | completed    | Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005) | 1.0, 1 time(s) per 6 hour
+2003-02-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-01-27 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2014-01-31 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-04-02 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2014-04-30 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2014-04-30 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-06-01 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-05-06 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-05-06 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2015-05-06 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2016-05-11 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2016-05-11 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2016-05-11 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2017-05-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-05-17 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2017-05-17 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2017-07-05 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-07-05 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2017-07-05 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2018-05-23 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2018-05-23 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2018-05-23 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2019-05-29 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2019-05-29 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2019-05-29 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2020-06-03 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-06-03 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2020-06-03 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2020-06-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-06-09 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2021-06-09 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2021-06-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-06-09 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2022-06-15 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-06-15 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2022-06-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-06-15 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2023-06-21 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-06-21 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2023-06-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-06-21 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2024-06-26 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-06-26 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2024-06-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-06-26 | completed    | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2025-07-02 | active       | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-07-02 | active       | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2025-07-02 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-07-02 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2025-07-09 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2025-07-09 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2025-07-09 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2025-07-09 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -

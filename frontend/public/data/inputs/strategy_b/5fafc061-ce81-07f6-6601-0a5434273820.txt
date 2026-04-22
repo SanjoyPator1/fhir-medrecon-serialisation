@@ -1,0 +1,28 @@
+Patient: Zella14 Batz141 | Age: 48 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 1997-03-10 | 1.0 | 1 time(s) per 4 hour |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-03-10 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2001-03-18 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 2005-08-27 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2006-05-20 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2006-08-22 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2007-08-17 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2008-08-11 | - | - |
+| Hydrocortisone 10 MG/ML Topical Cream | 106258 | active | 2009-07-03 | - | - |
+| Fexofenadine hydrochloride 60 MG Oral Tablet | 997501 | active | 2009-07-17 | - | - |
+| NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | 1870230 | active | 2009-07-17 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2009-08-06 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2013-07-16 | - | - |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-04-12 | 1.0 | 4 time(s) per 1 day |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2016-07-04 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2017-06-29 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2018-06-24 | - | - |
+| {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] | 978950 | completed | 2019-06-19 | - | - |
+| {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] | 748879 | completed | 2020-06-13 | - | - |
+| levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] | 1856546 | completed | 2021-06-08 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-03-11 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2023-05-31 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2024-05-25 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | active | 2025-05-20 | - | - |

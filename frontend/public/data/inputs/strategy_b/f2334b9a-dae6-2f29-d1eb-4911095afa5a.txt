@@ -1,0 +1,62 @@
+Patient: Lauralee67 Murphy561 | Age: 72 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1995-10-28 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-10-22 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1997-10-17 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 2002-10-03 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2004-09-15 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2008-03-30 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-02-04 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-03-19 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-04-27 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-04-27 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2014-05-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-07-17 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2015-05-03 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-05-03 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-05-03 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2016-05-08 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-05-08 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-05-08 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2017-05-14 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-05-14 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-05-14 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2018-05-20 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-05-20 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-05-20 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2019-05-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-05-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-05-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2020-05-31 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-05-31 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-05-31 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2021-06-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-06-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-06-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2022-06-12 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-06-12 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-06-12 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2023-06-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-06-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-06-18 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-06-23 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-06-23 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-06-23 | 1.0 | 4 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-06-30 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2024-06-30 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2024-06-30 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2024-06-30 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2024-07-16 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2024-07-16 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2024-07-16 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2024-07-16 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2024-07-16 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2024-07-16 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2024-07-16 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2024-07-16 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2024-07-16 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | active | 2025-06-29 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2025-06-29 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-06-29 | 1.0 | 4 time(s) per 1 day |

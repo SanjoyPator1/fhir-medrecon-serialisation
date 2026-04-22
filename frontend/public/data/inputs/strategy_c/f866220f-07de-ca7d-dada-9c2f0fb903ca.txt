@@ -1,0 +1,57 @@
+Patient: Lowell343 Murazik203 | Age: 68 | Gender: male
+
+Currently active medications:
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-12-23, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-12-23, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2002-08-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2002-08-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2002-09-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2002-09-17, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2002-10-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2003-08-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2003-08-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2004-08-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2004-08-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2005-08-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-08-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2006-09-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-09-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2007-09-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-09-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2008-09-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-09-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2009-09-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2009-09-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2010-09-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-09-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-10-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-10-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-10-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-10-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-10-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-10-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-10-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-10-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-10-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-10-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-11-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-11-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-11-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-11-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-11-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-11-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2019-05-16, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-11-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-11-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-11-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-11-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-11-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-11-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-12-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-12-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-12-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-12-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

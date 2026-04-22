@@ -1,0 +1,102 @@
+Patient: Doug189 Lowe577 | Age: 59 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-04-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+1996-05-31 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+1996-08-18 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+1996-10-31 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+1997-01-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+1997-03-29 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+1997-06-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+1997-09-29 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+1998-04-04 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+1998-08-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+1998-10-09 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+1998-11-22 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+1999-06-18 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+1999-09-19 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+1999-12-28 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2000-03-18 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2000-07-10 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2000-10-20 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2000-12-10 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+2001-03-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2001-10-25 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2002-09-25 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2003-01-30 | completed    | Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | -
+2003-05-17 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+2003-09-12 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2003-11-25 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2004-03-20 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2005-01-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2005-01-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-01-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-10-21 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2006-10-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2006-11-04 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2007-02-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2008-02-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2009-02-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2010-02-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2011-02-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2012-03-03 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2013-03-09 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2014-02-03 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-03-15 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-03-15 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2015-03-21 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-03-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2016-03-26 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-03-26 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-04-01 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-04-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2017-10-03 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2018-04-07 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-04-07 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-04-13 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-04-13 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-12-21 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-12-21 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2019-12-28 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-12-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-04-18 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-04-18 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-04-24 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2021-04-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-04-30 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-04-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-05-28 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2023-04-23 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2023-05-06 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-05-06 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-03-18 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2024-05-11 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-05-11 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-05-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-06-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2024-06-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-06-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-03-13 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2025-05-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2025-05-17 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-05-17 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-05-24 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2025-05-24 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2025-05-24 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2025-05-24 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2025-06-01 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2025-06-01 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2025-06-01 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2025-06-01 | completed    | insulin, regular, human 100 UNT/ML Injectable Solution (RxNorm: 311034) | -
+2025-06-01 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2025-06-01 | completed    | Diazepam 5 MG/ML Injectable Solution (RxNorm: 309845) | -
+2025-06-01 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2025-06-01 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2025-06-01 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2025-06-01 | completed    | remifentanil 2 MG Injection (RxNorm: 1729584) | -
+2025-08-13 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2026-03-14 | active       | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2026-03-14 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2026-03-14 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-03-21 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -

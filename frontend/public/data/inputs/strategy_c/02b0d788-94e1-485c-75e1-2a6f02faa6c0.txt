@@ -1,0 +1,11 @@
+Patient: Hoyt490 Hagenes547 | Age: 69 | Gender: male
+
+Currently active medications:
+  - zidovudine 300 MG Oral Tablet (RxNorm: 199663), prescribed on 1992-04-07, status: active. Dose: 1.0, frequency: 2 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1964-12-22, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 250 MG Oral Tablet (RxNorm: 834061), prescribed on 1968-05-07, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 250 MG Oral Tablet (RxNorm: 834061), prescribed on 1974-08-04, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 250 MG Oral Tablet (RxNorm: 834061), prescribed on 1975-09-12, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1990-03-24, status: completed. Dosage not recorded.

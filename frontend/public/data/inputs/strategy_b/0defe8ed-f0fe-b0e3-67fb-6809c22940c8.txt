@@ -1,0 +1,11 @@
+Patient: Albertina684 Lockman863 | Age: 51 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 2000-11-15 | - | - |
+| {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] | 749762 | completed | 2006-02-15 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2007-02-10 | - | - |
+| {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] | 978950 | completed | 2010-01-25 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2015-11-04 | - | - |
+| piperacillin 2000 MG / tazobactam 250 MG Injection | 1659131 | completed | 2025-07-15 | - | - |
+| 150 ML vancomycin 5 MG/ML Injection | 1807510 | completed | 2025-07-15 | - | - |

@@ -1,0 +1,43 @@
+Patient: Boyd728 Hand679 | Age: 55 | Gender: male
+
+Currently active medications:
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-12-18, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-12-25, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2001-11-06, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2003-03-24, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-08-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-08-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-08-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-09-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-09-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2009-09-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-09-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-09-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-10-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-10-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2013-10-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-10-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2014-10-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-10-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2015-10-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-10-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2016-10-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2017-03-31, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-11-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2017-11-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-11-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2018-11-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-11-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2019-11-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-11-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2020-11-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-11-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-12-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-12-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-12-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-12-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-12-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-12-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-12-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

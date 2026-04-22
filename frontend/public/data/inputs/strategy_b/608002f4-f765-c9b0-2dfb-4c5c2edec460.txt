@@ -1,0 +1,40 @@
+Patient: Tisha655 Hilll811 | Age: 50 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1995-06-26 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-06-20 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2000-05-30 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2002-03-12 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2010-12-26 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2013-12-25 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2015-05-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2015-11-18 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2016-05-19 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2017-05-14 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2019-05-16 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2022-07-07 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2023-07-02 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2024-06-26 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2024-10-31 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2024-12-01 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2024-12-01 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2024-12-01 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2025-05-30 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | active | 2025-06-21 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2025-08-21 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2025-08-21 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2025-08-21 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2025-08-21 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | active | 2025-10-09 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2025-10-09 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | active | 2025-10-09 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | active | 2025-10-09 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-26 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-27 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-27 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-28 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-28 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-29 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-29 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2025-11-30 | - | - |

@@ -1,0 +1,84 @@
+Patient: Janetta325 Weissnat378 | Age: 67 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1995-12-08 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1996-10-08 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1997-11-30 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1998-11-25 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1999-11-20 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+2001-11-12 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2002-11-07 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2005-10-22 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2005-11-29 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2005-11-29 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2005-11-29 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2005-11-29 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2005-12-06 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2005-12-06 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2006-01-03 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2006-01-03 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2006-01-10 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2006-01-10 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2006-01-17 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2006-06-20 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2006-06-20 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2006-07-30 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2006-10-17 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2007-06-26 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2007-06-26 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2007-10-12 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2008-07-01 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2008-07-01 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2008-10-10 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2009-07-07 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2009-07-07 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2009-08-29 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2010-07-13 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2010-07-13 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2011-07-19 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2011-07-19 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2012-07-24 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2012-07-24 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2013-04-04 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2013-07-30 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2013-07-30 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2014-02-06 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-08-05 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2014-08-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-08-05 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2015-08-11 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2015-08-11 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2015-08-11 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2016-08-16 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2016-08-16 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2016-08-16 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2017-08-22 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2017-08-22 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2017-08-22 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2018-08-28 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2018-08-28 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2018-08-28 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2019-09-03 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2019-09-03 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2019-09-03 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2020-09-08 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2020-09-08 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-09-08 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2021-09-14 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2021-09-14 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2021-09-14 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2022-07-02 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2022-09-20 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2022-09-20 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2022-09-20 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2023-09-26 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2023-09-26 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2023-09-26 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2024-10-01 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2024-10-01 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-10-01 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+2024-10-05 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2025-10-14 | active       | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+2025-10-14 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-10-14 | active       | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -

@@ -1,0 +1,19 @@
+Patient: China583 Weimann465 | Age: 48 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-09-26 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1997-09-21 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1998-09-12 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1999-02-22 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+1999-08-10 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1999-09-11 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2003-02-19 | completed    | {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762) | -
+2005-06-01 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2009-04-23 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2011-03-30 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2012-03-27 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2013-03-22 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2016-04-14 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2020-11-23 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154) | -
+2021-10-07 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -

@@ -1,0 +1,22 @@
+Patient: Jamaal34 Schowalter414 | Age: 54 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2011-12-13 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2021-11-10 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2021-11-28 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2021-11-28 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2021-11-28 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2021-11-28 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2021-12-16 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2021-12-16 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2021-12-16 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2021-12-16 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2021-12-16 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2021-12-16 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2021-12-16 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2021-12-16 | completed    | sevoflurane 1000 MG/ML Inhalation Solution (RxNorm: 200243) | -
+2021-12-16 | completed    | remifentanil 2 MG Injection (RxNorm: 1729584) | -
+2022-09-13 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2025-06-01 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2025-10-03 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -

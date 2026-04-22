@@ -1,0 +1,2096 @@
+Patient: Ellan282 Schneider199 | Age: 64 | Gender: female
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2003-04-29T00:36:44+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1648755",
+          "display": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule"
+        }
+      ],
+      "text": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule"
+    },
+    "authoredOn": "2007-12-22T10:24:04+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 2,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "198014",
+          "display": "Naproxen 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen 500 MG Oral Tablet"
+    },
+    "authoredOn": "2008-08-08T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2011-02-10T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2012-02-29T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2014-02-06T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2014-05-13T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2014-06-11T01:03:48+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2014-11-03T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2015-05-19T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2016-05-24T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2017-04-01T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2017-05-30T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2018-06-05T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2019-06-11T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2019-07-02T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2020-06-16T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2020-07-01T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2020-12-27T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2021-06-22T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2021-07-01T01:03:48+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2021-07-01T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2022-06-28T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2022-07-01T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2022-09-13T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2023-03-17T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2023-07-04T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2023-07-11T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-07-09T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2024-07-10T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-09-24T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-01T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-08T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-15T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-22T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-10-29T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-05T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-12T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-19T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-11-26T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-12-03T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2024-12-10T08:25:03+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-12-26T08:25:03+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2024-12-31T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "833135",
+          "display": "Milnacipran hydrochloride 100 MG Oral Tablet"
+        }
+      ],
+      "text": "Milnacipran hydrochloride 100 MG Oral Tablet"
+    },
+    "authoredOn": "2025-05-04T08:14:51+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "993770",
+          "display": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-15T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Every four hours (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "225756002",
+                "display": "Every four hours (qualifier value)"
+              }
+            ],
+            "text": "Every four hours (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2025-07-22T08:14:51+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

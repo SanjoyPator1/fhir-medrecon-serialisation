@@ -1,0 +1,25 @@
+Patient: Lou594 Green467 | Age: 52 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 1999-03-04 | 1.0 | 1 time(s) per 4 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-03-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2004-05-27 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2008-07-26 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-05-28 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-05-28 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2018-02-01 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-05-28 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-05-28 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-06-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-06-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-08-14 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-06-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-06-06 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-05-04 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2024-05-04 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2024-05-04 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2024-05-04 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-06-05 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-06-05 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2025-09-09 | - | - |

@@ -1,0 +1,11 @@
+Patient: Rolando809 Skiles927 | Age: 56 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2000-05-06 | completed    | Cefuroxime 250 MG Oral Tablet (RxNorm: 309097) | 1.0, 2 time(s) per 1 day
+2000-05-06 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2000-05-06 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2023-10-20 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-12-24 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2024-10-19 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-10-19 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

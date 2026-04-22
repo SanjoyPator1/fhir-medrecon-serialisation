@@ -1,0 +1,634 @@
+Patient: Jarrod316 Wiza601 | Age: 61 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2001-12-31 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2004-12-27 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-02-26 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-02-26 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2007-03-26 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-10-15 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2008-02-19 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2008-03-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-03-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-04-02 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2009-02-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2009-03-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-03-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-03-09 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2010-01-09 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2010-03-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-03-15 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2011-01-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-02-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-02-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-02-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2011-02-14 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2011-03-21 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-03-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-03-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-03-21 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2011-09-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-09-12 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-09-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-09-12 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2011-11-30 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-03-26 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-03-26 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-03-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-03-26 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-08-06 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-08-06 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-08-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-08-06 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-09-10 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-09-10 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-09-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-09-10 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2012-11-24 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-12-31 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-12-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-12-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-12-31 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-01-07 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-01-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-01-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-01-07 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-02-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-02-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-02-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-02-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-04-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-04-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-04-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-09-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-09-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-09-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-09-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-09-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-09-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-09-30 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-11-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-11-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-11-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-11-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-11-11 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-11-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-11-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-11-11 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-11-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-11-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-11-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-11-18 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2013-11-19 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-12-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-12-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-12-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-12-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-12-09 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-12-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-12-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-12-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-02-05 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-03-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-04-07 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-04-07 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-04-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-04-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-04-07 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-04-28 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-04-28 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-04-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-04-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-04-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-06-02 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-06-02 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-06-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-06-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-06-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-06-02 | 1.0 | 4 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2014-06-05 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2014-06-05 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2014-06-05 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2014-06-05 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-08-08 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-08-25 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-08-25 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-08-25 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-08-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-08-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-08-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-08-25 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2014-09-05 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-09-15 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-09-15 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-09-15 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-09-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-09-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-09-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-09-15 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-09-22 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-09-22 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-09-22 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-09-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-09-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-09-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-09-22 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-09-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-09-29 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-09-29 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-09-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-09-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-09-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-09-29 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-10-07 | 1.0 | 1 time(s) per 3 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2014-10-16 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-10-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-10-27 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-10-27 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-10-27 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-10-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-10-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-10-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-10-27 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-04-13 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-04-13 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-04-13 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-04-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-04-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-04-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-04-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-04-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-05-25 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-05-25 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-05-25 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-05-25 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-05-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-05-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-05-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-05-25 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-06-22 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-06-22 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-06-22 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-06-22 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-06-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-06-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-06-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-06-22 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-07-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-07-27 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-07-27 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-07-27 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-07-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-07-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-07-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-07-27 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2015-10-11 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-03-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-03-21 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-03-21 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-03-21 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-03-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-03-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-03-21 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-03-21 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-04-18 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-04-18 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-04-18 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-04-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-04-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-04-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-04-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-04-18 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2016-10-05 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-11-14 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-11-14 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-11-14 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-11-14 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-11-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-11-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-11-14 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-11-14 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-04-17 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-04-17 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-04-17 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-04-17 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-04-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-04-17 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-04-17 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-04-24 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-04-24 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-04-24 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-04-24 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-04-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-04-24 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-04-24 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-05-15 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-05-15 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-05-15 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-05-15 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-05-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-05-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-05-15 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-06-12 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-06-12 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-06-12 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-06-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-06-12 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-06-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-06-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-06-12 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-09-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-09-11 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-09-11 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-09-11 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-09-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-09-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-09-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-09-11 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2017-09-30 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-11-13 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-11-13 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-11-13 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-11-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-11-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-11-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-11-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-11-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-04-09 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-04-09 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-04-09 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-04-09 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-04-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-04-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-04-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-04-09 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-04-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-04-30 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-04-30 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-04-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-04-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-04-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-04-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-04-30 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2018-09-25 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-11-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-11-05 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-11-05 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-11-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-11-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-11-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-11-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-11-05 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-05-06 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-05-06 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-05-06 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-05-06 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-05-06 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-05-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-05-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-05-06 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-05-13 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-05-13 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-05-13 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-05-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-05-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-05-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-05-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-05-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-08-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-08-05 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-08-05 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-08-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-08-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-08-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-08-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-08-05 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-09-02 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-09-02 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-09-02 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-09-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-09-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-09-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-09-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-09-02 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-09-20 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-09-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-09-30 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-09-30 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-09-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-09-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-09-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-09-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-09-30 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-10-28 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-10-28 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-10-28 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-10-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-10-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-10-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-10-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-10-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-12-02 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-12-02 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-12-02 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-12-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-12-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-12-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-12-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-12-02 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-01-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-01-27 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-01-27 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-01-27 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-01-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-01-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-01-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-01-27 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-03-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-03-30 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-03-30 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-03-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-03-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-03-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-03-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-03-30 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-05-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-05-11 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-05-11 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-05-11 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-05-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-05-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-05-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-05-11 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-05-25 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-05-25 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-05-25 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-05-25 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-05-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-05-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-05-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-05-25 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-07-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-07-27 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-07-27 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-07-27 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-07-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-07-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-07-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-07-27 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-09-14 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-09-28 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-09-28 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-09-28 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-09-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-09-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-09-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-09-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-09-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-12-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-12-21 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-12-21 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-12-21 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-12-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-12-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-12-21 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-12-21 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-05-17 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-05-17 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-05-17 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2021-05-17 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-05-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-05-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-05-17 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-05-17 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-05-24 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-05-24 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-05-24 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2021-05-24 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-05-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-05-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-05-24 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-05-24 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-09-09 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-09-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-09-20 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-09-20 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2021-09-20 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-09-20 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-09-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-09-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-09-20 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-10-18 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-10-18 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-10-18 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2021-10-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-10-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-10-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-10-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-10-18 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-03-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-03-21 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-03-21 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-03-21 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-03-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-03-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-03-21 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-03-21 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-05-23 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-05-23 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-05-23 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-05-23 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-05-23 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-05-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-05-23 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-05-23 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-06-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-06-20 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-06-20 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-06-20 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-06-20 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-06-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-06-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-06-20 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-08-05 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-09-12 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-09-12 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-09-12 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-09-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-09-12 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-09-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-09-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-09-12 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-10-17 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-10-17 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-10-17 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-10-17 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-10-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-10-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-10-17 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-10-17 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-01-16 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-01-16 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-01-16 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2023-01-16 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-01-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-01-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-01-16 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-01-16 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-04-10 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-04-10 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-04-10 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2023-04-10 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-04-10 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-04-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-04-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-04-10 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-05-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-05-29 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-05-29 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2023-05-29 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-05-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-05-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-05-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-05-29 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-07-01 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-10-09 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-10-09 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-10-09 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2023-10-09 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-10-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-10-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-10-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-10-09 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-02-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-02-05 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-02-05 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-02-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-02-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-02-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-02-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-02-05 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-05-06 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-05-06 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-05-06 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-05-06 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-05-06 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-05-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-05-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-05-06 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-05-26 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-06-03 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-06-03 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-06-03 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-06-03 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-06-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-06-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-06-03 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-06-03 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-06-10 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-06-10 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-06-10 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-06-10 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-06-10 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-06-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-06-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-06-10 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-10-07 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-10-07 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-10-07 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-10-07 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-10-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-10-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-10-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-10-07 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-11-04 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-11-04 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-11-04 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-11-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-11-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-11-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-11-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-11-04 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-03-31 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-03-31 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-03-31 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-03-31 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-03-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-03-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-03-31 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-03-31 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-04-21 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-06-02 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-06-02 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-06-02 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-06-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-06-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-06-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-06-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-06-02 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-06-09 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-06-09 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-06-09 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-06-09 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-06-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-06-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-06-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-06-09 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-06-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-06-30 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-06-30 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-06-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-06-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-06-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-06-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-06-30 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-07-28 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-07-28 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-07-28 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-07-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-07-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-07-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-07-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-07-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-09-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-09-29 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-09-29 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-09-29 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-09-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-09-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-09-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-09-29 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-12-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-12-29 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2025-12-29 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2025-12-29 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-12-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-12-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-12-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2025-12-29 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2026-01-26 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2026-01-26 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2026-01-26 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2026-01-26 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2026-01-26 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2026-01-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2026-01-26 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2026-01-26 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2026-03-17 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2026-03-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2026-03-30 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | active | 2026-03-30 | 1.0 | 1 time(s) per 3 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | active | 2026-03-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2026-03-30 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-03-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2026-03-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2026-03-30 | 1.0 | 4 time(s) per 1 day |

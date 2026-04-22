@@ -1,0 +1,543 @@
+Patient: Wayne846 Considine820 | Age: 70 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1995-09-12 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+1998-10-23 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+1998-10-23 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+1998-10-23 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+1998-10-23 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+1998-11-12 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+1998-11-12 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+1998-11-12 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+1998-11-12 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+1998-11-12 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+1998-11-12 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+1998-11-12 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+1998-11-12 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+1998-11-12 | completed    | 10 ML Alfentanil 0.5 MG/ML Injection (RxNorm: 1723208) | -
+2002-08-20 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2002-10-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-10-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2002-11-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2003-10-31 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2003-10-31 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2004-11-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2004-11-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-09-09 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2005-11-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2005-11-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2006-11-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2006-11-17 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2007-04-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-04-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2007-04-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2007-11-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2007-11-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2007-11-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-08-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-08-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-08-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-09-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-09-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-09-12 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-11-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-11-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-11-14 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2008-11-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2008-11-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2008-11-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2009-04-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-04-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-04-10 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2009-08-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-08-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-08-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2009-12-04 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-12-04 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-12-04 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2009-12-11 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2009-12-11 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2009-12-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2010-12-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-12-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-12-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2010-12-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2010-12-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2010-12-10 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-01-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-01-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-01-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-11-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-11-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-11-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-12-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-12-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-12-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-12-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2011-12-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-12-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-01-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-01-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-01-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-01-13 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-01-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-01-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-01-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-01-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-01-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-01-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-01-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-01-27 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-02-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-02-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-02-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-02-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-02-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-02-10 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-02-17 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-02-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-02-17 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-02-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-02-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-02-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-03-02 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-03-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-03-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-03-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-03-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-03-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-03-16 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2012-03-30 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-03-30 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-03-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-04-06 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-04-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-04-06 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-04-27 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-04-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-04-27 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-05-25 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-05-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-05-25 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-08-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-08-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-08-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-09-21 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-09-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-09-21 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-10-19 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-10-19 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-10-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-11-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-11-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-11-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-12-21 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-12-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-12-21 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-12-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2012-12-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-12-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2013-01-18 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-01-18 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-01-18 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2013-03-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2013-03-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-03-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-01-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-01-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-01-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-10-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-10-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-10-10 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-12-19 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-12-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2014-12-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-12-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-01-02 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-01-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-01-02 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-01-09 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-01-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-01-09 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-01-16 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-01-16 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-01-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-04-10 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2015-04-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-04-10 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2015-08-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-09-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-10-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2015-12-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-01-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-01-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-01-15 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2016-01-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-01-15 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-01-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-01-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-01-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-02-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-03-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-04-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-05-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-06-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-07-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-09-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-10-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-11-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2016-12-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-01-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-01-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-01-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-01-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-02-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-02-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-02-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-02-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-02-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-03-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-04-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-05-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-05-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-05-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-06-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-06-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-07-28 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-07-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-07-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-08-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-08-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-08-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-08-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-08-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-09-08 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-09-08 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-09-08 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-09-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-09-18 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-09-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-09-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-09-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-10-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-11-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-15 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2017-12-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2017-12-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-12-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-12-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-17 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-01-26 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-01-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-01-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-02-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-02-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-02-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-02-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-02-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-11 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-14 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-03-23 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-03-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-03-23 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-03-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-08 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-12 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-20 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-04-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-04-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-04-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-04-30 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-28 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-05-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-06-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-06-07 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-06-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-06-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-06-22 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-06-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-06-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-06-29 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-07-02 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-07-05 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-07-20 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-07-23 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-07-26 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-08-03 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-08-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-08-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-08-10 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-08-13 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-08-16 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-08-24 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-08-24 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-08-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-08-31 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-09-03 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-09-06 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-09-14 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2018-09-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-09-14 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-09-21 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-09-24 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-09-27 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-01 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-04 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-19 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-22 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-25 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-10-26 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-10-27 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-10-28 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-10-29 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-10-29 | completed    | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2018-11-09 | completed    | 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] (RxNorm: 205923) | -
+2018-11-16 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-11-23 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-11-30 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-12-07 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2018-12-14 | completed    | 1 ML tacrolimus 5 MG/ML Injection [Prograf] (RxNorm: 108515) | -
+2019-02-01 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2019-02-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-02-01 | completed    | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2019-02-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-02-07 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2020-02-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-02-07 | completed    | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2020-02-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-02-12 | completed    | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2021-02-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-02-12 | completed    | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2021-02-12 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-02-18 | active       | insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892) | -
+2022-02-18 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-02-18 | active       | 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] (RxNorm: 1664463) | -
+2022-02-18 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day

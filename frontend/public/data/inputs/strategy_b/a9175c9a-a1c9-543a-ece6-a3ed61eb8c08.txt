@@ -1,0 +1,49 @@
+Patient: Ossie995 Kutch271 | Age: 75 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1982-11-08 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1983-09-23 | - | - |
+| Mestranol / Norethynodrel | 235389 | completed | 1983-12-24 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1993-02-09 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1994-02-04 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1996-03-09 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1998-08-29 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1999-11-13 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2002-03-13 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2002-03-13 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2002-03-13 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2002-09-09 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2002-09-09 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2002-09-10 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2002-09-10 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2002-10-19 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2002-10-19 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2002-10-19 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2003-10-25 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2003-10-25 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2003-10-25 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-04 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-04 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-05 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-05 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-06 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2004-03-06 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | completed | 2004-10-30 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2004-10-30 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | completed | 2004-10-30 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | completed | 2005-03-02 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | active | 2005-11-05 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2005-11-05 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | active | 2005-11-05 | - | - |
+| lisinopril 20 MG Oral Tablet | 314077 | active | 2005-11-05 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-25 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-25 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-26 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-26 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-27 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-27 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-28 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-02-28 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-03-01 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2006-03-01 | - | - |

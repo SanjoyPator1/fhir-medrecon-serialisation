@@ -1,0 +1,50 @@
+Patient: Woodrow571 Collier206 | Age: 73 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2006-03-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-02-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-02-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-02-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-02-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-03-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-03-09 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2013-03-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-03-15 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2014-03-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-03-21 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2015-03-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-03-26 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2016-03-26 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-04-01 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-04-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-04-07 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2018-04-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-04-13 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-04-13 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2019-04-20 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2019-04-20 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2019-04-20 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2019-04-20 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2019-05-13 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2019-05-13 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2019-05-13 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2019-05-13 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2019-05-13 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2019-05-13 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2019-05-13 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2019-05-13 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2019-05-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-04-18 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2020-04-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-04-24 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2021-04-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-04-30 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-04-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-05-06 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2023-05-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-05-11 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2024-05-11 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2024-10-16 | 1.0 | 2 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-05-17 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2025-05-17 | - | - |

@@ -1,0 +1,75 @@
+Patient: Pedro316 Matías497 | Age: 64 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-10-23 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1997-01-21 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2007-11-28 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-01-31 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-03-17 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2014-05-16 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2014-09-13 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2015-01-21 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-01-21 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2015-01-21 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2015-02-02 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2015-02-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-03-12 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2016-01-27 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-01-27 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2016-01-27 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2016-01-27 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2016-02-11 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-02-01 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-02-01 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2017-02-01 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2017-02-01 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2017-02-22 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-08-04 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2018-02-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-02-07 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2018-02-07 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2018-02-07 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2018-02-22 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-02-13 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-02-13 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2019-02-13 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2019-02-13 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2019-03-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-02-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-02-19 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2020-02-19 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2020-02-19 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2020-03-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-06-29 | completed    | Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | 1.0, 1 time(s) per 6 hour
+2020-06-29 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2021-02-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-02-24 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2021-02-24 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2021-02-24 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2021-03-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-03-02 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-03-02 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2022-03-02 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2022-03-02 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2022-03-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-03-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-03-08 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2023-03-08 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2023-03-08 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2023-03-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-03-13 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-03-13 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2024-03-13 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2024-03-13 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2024-03-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-03-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-03-19 | completed    | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2025-03-19 | completed    | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2025-03-19 | completed    | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2025-03-26 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2026-03-25 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2026-03-25 | active       | Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] (RxNorm: 1049504) | 1.0, 1 time(s) per 1 day
+2026-03-25 | active       | 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134) | 1.0, 1 time(s) per 3 day
+2026-03-25 | active       | 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule (RxNorm: 1860491) | 1.0, 2 time(s) per 1 day
+2026-03-26 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

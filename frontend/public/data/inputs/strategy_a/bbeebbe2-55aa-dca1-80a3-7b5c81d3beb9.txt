@@ -1,0 +1,606 @@
+Patient: Samuel331 Villanueva621 | Age: 42 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "197378",
+          "display": "Astemizole 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Astemizole 10 MG Oral Tablet"
+    },
+    "authoredOn": "1985-04-11T12:43:35+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1987-10-24T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1987-10-24T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "106258",
+          "display": "Hydrocortisone 10 MG/ML Topical Cream"
+        }
+      ],
+      "text": "Hydrocortisone 10 MG/ML Topical Cream"
+    },
+    "authoredOn": "1994-01-02T14:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1995-05-02T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1995-05-02T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1996-05-07T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1996-05-07T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1997-05-13T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1997-05-13T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1998-05-19T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1998-05-19T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1999-05-25T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1999-05-25T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "1999-08-03T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "1999-08-03T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "2000-05-30T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2000-05-30T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2001-03-05T19:04:25+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312617",
+          "display": "predniSONE 5 MG Oral Tablet"
+        }
+      ],
+      "text": "predniSONE 5 MG Oral Tablet"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "2001-06-05T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2001-06-05T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "2002-06-11T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2002-06-11T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "2003-06-17T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2003-06-17T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "351109",
+          "display": "budesonide 0.25 MG/ML Inhalation Suspension"
+        }
+      ],
+      "text": "budesonide 0.25 MG/ML Inhalation Suspension"
+    },
+    "authoredOn": "2004-06-22T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "630208",
+          "display": "albuterol 0.83 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "albuterol 0.83 MG/ML Inhalation Solution"
+    },
+    "authoredOn": "2004-06-22T06:20:25+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2014-01-30T16:25:13+05:30"
+  }
+]

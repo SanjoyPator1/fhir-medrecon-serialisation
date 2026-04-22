@@ -1,0 +1,20 @@
+Patient: Darren774 Jenkins714 | Age: 56 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 1995-10-27 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2006-05-25 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2011-08-03 | - | - |
+| carvedilol 25 MG Oral Tablet | 200033 | active | 2018-12-14 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | active | 2018-12-14 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2018-12-14 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-12 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-12 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-13 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-13 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-14 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-14 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-15 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-15 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-16 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2019-06-16 | - | - |

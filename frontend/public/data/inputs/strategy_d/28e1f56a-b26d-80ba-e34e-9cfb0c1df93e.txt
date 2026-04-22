@@ -1,0 +1,23 @@
+Patient: Ouida808 Harber290 | Age: 48 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1997-01-20 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1999-01-10 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1999-08-16 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule (RxNorm: 1648755) | 1.0, 2 time(s) per 1 day
+2002-07-03 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2005-02-27 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2006-02-22 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2007-02-17 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2010-02-05 | completed    | 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2014-04-23 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2015-04-18 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2015-12-03 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2016-04-12 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2018-04-02 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2018-05-11 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2019-04-01 | completed    | {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] (RxNorm: 978950) | -
+2020-03-26 | completed    | 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2021-07-01 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2023-08-11 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2026-03-03 | active       | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -

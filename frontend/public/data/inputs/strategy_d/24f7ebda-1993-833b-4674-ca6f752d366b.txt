@@ -1,0 +1,23 @@
+Patient: Dante562 Welch179 | Age: 63 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2000-06-08 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2014-02-02 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2014-05-09 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2015-05-15 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2016-05-20 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2017-05-26 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2018-06-01 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2019-06-07 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2020-06-12 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2021-06-18 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2022-06-24 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2023-06-30 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2023-10-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2024-06-29 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-07-05 | completed    | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2024-09-21 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2025-07-11 | active       | Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905) | -
+2025-07-11 | completed    | 1 ML DOCEtaxel 20 MG/ML Injection (RxNorm: 1860480) | -
+2025-07-11 | completed    | 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe (RxNorm: 752899) | -

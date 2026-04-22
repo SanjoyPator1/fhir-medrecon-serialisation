@@ -1,0 +1,61 @@
+Patient: Garret233 Durgan499 | Age: 55 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2008-04-22 | active       | ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325) | -
+2008-04-22 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2008-08-14 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2009-08-12 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2010-04-01 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2014-04-07 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-04-15 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2014-06-06 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2014-08-05 | active       | Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987) | 1.0, 4 time(s) per 1 day
+2014-09-30 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2014-10-04 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-12-03 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2015-04-21 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2015-04-21 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2015-04-21 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-04-21 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2016-04-26 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2016-04-26 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2016-04-26 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-04-26 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2017-05-02 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2017-05-02 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2017-05-02 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-05-02 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2018-05-08 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2018-05-08 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2018-05-08 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-05-08 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2019-05-14 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2019-05-14 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2019-05-14 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-05-14 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2020-02-06 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2020-05-19 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2020-05-19 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2020-05-19 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-05-19 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2021-05-25 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2021-05-25 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2021-05-25 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2021-05-25 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2022-05-31 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2022-05-31 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2022-05-31 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-05-31 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2023-06-06 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2023-06-06 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2023-06-06 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-06-06 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2024-06-11 | completed    | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2024-06-11 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2024-06-11 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-06-11 | completed    | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -
+2025-06-17 | active       | Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770) | 1.0, 4 time(s) per 1 day
+2025-06-17 | active       | Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625) | 1.0, 4 time(s) per 1 day
+2025-06-17 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-06-17 | active       | tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603) | -

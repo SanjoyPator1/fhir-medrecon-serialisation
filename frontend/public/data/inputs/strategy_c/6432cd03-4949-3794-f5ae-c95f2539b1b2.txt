@@ -1,0 +1,35 @@
+Patient: Rhett759 Gusikowski974 | Age: 59 | Gender: male
+
+Currently active medications:
+  - aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 2011-01-29, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 50 MG Extended Release Oral Tablet (RxNorm: 866436), prescribed on 2011-01-29, status: active. Dosage not recorded.
+  - atorvastatin 80 MG Oral Tablet (RxNorm: 259255), prescribed on 2011-01-29, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-01-29, status: active. Dosage not recorded.
+  - prasugrel 10 MG Oral Tablet (RxNorm: 855812), prescribed on 2011-01-29, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2023-12-28, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2023-12-28, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2023-12-28, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2023-12-28, status: active. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2026-01-08, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2001-12-18, status: completed. Dosage not recorded.
+  - aspirin 325 MG Oral Tablet (RxNorm: 212033), prescribed on 2011-01-29, status: completed. Dose: 4.0, frequency: 1 time(s) per 1 hour.
+  - nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039), prescribed on 2011-01-29, status: completed. Dosage not recorded.
+  - heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048), prescribed on 2011-01-29, status: completed. Dosage not recorded.
+  - clopidogrel 300 MG Oral Tablet (RxNorm: 749196), prescribed on 2011-01-29, status: completed. Dosage not recorded.
+  - 100 ML eptifibatide 0.75 MG/ML Injection (RxNorm: 200349), prescribed on 2011-01-29, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2012-03-06, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-12-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-12-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-12-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - desflurane 1000 MG/ML Inhalation Solution (RxNorm: 562366), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2024-01-11, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-12-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

@@ -1,0 +1,10 @@
+Patient: Julio255 Mosciski958 | Age: 62 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2012-08-20 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2016-06-24 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-05-23 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2024-05-23 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2024-05-23 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2024-05-23 | - | - |

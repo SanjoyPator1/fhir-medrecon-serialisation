@@ -1,0 +1,432 @@
+Patient: Ronald408 Cassin499 | Age: 74 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "105078",
+          "display": "Penicillin G 375 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Penicillin G 375 MG/ML Injectable Solution"
+    },
+    "authoredOn": "1953-02-24T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "418577003",
+                "display": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+              }
+            ],
+            "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313820",
+          "display": "Acetaminophen 160 MG Chewable Tablet"
+        }
+      ],
+      "text": "Acetaminophen 160 MG Chewable Tablet"
+    },
+    "authoredOn": "1953-02-24T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "105078",
+          "display": "Penicillin G 375 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Penicillin G 375 MG/ML Injectable Solution"
+    },
+    "authoredOn": "1953-12-29T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "418577003",
+                "display": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+              }
+            ],
+            "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "243670",
+          "display": "Aspirin 81 MG Oral Tablet"
+        }
+      ],
+      "text": "Aspirin 81 MG Oral Tablet"
+    },
+    "authoredOn": "1953-12-29T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "105078",
+          "display": "Penicillin G 375 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Penicillin G 375 MG/ML Injectable Solution"
+    },
+    "authoredOn": "1954-12-30T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "418577003",
+                "display": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+              }
+            ],
+            "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313820",
+          "display": "Acetaminophen 160 MG Chewable Tablet"
+        }
+      ],
+      "text": "Acetaminophen 160 MG Chewable Tablet"
+    },
+    "authoredOn": "1954-12-30T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "1957-03-01T12:57:27+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312617",
+          "display": "predniSONE 5 MG Oral Tablet"
+        }
+      ],
+      "text": "predniSONE 5 MG Oral Tablet"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "105078",
+          "display": "Penicillin G 375 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Penicillin G 375 MG/ML Injectable Solution"
+    },
+    "authoredOn": "1958-12-14T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)",
+        "additionalInstruction": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "418577003",
+                "display": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+              }
+            ],
+            "text": "Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)"
+          }
+        ],
+        "timing": {
+          "repeat": {
+            "frequency": 4,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "243670",
+          "display": "Aspirin 81 MG Oral Tablet"
+        }
+      ],
+      "text": "Aspirin 81 MG Oral Tablet"
+    },
+    "authoredOn": "1958-12-14T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "243670",
+          "display": "Aspirin 81 MG Oral Tablet"
+        }
+      ],
+      "text": "Aspirin 81 MG Oral Tablet"
+    },
+    "authoredOn": "1959-02-15T06:43:27+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834061",
+          "display": "Penicillin V Potassium 250 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 250 MG Oral Tablet"
+    },
+    "authoredOn": "1964-01-18T01:43:27+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "1964-09-24T08:20:41+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1965-10-21T10:02:55+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "1966-01-21T06:43:27+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "1967-01-27T06:43:27+05:30"
+  }
+]

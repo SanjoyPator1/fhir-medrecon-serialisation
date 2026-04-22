@@ -1,0 +1,489 @@
+Patient: Hoyt490 Davis923 | Age: 57 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "1997-08-07T02:47:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "849574",
+          "display": "Naproxen sodium 220 MG Oral Tablet"
+        }
+      ],
+      "text": "Naproxen sodium 220 MG Oral Tablet"
+    },
+    "authoredOn": "2000-08-13T02:47:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "834102",
+          "display": "Penicillin V Potassium 500 MG Oral Tablet"
+        }
+      ],
+      "text": "Penicillin V Potassium 500 MG Oral Tablet"
+    },
+    "authoredOn": "2011-08-31T09:46:40+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2014-02-01T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2014-05-01T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2015-05-07T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2016-05-12T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2016-06-08T02:47:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2017-05-18T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2018-05-24T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2019-05-30T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2020-06-04T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2021-06-10T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2021-06-14T01:49:41+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2021-06-23T01:49:41+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2021-06-24T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2021-12-30T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2022-06-16T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2023-06-22T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2024-05-16T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "2024-05-23T13:58:01+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2024-06-27T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "206905",
+          "display": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+        }
+      ],
+      "text": "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    },
+    "authoredOn": "2025-07-03T13:46:40+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "text": "Take as needed.",
+        "asNeededBoolean": true
+      }
+    ]
+  }
+]

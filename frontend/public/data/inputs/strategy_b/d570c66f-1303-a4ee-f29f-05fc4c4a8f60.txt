@@ -1,0 +1,24 @@
+Patient: Ken316 Cole117 | Age: 60 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2002-10-31 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2008-10-25 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2012-03-23 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2012-07-11 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-02-15 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-02-14 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-02-20 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-02-25 | 1.0 | 4 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2017-05-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-03-03 | 1.0 | 4 time(s) per 1 day |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2018-08-01 | 1.0 | 2 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-03-09 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2019-09-19 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-03-14 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-03-20 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-03-26 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-04-01 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-12-30 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-04-06 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-04-12 | 1.0 | 4 time(s) per 1 day |

@@ -1,0 +1,41 @@
+Patient: Thad495 Auer97 | Age: 50 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-10-02 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1999-03-11 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1999-07-30 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2005-05-07 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2005-05-08 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2007-08-05 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2008-03-21 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2008-12-03 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2009-12-09 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2010-12-15 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2011-12-21 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2012-12-26 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2014-01-01 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2015-01-07 | completed    | efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 643066) | 1.0, 1 time(s) per 1 day
+2015-03-24 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2016-01-13 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2017-01-18 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2018-01-24 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2018-01-24 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2018-12-29 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2019-01-30 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2019-01-30 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2020-02-05 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2020-02-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2021-02-10 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2021-02-10 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-01-16 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2022-02-16 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2022-02-16 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-02-22 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2023-02-22 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-02-28 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2024-02-28 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-03-05 | completed    | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2025-03-05 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2026-03-11 | active       | cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet (RxNorm: 1306292) | 1.0, 1 time(s) per 1 day
+2026-03-11 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day

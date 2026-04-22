@@ -1,0 +1,12 @@
+Patient: Rolando809 Skiles927 | Age: 56 | Gender: male
+
+Currently active medications:
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-10-19, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Cefuroxime 250 MG Oral Tablet (RxNorm: 309097), prescribed on 2000-05-06, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467), prescribed on 2000-05-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2000-05-06, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-10-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2023-12-24, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-10-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

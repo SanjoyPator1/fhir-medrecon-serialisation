@@ -1,0 +1,27 @@
+Patient: Hoyt490 Davis923 | Age: 57 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-08-07 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2000-08-13 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2011-08-31 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-02-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-05-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-05-07 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-05-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2016-06-08 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-05-18 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-05-24 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-05-30 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-06-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-06-10 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-06-14 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-06-23 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-06-24 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-12-30 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-06-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-06-22 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-05-16 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2024-05-23 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-06-27 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-07-03 | - | - |

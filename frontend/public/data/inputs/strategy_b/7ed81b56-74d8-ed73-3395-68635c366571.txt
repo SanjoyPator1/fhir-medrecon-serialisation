@@ -1,0 +1,95 @@
+Patient: Jerry654 Jones311 | Age: 73 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 1995-05-13 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2003-06-03 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2007-03-07 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-03-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-03-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-03-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-03-16 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-03-15 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-03-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-02-07 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-03-26 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-03-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-04-01 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-04-08 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-04-06 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-04-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-04-12 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-04-19 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-04-18 | 1.0 | 4 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2018-04-25 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2018-04-25 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2018-04-25 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2018-04-25 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2018-05-01 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2018-05-01 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2018-05-01 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2018-05-01 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2018-05-01 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2018-05-01 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2018-05-01 | - | - |
+| sevoflurane 1000 MG/ML Inhalation Solution | 200243 | completed | 2018-05-01 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2018-05-01 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-05-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-04-24 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-05-09 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-04-29 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-05-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-10-07 | 1.0 | 4 time(s) per 1 day |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-01 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-01 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-01 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-02 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-02 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-02 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-03 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-03 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-03 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-04 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-04 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-04 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-05 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-05 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-05 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-02-06 | - | - |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-06 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-06 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-07 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-07 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-07 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-08 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-08 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-08 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-09 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-09 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-09 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-10 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-10 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-10 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-11 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-11 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-11 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-12 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-12 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-12 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-02-13 | 1.0 | 1 time(s) per 1 day |
+| NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler | 2123111 | completed | 2021-02-13 | 4.0 | 1 time(s) per 4 hour |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-02-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-05-05 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-05-20 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG Oral Capsule | 308182 | completed | 2022-03-26 | 1.0 | 2 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2022-03-26 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-05-11 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-05-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-05-17 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-05-20 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2024-05-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-05-22 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-05-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-05-28 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-05-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-09-21 | - | - |

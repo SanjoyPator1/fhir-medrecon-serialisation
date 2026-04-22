@@ -1,0 +1,60 @@
+Patient: Aaron697 Turner526 | Age: 65 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2002-06-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2007-02-02 | - | - |
+| Amoxicillin 250 MG Oral Capsule | 308182 | completed | 2012-05-27 | 1.0 | 2 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2012-05-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-05-23 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2014-01-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-04-29 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-29 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-05-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-05-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-05-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-10 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-05-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-05-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-05-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-05-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-05-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-11-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-11-12 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-11-12 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-03-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-03-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-03-10 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-06-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-06-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-06-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-06-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-06-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-06-09 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-06-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-06-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-06-08 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-05-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-05-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-05-03 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-06-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-06-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-06-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-06-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-06-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-06-20 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-06-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-06-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-06-25 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-07-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-07-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-07-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-10-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-10-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2025-10-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2026-03-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2026-03-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2026-03-10 | 1.0 | 1 time(s) per 1 day |

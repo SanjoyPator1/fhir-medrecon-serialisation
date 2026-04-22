@@ -1,0 +1,24 @@
+Patient: Martin117 Littel644 | Age: 60 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-05-01 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1997-09-29 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1997-10-30 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1997-12-24 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2022-12-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2022-12-14 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2023-01-13 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-03-10 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2023-05-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2023-06-04 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2023-12-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-12-20 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-02-21 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2024-05-26 | completed    | piperacillin 2000 MG / tazobactam 250 MG Injection (RxNorm: 1659131) | -
+2024-05-26 | completed    | 150 ML vancomycin 5 MG/ML Injection (RxNorm: 1807510) | -
+2024-05-30 | completed    | 4 ML norepinephrine 1 MG/ML Injection (RxNorm: 242969) | -
+2024-12-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-12-25 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-12-31 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-12-31 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day

@@ -1,0 +1,19 @@
+Patient: Ronald408 Cassin499 | Age: 74 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1953-02-24 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1953-02-24 | - | - |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1953-12-29 | 1.0 | 4 time(s) per 1 day |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1953-12-29 | - | - |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1954-12-30 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1954-12-30 | - | - |
+| predniSONE 5 MG Oral Tablet | 312617 | completed | 1957-03-01 | - | - |
+| Penicillin G 375 MG/ML Injectable Solution | 105078 | completed | 1958-12-14 | 1.0 | 4 time(s) per 1 day |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1958-12-14 | - | - |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1959-02-15 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1964-01-18 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 1964-09-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1965-10-21 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 1966-01-21 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | active | 1967-01-27 | - | - |

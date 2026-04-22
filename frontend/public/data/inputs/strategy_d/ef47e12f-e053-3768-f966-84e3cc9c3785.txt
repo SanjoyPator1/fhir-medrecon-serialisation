@@ -1,0 +1,26 @@
+Patient: Edmund685 Bechtelar572 | Age: 71 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1980-07-17 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1982-04-05 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1994-02-22 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2001-02-04 | active       | carbamazepine 20 MG/ML Oral Suspension [Tegretol] (RxNorm: 308971) | -
+2001-05-18 | completed    | clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892) | -
+2003-02-18 | completed    | clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892) | -
+2005-01-25 | completed    | Diazepam 5 MG Oral Tablet (RxNorm: 197591) | -
+2006-01-31 | completed    | clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892) | -
+2006-02-07 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2006-02-07 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2006-02-07 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2006-02-07 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2006-04-22 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2006-04-22 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2006-04-22 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2006-04-22 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2006-04-22 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2006-04-22 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2006-04-22 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2006-04-22 | completed    | desflurane 1000 MG/ML Inhalation Solution (RxNorm: 562366) | -
+2006-04-22 | completed    | 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104) | -
+2007-02-06 | active       | clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892) | -

@@ -1,0 +1,64 @@
+Patient: Trenton748 Nitzsche158 | Age: 69 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2003-09-16 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2004-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2005-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2006-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2007-09-15 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2008-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2009-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2010-06-19 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2010-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2011-09-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2012-09-25 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2013-09-25 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2014-10-07 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2014-10-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2015-09-02 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2015-09-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-09-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2015-10-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2016-07-28 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2016-09-27 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-10-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-06-23 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2017-10-03 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-10-24 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-05-19 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2018-10-09 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-10-24 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-04-14 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2019-10-15 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-10-22 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2019-10-22 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2019-10-22 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2019-10-22 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2019-10-24 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-03-09 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2020-10-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-10-23 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-02-02 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2021-10-26 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-11-02 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-01-28 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2022-04-20 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2022-11-01 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-11-02 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-12-24 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2023-09-11 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+2023-11-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-11-14 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-12-19 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2024-11-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-11-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-11-13 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2024-12-28 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2025-08-19 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2025-10-10 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2025-10-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-10-21 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-11-08 | completed    | tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521) | -
+2025-11-18 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-11-25 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

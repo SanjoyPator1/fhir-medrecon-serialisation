@@ -1,0 +1,47 @@
+Patient: Rolando809 Nicolas769 | Age: 63 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2008-08-13 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2011-06-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-02-05 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-04-21 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-04-21 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-04-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-04-27 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-05-02 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-12-26 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-12-26 | 1.0 | 4 time(s) per 1 day |
+| Galantamine 4 MG Oral Tablet | 310436 | completed | 2016-12-26 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-01-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-01-02 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-08 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-05-08 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-15 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-05-15 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-06-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-06-05 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-05-14 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-05-14 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule | 1599803 | active | 2018-07-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-05-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-05-20 | 1.0 | 4 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2019-05-27 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2019-05-27 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2019-05-27 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2019-05-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-05-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-05-25 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-05-31 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-05-31 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-06-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-06-06 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-06-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-06-20 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-08-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-08-22 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2023-06-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2023-06-12 | 1.0 | 4 time(s) per 1 day |

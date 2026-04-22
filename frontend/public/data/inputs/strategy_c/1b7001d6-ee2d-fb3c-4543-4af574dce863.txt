@@ -1,0 +1,45 @@
+Patient: Loyd638 Wisoky380 | Age: 74 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2022-04-22, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2022-04-22, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2022-04-22, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2022-04-22, status: active. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2025-05-02, status: active. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2025-05-02, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467), prescribed on 1996-05-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1996-05-17, status: completed. Dosage not recorded.
+  - sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335), prescribed on 2008-11-23, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2009-11-07, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG Oral Capsule (RxNorm: 308182), prescribed on 2010-09-29, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2010-09-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2010-09-29, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2017-11-04, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2020-04-03, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2020-04-03, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2020-04-03, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2020-04-03, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2020-07-19, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2020-11-06, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2020-11-06, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-04-09, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2021-04-09, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2022-04-15, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2022-04-15, status: completed. Dosage not recorded.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2022-04-29, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2022-12-16, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2022-12-16, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2023-04-21, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2023-04-21, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2024-04-26, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2024-04-26, status: completed. Dosage not recorded.

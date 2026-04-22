@@ -1,0 +1,103 @@
+Patient: Doug189 Lowe577 | Age: 59 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2025-05-24, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2025-05-24, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2025-05-24, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2025-05-24, status: active. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2026-03-14, status: active. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2026-03-14, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-03-14, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 1996-04-24, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 1996-05-31, status: completed. Dosage not recorded.
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 1996-08-18, status: completed. Dosage not recorded.
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 1996-10-31, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1997-01-11, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 1997-03-29, status: completed. Dosage not recorded.
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 1997-06-17, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 1997-09-29, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 1998-04-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1998-08-19, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1998-10-09, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1998-11-22, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1999-06-18, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 1999-09-19, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 1999-12-28, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2000-03-18, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2000-07-10, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2000-10-20, status: completed. Dosage not recorded.
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 2000-12-10, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2001-03-08, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2001-10-25, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2002-09-25, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2003-01-30, status: completed. Dosage not recorded.
+  - Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet (RxNorm: 1860154), prescribed on 2003-05-17, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2003-09-12, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2003-11-25, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2004-03-20, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-01-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2006-10-21, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-10-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-11-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-02-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-02-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2009-02-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-02-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-02-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-03-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-03-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-02-03, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-03-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-03-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-03-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-03-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-03-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-03-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-04-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-04-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309), prescribed on 2017-10-03, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-04-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-04-13, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-04-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-12-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-12-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-12-28, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-12-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-04-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-04-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-04-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-04-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-04-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-04-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2022-05-28, status: completed. Dosage not recorded.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2023-04-23, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-05-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-05-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2024-03-18, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-05-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-05-11, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2024-06-22, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-06-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2025-03-13, status: completed. Dosage not recorded.
+  - insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] (RxNorm: 106892), prescribed on 2025-05-17, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-05-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-05-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - cefazolin 2000 MG Injection (RxNorm: 1665060), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - insulin, regular, human 100 UNT/ML Injectable Solution (RxNorm: 311034), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - Diazepam 5 MG/ML Injectable Solution (RxNorm: 309845), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - remifentanil 2 MG Injection (RxNorm: 1729584), prescribed on 2025-06-01, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2025-08-13, status: completed. Dosage not recorded.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2026-03-21, status: completed. Dosage not recorded.

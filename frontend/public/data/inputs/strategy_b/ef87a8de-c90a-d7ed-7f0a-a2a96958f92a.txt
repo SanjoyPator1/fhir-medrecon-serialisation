@@ -1,0 +1,14 @@
+Patient: Chadwick722 Pollich983 | Age: 75 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-06-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1998-04-27 | - | - |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 2000-10-12 | 1.0 | 2 time(s) per 1 day |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 2000-10-13 | 1.0 | 2 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2005-03-20 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2020-12-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-07-10 | - | - |
+| Galantamine 4 MG Oral Tablet | 310436 | completed | 2023-03-16 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-11-15 | - | - |
+| 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule | 1599803 | active | 2025-02-13 | - | - |

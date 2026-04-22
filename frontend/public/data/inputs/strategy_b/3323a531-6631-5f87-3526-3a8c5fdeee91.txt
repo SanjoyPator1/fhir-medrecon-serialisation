@@ -1,0 +1,32 @@
+Patient: Wilburn655 Kuphal363 | Age: 65 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1986-08-27 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1988-01-11 | - | - |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 1989-11-20 | 1.0 | 2 time(s) per 1 day |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 1989-11-21 | 1.0 | 4 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2000-10-05 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2001-08-01 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2005-02-17 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2013-07-18 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | completed | 2013-11-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2014-05-22 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2014-05-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2014-05-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2014-05-24 | - | - |
+| Furosemide 40 MG Oral Tablet | 313988 | active | 2014-07-17 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-19 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-20 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-20 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-21 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-21 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-22 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-22 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-23 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-24 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-24 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-25 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-25 | - | - |
+| 10 ML Furosemide 10 MG/ML Injection | 1719286 | completed | 2015-05-26 | - | - |

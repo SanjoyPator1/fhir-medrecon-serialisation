@@ -1,0 +1,141 @@
+Patient: Irmgard696 Kilback373 | Age: 56 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1995-09-12 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-06-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-06-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-07-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-04-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-04-19 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-04-26 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1999-05-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-06-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-06-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-07-31 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-08-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-08-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-07-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-07-03 | 1.0 | 1 time(s) per 1 day |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 2000-08-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-07-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-07-09 | 1.0 | 1 time(s) per 1 day |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2001-08-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-07-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-07-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-07-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-07-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-08-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-08-02 | 1.0 | 1 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2004-09-28 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2005-01-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-04-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-04-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-08-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-08-08 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2005-08-08 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2005-08-08 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2005-09-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-08-14 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2006-08-14 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-08-14 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2006-08-14 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2006-09-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-08-20 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2007-08-20 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-08-20 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2007-08-20 | - | - |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2007-09-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-08-25 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2008-08-25 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-08-25 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2008-08-25 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2008-09-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-10-27 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2008-10-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-10-27 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2008-10-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-11-03 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2008-11-03 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-11-03 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2008-11-03 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2008-11-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-08-31 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2009-08-31 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-08-31 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2009-08-31 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2009-09-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-09-06 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2010-09-06 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-09-06 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2010-09-06 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2010-09-23 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2011-01-07 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2011-03-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-09-12 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2011-09-12 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-09-12 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2011-09-12 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2011-09-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-09-17 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2012-09-17 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-09-17 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2012-09-17 | - | - |
+| {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] | 748879 | completed | 2012-09-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-09-23 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2013-09-23 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-09-23 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2013-09-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-09-29 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2014-09-29 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-09-29 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2014-09-29 | - | - |
+| levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] | 1605257 | completed | 2015-09-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-10-05 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2015-10-05 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-10-05 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2015-10-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2015-10-12 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-10-10 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2016-10-10 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-10-10 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2016-10-10 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2017-09-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-10-16 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2017-10-16 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-10-16 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2017-10-16 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2018-10-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-10-29 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2018-10-29 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-10-29 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2018-10-29 | - | - |
+| {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] | 748879 | completed | 2019-08-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-11-04 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2019-11-04 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-11-04 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2019-11-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-11-09 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-11-09 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-11-09 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-11-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-11-15 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-11-15 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-11-15 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2021-11-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-11-21 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2022-11-21 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-11-21 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2022-11-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-11-27 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2023-11-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-11-27 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2023-11-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-12-02 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2024-12-02 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-12-02 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2024-12-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-12-08 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 2025-12-08 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-12-08 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 2025-12-08 | - | - |

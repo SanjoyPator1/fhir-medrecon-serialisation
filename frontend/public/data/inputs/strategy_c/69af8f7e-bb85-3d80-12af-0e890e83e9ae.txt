@@ -1,0 +1,29 @@
+Patient: Vania595 Willms744 | Age: 69 | Gender: female
+
+Currently active medications:
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1988-04-01, status: active. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1988-04-01, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820), prescribed on 1966-02-11, status: completed. Dosage not recorded.
+  - Mestranol / Norethynodrel (RxNorm: 235389), prescribed on 1972-01-20, status: completed. Dosage not recorded.
+  - Mestranol / Norethynodrel (RxNorm: 235389), prescribed on 1975-01-04, status: completed. Dosage not recorded.
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 1976-12-24, status: completed. Dosage not recorded.
+  - sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335), prescribed on 1978-02-25, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Mestranol / Norethynodrel (RxNorm: 235389), prescribed on 1978-12-14, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1981-01-06, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1981-11-19, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1985-02-28, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1985-03-08, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1985-03-08, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1985-03-08, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1985-03-08, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1985-03-15, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1985-03-15, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1985-03-22, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1985-03-22, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1986-03-21, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1986-03-21, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 1987-03-27, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 1987-03-27, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1988-02-24, status: completed. Dosage not recorded.

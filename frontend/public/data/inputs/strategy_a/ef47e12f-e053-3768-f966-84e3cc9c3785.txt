@@ -1,0 +1,334 @@
+Patient: Edmund685 Bechtelar572 | Age: 71 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562251",
+          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+        }
+      ],
+      "text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+    },
+    "authoredOn": "1980-07-17T19:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1982-04-05T00:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "313782",
+          "display": "Acetaminophen 325 MG Oral Tablet"
+        }
+      ],
+      "text": "Acetaminophen 325 MG Oral Tablet"
+    },
+    "authoredOn": "1994-02-22T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "308971",
+          "display": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]"
+        }
+      ],
+      "text": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]"
+    },
+    "authoredOn": "2001-02-04T05:54:14+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "2001-05-18T07:43:30+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "2003-02-18T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "197591",
+          "display": "Diazepam 5 MG Oral Tablet"
+        }
+      ],
+      "text": "Diazepam 5 MG Oral Tablet"
+    },
+    "authoredOn": "2005-01-25T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "2006-01-31T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "309362",
+          "display": "Clopidogrel 75 MG Oral Tablet"
+        }
+      ],
+      "text": "Clopidogrel 75 MG Oral Tablet"
+    },
+    "authoredOn": "2006-02-07T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312961",
+          "display": "Simvastatin 20 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 20 MG Oral Tablet"
+    },
+    "authoredOn": "2006-02-07T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "866412",
+          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+        }
+      ],
+      "text": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+    },
+    "authoredOn": "2006-02-07T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "705129",
+          "display": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+        }
+      ],
+      "text": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    },
+    "authoredOn": "2006-02-07T04:23:02+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T05:21:07+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1665060",
+          "display": "cefazolin 2000 MG Injection"
+        }
+      ],
+      "text": "cefazolin 2000 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T05:21:07+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1659263",
+          "display": "1 ML heparin sodium, porcine 5000 UNT/ML Injection"
+        }
+      ],
+      "text": "1 ML heparin sodium, porcine 5000 UNT/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T05:21:07+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1796676",
+          "display": "25 ML protamine sulfate (USP) 10 MG/ML Injection"
+        }
+      ],
+      "text": "25 ML protamine sulfate (USP) 10 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1740467",
+          "display": "2 ML Ondansetron 2 MG/ML Injection"
+        }
+      ],
+      "text": "2 ML Ondansetron 2 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "311700",
+          "display": "Midazolam 1 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Midazolam 1 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1808217",
+          "display": "100 ML Propofol 10 MG/ML Injection"
+        }
+      ],
+      "text": "100 ML Propofol 10 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1234995",
+          "display": "Rocuronium bromide 10 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Rocuronium bromide 10 MG/ML Injectable Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "562366",
+          "display": "desflurane 1000 MG/ML Inhalation Solution"
+        }
+      ],
+      "text": "desflurane 1000 MG/ML Inhalation Solution"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2006-04-22T06:27:30+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1809104",
+          "display": "5 ML SUFentanil 0.05 MG/ML Injection"
+        }
+      ],
+      "text": "5 ML SUFentanil 0.05 MG/ML Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "204892",
+          "display": "clonazePAM 0.25 MG Oral Tablet"
+        }
+      ],
+      "text": "clonazePAM 0.25 MG Oral Tablet"
+    },
+    "authoredOn": "2007-02-06T04:23:02+05:30"
+  }
+]

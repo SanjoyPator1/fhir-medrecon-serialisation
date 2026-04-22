@@ -1,0 +1,17 @@
+Patient: Lorrine765 Konopelski743 | Age: 59 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1996-04-22 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1997-04-17 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+1998-08-30 | completed    | ciprofloxacin 250 MG Oral Tablet (RxNorm: 197511) | 1.0, 1 time(s) per 2 day
+1998-08-31 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule (RxNorm: 1648755) | 1.0, 2 time(s) per 1 day
+2005-03-03 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2006-02-26 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962) | -
+2008-12-27 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2010-12-17 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2013-06-01 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2014-05-30 | completed    | {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] (RxNorm: 978950) | -
+2015-05-25 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2016-05-19 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2022-10-14 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -

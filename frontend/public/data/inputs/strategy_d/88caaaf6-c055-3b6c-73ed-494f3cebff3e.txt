@@ -1,0 +1,11 @@
+Patient: Ruben688 Donnelly343 | Age: 53 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-04-30 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2007-04-26 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2012-09-06 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2020-08-14 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2024-11-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2024-11-01 | completed    | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day
+2025-11-07 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | 1.0, 1 time(s) per 1 day

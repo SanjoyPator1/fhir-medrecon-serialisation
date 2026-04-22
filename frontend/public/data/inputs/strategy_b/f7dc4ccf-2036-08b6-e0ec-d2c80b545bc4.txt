@@ -1,0 +1,49 @@
+Patient: Antonia30 Wolf938 | Age: 70 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1997-01-07 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1997-02-13 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1998-02-08 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1999-02-03 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1999-10-19 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2000-01-29 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2000-08-27 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2001-01-23 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2002-01-18 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2002-08-23 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2004-01-08 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2005-01-02 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2005-12-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2006-03-31 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-11-20 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-11-20 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-11-25 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-12-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-12-07 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-12-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-12-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-12-24 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2017-12-31 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2017-12-31 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2017-12-31 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2017-12-31 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2018-02-04 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2018-02-04 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2018-02-04 | - | - |
+| insulin, regular, human 100 UNT/ML Injectable Solution | 311034 | completed | 2018-02-04 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2018-02-05 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2018-02-05 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2018-02-05 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2018-02-05 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2018-02-05 | - | - |
+| 10 ML Alfentanil 0.5 MG/ML Injection | 1723208 | completed | 2018-02-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-12-30 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-01-05 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-01-10 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-01-16 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-01-22 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-06-11 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-01-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-02-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2026-02-08 | - | - |

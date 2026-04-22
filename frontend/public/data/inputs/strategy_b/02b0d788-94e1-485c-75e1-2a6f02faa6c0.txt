@@ -1,0 +1,10 @@
+Patient: Hoyt490 Hagenes547 | Age: 69 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1964-12-22 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1968-05-07 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1974-08-04 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1975-09-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1990-03-24 | - | - |
+| zidovudine 300 MG Oral Tablet | 199663 | active | 1992-04-07 | 1.0 | 2 time(s) per 1 day |

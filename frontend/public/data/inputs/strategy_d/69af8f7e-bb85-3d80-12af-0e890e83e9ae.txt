@@ -1,0 +1,28 @@
+Patient: Vania595 Willms744 | Age: 69 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1966-02-11 | completed    | Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820) | -
+1972-01-20 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1975-01-04 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1976-12-24 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1978-02-25 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+1978-12-14 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1981-01-06 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1981-11-19 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1985-02-28 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1985-03-08 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1985-03-08 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1985-03-08 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1985-03-08 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1985-03-15 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1985-03-15 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1985-03-22 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1985-03-22 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1986-03-21 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1986-03-21 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1987-03-27 | completed    | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1987-03-27 | completed    | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -
+1988-02-24 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1988-04-01 | active       | albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314) | -
+1988-04-01 | active       | 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209) | -

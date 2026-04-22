@@ -1,0 +1,84 @@
+Patient: Germán350 Dávila115 | Age: 68 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1995-10-30 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1996-11-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1997-11-10 | 1.0 | 1 time(s) per 1 day |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 1998-08-18 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-11-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-11-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-11-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-12-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-12-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-12-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-12-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-12-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-01-01 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2007-01-08 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2007-01-08 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2007-01-08 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2007-01-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-01-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-01-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-01-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-01-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-01-30 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-02-04 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2013-03-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-02-10 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-02-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-02-16 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-02-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-02-22 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-02-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-02-27 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-02-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-03-05 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-03-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-03-11 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-03-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-03-16 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-03-16 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-11 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-11 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-12 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-12 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-13 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-13 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-14 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-14 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-15 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-15 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-16 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-16 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-17 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-17 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-18 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-18 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-19 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-19 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-20 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-20 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-21 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-21 | - | - |
+| 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe | 854235 | completed | 2021-03-22 | - | - |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-22 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-03-23 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-23 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-03-24 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-24 | - | - |
+| 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe | 854252 | completed | 2021-03-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 500 MG Oral Tablet | 198440 | completed | 2021-03-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-04-05 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-04-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-04-11 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-04-11 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2023-02-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-04-17 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-04-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-04-22 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-04-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-04-28 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-04-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-10-10 | - | - |

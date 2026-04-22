@@ -1,0 +1,9 @@
+Patient: Armand155 Gerhold939 | Age: 68 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1958-08-12 | completed    | Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078) | 1.0, 4 time(s) per 1 day
+1958-08-12 | completed    | Aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+1964-10-19 | completed    | Aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+1964-11-10 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+1969-04-29 | active       | Diazepam 5 MG Oral Tablet (RxNorm: 197591) | -

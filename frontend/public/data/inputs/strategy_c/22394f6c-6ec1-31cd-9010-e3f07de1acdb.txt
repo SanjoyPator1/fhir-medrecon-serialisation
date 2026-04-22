@@ -1,0 +1,19 @@
+Patient: Mariana775 Wehner319 | Age: 60 | Gender: female
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2010-08-01, status: active. Dosage not recorded.
+  - Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499), prescribed on 2010-08-01, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] (RxNorm: 1359133), prescribed on 2000-10-07, status: completed. Dosage not recorded.
+  - Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343), prescribed on 2001-10-02, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 2002-09-27, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2006-07-19, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2007-07-16, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533), prescribed on 2008-07-10, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594), prescribed on 2009-07-05, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2010-07-18, status: completed. Dosage not recorded.
+  - {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] (RxNorm: 748962), prescribed on 2010-07-25, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2011-07-20, status: completed. Dosage not recorded.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2013-07-09, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] (RxNorm: 1605257), prescribed on 2015-07-03, status: completed. Dosage not recorded.

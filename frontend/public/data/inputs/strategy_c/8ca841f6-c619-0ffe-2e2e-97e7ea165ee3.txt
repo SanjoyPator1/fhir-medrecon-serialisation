@@ -1,0 +1,116 @@
+Patient: Coralee911 Bayer639 | Age: 75 | Gender: female
+
+Currently active medications:
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-09-25, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2025-09-25, status: active. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-09-25, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2025-09-25, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2025-09-25, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 1998-02-05, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1998-11-03, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2001-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2001-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2001-06-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2001-08-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2002-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2002-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2002-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2003-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2003-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2003-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2004-05-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2004-05-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2004-05-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2005-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2005-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2006-06-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-06-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2006-06-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2007-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2007-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2007-06-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-06-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2007-06-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2008-06-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-06-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2008-06-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2009-06-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2009-06-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2009-06-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2010-07-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-07-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2010-07-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-07-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-07-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2011-07-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-07-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-07-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2012-07-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-07-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-07-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2013-07-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2013-08-04, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2013-10-25, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-02-01, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2014-05-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-07-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2014-07-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-07-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2014-07-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-07-24, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-07-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2015-07-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-07-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2015-07-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2015-07-30, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-08-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2016-08-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-08-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2016-08-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2016-08-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-08-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2017-08-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-08-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2017-08-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2017-08-10, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2018-04-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-08-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2018-08-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-08-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2018-08-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2018-08-16, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-08-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2019-08-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-08-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2019-08-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2019-08-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2020-08-27, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-09-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2021-09-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-09-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2021-09-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2021-09-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-09-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2022-09-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-09-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2022-09-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2022-09-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-09-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2023-09-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-09-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2023-09-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2023-09-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 72 HR Fentanyl 0.025 MG/HR Transdermal System (RxNorm: 245134), prescribed on 2024-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 3 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136), prescribed on 2024-09-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2024-09-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2025-11-27, status: completed. Dosage not recorded.

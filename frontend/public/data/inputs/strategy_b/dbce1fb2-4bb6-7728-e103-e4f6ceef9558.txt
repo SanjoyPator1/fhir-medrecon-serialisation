@@ -1,0 +1,35 @@
+Patient: Emile522 Hahn503 | Age: 51 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2001-01-11 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2002-06-23 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2006-12-05 | - | - |
+| amoxicillin 875 MG / clavulanate 125 MG Oral Tablet | 562508 | completed | 2013-12-11 | 1.0 | 2 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-02-04 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-02-16 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2014-03-17 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-02-22 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2015-02-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-02-28 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2016-02-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-03-05 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2017-03-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-03-11 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2018-03-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-03-17 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2019-03-17 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2019-08-20 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-03-22 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2020-03-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-03-28 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2021-03-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-04-03 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2022-04-03 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-04-09 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2023-04-09 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2023-09-10 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-04-14 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2024-04-14 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2025-04-20 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | active | 2025-04-20 | 1.0 | 1 time(s) per 1 day |

@@ -1,0 +1,13 @@
+Patient: Agueda283 Fahey393 | Age: 59 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1997-08-27 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1998-08-22 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 2000-10-12 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2012-08-22 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2014-11-08 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2016-01-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2020-02-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-04-20 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-09-11 | 1.0 | 1 time(s) per 1 day |

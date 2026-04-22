@@ -1,0 +1,20 @@
+Patient: Danial835 Wisoky380 | Age: 60 | Gender: male
+
+Currently active medications:
+  - Hydrocortisone 10 MG/ML Topical Cream (RxNorm: 106258), prescribed on 1989-06-16, status: active. Dosage not recorded.
+  - Astemizole 10 MG Oral Tablet (RxNorm: 197378), prescribed on 1989-07-04, status: active. Dosage not recorded.
+  - NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector (RxNorm: 1870230), prescribed on 1989-07-04, status: active. Dosage not recorded.
+  - aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 2019-05-09, status: active. Dosage not recorded.
+  - metoprolol tartrate 50 MG Oral Tablet (RxNorm: 866514), prescribed on 2019-05-09, status: active. Dosage not recorded.
+  - atorvastatin 40 MG Oral Tablet (RxNorm: 617311), prescribed on 2019-05-09, status: active. Dosage not recorded.
+  - enalapril maleate 5 MG Oral Tablet (RxNorm: 858813), prescribed on 2019-05-09, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - cephalexin 500 MG Oral Tablet (RxNorm: 197454), prescribed on 1998-10-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2000-06-24, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2005-05-09, status: completed. Dosage not recorded.
+  - aspirin 325 MG Oral Tablet (RxNorm: 212033), prescribed on 2019-05-09, status: completed. Dose: 4.0, frequency: 1 time(s) per 1 hour.
+  - nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039), prescribed on 2019-05-09, status: completed. Dosage not recorded.
+  - 2 ML morphine sulfate 1 MG/ML Injection (RxNorm: 1728805), prescribed on 2019-05-09, status: completed. Dosage not recorded.
+  - 50 ML bivalirudin 5 MG/ML Injection (RxNorm: 1997015), prescribed on 2019-05-09, status: completed. Dosage not recorded.
+  - clopidogrel 300 MG Oral Tablet (RxNorm: 749196), prescribed on 2019-05-09, status: completed. Dosage not recorded.

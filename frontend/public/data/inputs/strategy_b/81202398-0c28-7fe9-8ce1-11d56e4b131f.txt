@@ -1,0 +1,17 @@
+Patient: Leif534 Rowe323 | Age: 60 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-01-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2003-05-19 | - | - |
+| piperacillin 2000 MG / tazobactam 250 MG Injection | 1659131 | completed | 2010-02-12 | - | - |
+| 150 ML vancomycin 5 MG/ML Injection | 1807510 | completed | 2010-02-12 | - | - |
+| ferrous sulfate 325 MG Oral Tablet | 310325 | active | 2010-05-02 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2012-04-02 | - | - |
+| Galantamine 4 MG Oral Tablet | 310436 | completed | 2017-04-16 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2018-02-01 | - | - |
+| 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule | 1599803 | active | 2018-12-18 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2023-05-13 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-06-16 | 1.0 | 1 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2025-03-28 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-06-16 | 1.0 | 1 time(s) per 1 day |

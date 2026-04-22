@@ -1,0 +1,1533 @@
+Patient: Emilio417 Legros616 | Age: 68 | Gender: male
+
+[
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "309362",
+          "display": "Clopidogrel 75 MG Oral Tablet"
+        }
+      ],
+      "text": "Clopidogrel 75 MG Oral Tablet"
+    },
+    "authoredOn": "2002-07-21T21:24:38+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "312961",
+          "display": "Simvastatin 20 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 20 MG Oral Tablet"
+    },
+    "authoredOn": "2002-07-21T21:24:38+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "866412",
+          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+        }
+      ],
+      "text": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+    },
+    "authoredOn": "2002-07-21T21:24:38+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "705129",
+          "display": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+        }
+      ],
+      "text": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    },
+    "authoredOn": "2002-07-21T21:24:38+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "2001499",
+          "display": "Vitamin B12 5 MG/ML Injectable Solution"
+        }
+      ],
+      "text": "Vitamin B12 5 MG/ML Injectable Solution"
+    },
+    "authoredOn": "2011-05-25T21:19:46+05:30"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "active",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "314231",
+          "display": "Simvastatin 10 MG Oral Tablet"
+        }
+      ],
+      "text": "Simvastatin 10 MG Oral Tablet"
+    },
+    "authoredOn": "2014-01-13T21:24:38+05:30",
+    "dosageInstruction": [
+      {
+        "sequence": 1,
+        "timing": {
+          "repeat": {
+            "frequency": 1,
+            "period": 1.0,
+            "periodUnit": "d"
+          }
+        },
+        "asNeededBoolean": false,
+        "doseAndRate": [
+          {
+            "type": {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                  "code": "ordered",
+                  "display": "Ordered"
+                }
+              ]
+            },
+            "doseQuantity": {
+              "value": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-08T20:04:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-08T20:04:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-07T18:00:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-07T18:00:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-06T14:11:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-03-06T14:11:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-05T00:28:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-05T00:28:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-03T23:20:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-03T23:20:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-02T21:54:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2014-02-02T21:54:38+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-20T19:49:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-20T19:49:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-19T18:21:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-19T18:21:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-18T14:30:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-18T14:30:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-17T12:23:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-17T12:23:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-16T09:26:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-16T09:26:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-15T06:24:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-15T06:24:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-14T03:38:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-14T03:38:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-13T02:06:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-13T02:06:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-11T23:44:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-11T23:44:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-10T21:37:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-10T21:37:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-09T21:05:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-09T21:05:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-08T17:34:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-08T17:34:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-07T14:02:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-12-07T14:02:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-05T13:35:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-05T13:35:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-04T10:55:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-04T10:55:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-03T09:31:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-03T09:31:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-02T06:57:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-11-02T06:57:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-30T17:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-30T17:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-29T15:28:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-29T15:28:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-28T13:35:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-28T13:35:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-27T10:40:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-27T10:40:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-26T07:17:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-26T07:17:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-25T05:43:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-09-25T05:43:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-25T16:10:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-25T16:10:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-24T13:53:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-24T13:53:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-23T11:38:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-23T11:38:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-22T07:09:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-22T07:09:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-21T05:11:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-21T05:11:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-20T03:55:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-20T03:55:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-19T03:24:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-19T03:24:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-18T00:47:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-18T00:47:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-16T22:45:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-16T22:45:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-15T20:57:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-08-15T20:57:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-16T14:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-16T14:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-15T09:59:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-15T09:59:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-14T07:16:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-14T07:16:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-13T03:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-13T03:07:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-11T22:56:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-11T22:56:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-10T20:11:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-07-10T20:11:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-06-07T21:02:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-06-07T21:02:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-06-06T20:13:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1736854",
+          "display": "Cisplatin 50 MG Injection"
+        }
+      ],
+      "text": "Cisplatin 50 MG Injection"
+    }
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "status": "completed",
+    "authoredOn": "2013-06-06T20:13:15+05:30",
+    "medicationCodeableConcept": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "583214",
+          "display": "PACLitaxel 100 MG Injection"
+        }
+      ],
+      "text": "PACLitaxel 100 MG Injection"
+    }
+  }
+]

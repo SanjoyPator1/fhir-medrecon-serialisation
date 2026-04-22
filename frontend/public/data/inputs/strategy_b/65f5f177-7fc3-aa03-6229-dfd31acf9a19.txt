@@ -1,0 +1,72 @@
+Patient: Herschel574 Streich926 | Age: 64 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1995-07-19 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-08-02 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2005-06-20 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2009-07-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-12-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-12-06 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-12-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-12-06 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-12-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-12-12 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2013-12-12 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2013-12-12 | - | - |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 2014-02-07 | 1.0 | 1 time(s) per 4 hour |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2014-05-29 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2014-10-26 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-11-06 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2014-11-06 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-06 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2014-11-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-11-13 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2014-11-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-13 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2014-11-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-12-18 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2014-12-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-12-18 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2014-12-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-12-24 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2015-12-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-12-24 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2015-12-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-12-29 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2016-12-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-12-29 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2016-12-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-01-04 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2018-01-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-01-04 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2018-01-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2018-02-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-01-10 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2019-01-10 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-01-10 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2019-01-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-01-16 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-01-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-01-16 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-01-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-01-21 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-01-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-01-21 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2021-01-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-01-27 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2022-01-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-01-27 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2022-01-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-02-02 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2023-02-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-02-02 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2023-02-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-02-08 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2024-02-08 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-02-08 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2024-02-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-02-13 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 2025-02-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-02-13 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 2025-02-13 | - | - |

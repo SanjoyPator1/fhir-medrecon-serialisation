@@ -1,0 +1,28 @@
+Patient: Kimberlee228 Fisher429 | Age: 69 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+2000-04-07 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2002-05-24 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2004-09-12 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2008-02-24 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2011-04-14 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2012-03-21 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2017-12-17 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2017-12-17 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2018-12-23 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2019-12-29 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2021-01-03 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2022-01-09 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2023-01-15 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2024-01-21 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2024-08-29 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2024-08-29 | completed    | 50 ML bivalirudin 5 MG/ML Injection (RxNorm: 1997015) | -
+2024-08-29 | completed    | ticagrelor 90 MG Oral Tablet (RxNorm: 1116635) | -
+2024-08-29 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2024-08-29 | active       | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2024-08-29 | active       | rosuvastatin calcium 10 MG Oral Tablet (RxNorm: 859747) | -
+2024-08-29 | active       | lisinopril 5 MG Oral Tablet (RxNorm: 311354) | -
+2024-08-29 | active       | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2025-01-26 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2026-02-01 | active       | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -

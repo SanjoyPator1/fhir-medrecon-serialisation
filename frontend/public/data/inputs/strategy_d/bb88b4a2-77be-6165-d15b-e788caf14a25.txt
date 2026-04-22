@@ -1,0 +1,64 @@
+Patient: Christal240 Schneider199 | Age: 41 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+2000-06-30 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2001-06-25 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+2002-09-26 | completed    | amoxicillin 500 MG / clavulanate 125 MG Oral Tablet (RxNorm: 617296) | -
+2003-06-15 | completed    | {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] (RxNorm: 749762) | -
+2007-05-25 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2008-03-22 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-05-09 | completed    | {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] (RxNorm: 978950) | -
+2013-06-25 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2015-06-15 | completed    | 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System (RxNorm: 1534809) | -
+2016-06-09 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2017-06-04 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2018-06-02 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2019-04-28 | completed    | Naproxen 500 MG Oral Tablet (RxNorm: 198014) | -
+2020-09-12 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-12 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-12 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-13 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-13 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-13 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-14 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-14 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-14 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-15 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-15 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-15 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-16 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-16 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-16 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-17 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-09-17 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-17 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-18 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-18 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-18 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-19 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-19 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-19 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-20 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-20 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-20 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-21 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-21 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-21 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-22 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-22 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-22 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-23 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-23 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-23 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-09-24 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-09-24 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-09-24 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2021-05-17 | completed    | 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2023-02-09 | completed    | pregabalin 100 MG Oral Capsule (RxNorm: 483438) | -
+2023-04-30 | completed    | Allopurinol 100 MG Oral Tablet (RxNorm: 197319) | -
+2023-06-27 | completed    | levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] (RxNorm: 1605257) | -
+2025-03-03 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2025-05-24 | completed    | Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | -
+2025-06-19 | active       | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2026-03-21 | active       | Milnacipran hydrochloride 100 MG Oral Tablet (RxNorm: 833135) | -

@@ -1,0 +1,30 @@
+Patient: Daniel959 Mohr916 | Age: 73 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2001-07-03 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2007-04-08 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-09-08 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2014-01-31 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2014-06-18 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2015-06-24 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2016-06-29 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2017-07-05 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2018-07-11 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2019-07-17 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2020-07-22 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2021-05-18 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2021-05-18 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2021-05-18 | completed    | heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048) | -
+2021-05-18 | completed    | clopidogrel 300 MG Oral Tablet (RxNorm: 749196) | -
+2021-05-18 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2021-05-18 | active       | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2021-05-18 | active       | atorvastatin 10 MG Oral Tablet (RxNorm: 617312) | -
+2021-05-18 | active       | ramipril 2.5 MG Oral Capsule (RxNorm: 198188) | -
+2021-05-18 | active       | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2021-07-28 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2022-04-04 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG [Macrobid] (RxNorm: 1648756) | 1.0, 2 time(s) per 1 day
+2022-08-03 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2023-08-09 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2024-08-14 | completed    | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day
+2025-08-20 | active       | Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387) | 1.0, 4 time(s) per 1 day

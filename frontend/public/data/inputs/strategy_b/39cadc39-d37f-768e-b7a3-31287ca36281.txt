@@ -1,0 +1,58 @@
+Patient: Darwin703 Conn188 | Age: 47 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1997-02-25 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2000-03-27 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2000-11-12 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2003-04-06 | - | - |
+| Hydrocortisone 10 MG/ML Topical Cream | 106258 | active | 2006-06-19 | - | - |
+| Loratadine 10 MG Oral Tablet | 311372 | active | 2006-07-03 | - | - |
+| NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | 1870230 | active | 2006-07-03 | - | - |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-02-03 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-03-18 | 1.0 | 1 time(s) per 3 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2014-05-17 | 1.0 | 1 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2014-10-25 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-10-25 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-10-25 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2015-10-31 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-10-31 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-10-31 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2016-10-15 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-10-15 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-10-15 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2016-11-05 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-11-05 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-11-05 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2017-11-11 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-11-11 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-11-11 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2018-11-17 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-11-17 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-11-17 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2019-11-23 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-11-23 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-11-23 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2020-11-28 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-11-28 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-11-28 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2021-12-04 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-12-04 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-12-04 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2022-12-10 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-12-10 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-12-10 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2023-12-16 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-12-16 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-12-16 | 1.0 | 4 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2024-05-02 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2024-05-11 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-05-11 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-05-11 | 1.0 | 4 time(s) per 1 day |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2024-05-30 | 1.0 | 2 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | completed | 2024-12-21 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-12-21 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-12-21 | 1.0 | 4 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] | 1049504 | active | 2025-12-27 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | active | 2025-12-27 | 1.0 | 1 time(s) per 3 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2025-12-27 | 1.0 | 4 time(s) per 1 day |

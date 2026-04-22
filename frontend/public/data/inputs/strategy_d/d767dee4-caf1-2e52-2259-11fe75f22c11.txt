@@ -1,0 +1,13 @@
+Patient: Rick943 Aufderhar910 | Age: 54 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1978-04-13 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1995-11-16 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1996-03-18 | completed    | Diazepam 5 MG Oral Tablet (RxNorm: 197591) | -
+1996-06-03 | completed    | sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet (RxNorm: 198335) | 1.0, 2 time(s) per 1 day
+1997-07-25 | completed    | carbamazepine 20 MG/ML Oral Suspension [Tegretol] (RxNorm: 308971) | -
+2000-07-28 | completed    | clonazePAM 0.25 MG Oral Tablet (RxNorm: 204892) | -
+2003-08-01 | active       | Diazepam 5 MG Oral Tablet (RxNorm: 197591) | -
+2003-11-15 | active       | carbamazepine 20 MG/ML Oral Suspension [Tegretol] (RxNorm: 308971) | -
+2004-08-02 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -

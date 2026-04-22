@@ -1,0 +1,14 @@
+Patient: Bud153 Dare640 | Age: 62 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2008-10-22 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2008-10-22 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2008-10-22 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2008-10-22 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2017-03-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-11-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-11-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-12-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-12-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-12-03 | 1.0 | 1 time(s) per 1 day |

@@ -1,0 +1,34 @@
+Patient: Juana825 Velásquez56 | Age: 57 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1995-10-27 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+1999-03-20 | completed    | Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet (RxNorm: 857005) | 1.0, 1 time(s) per 6 hour
+1999-03-20 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2000-05-29 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+2002-02-28 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2007-12-11 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2009-08-26 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2010-07-31 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-06-30 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2020-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-10-28 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2020-10-28 | completed    | Sodium Chloride 9 MG/ML Injectable Solution (RxNorm: 313002) | -
+2020-10-28 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2020-10-28 | completed    | 1 ML Morphine Sulfate 5 MG/ML Injection (RxNorm: 1732136) | -
+2020-10-28 | completed    | Piperacillin 4000 MG / tazobactam 500 MG Injection (RxNorm: 1659149) | -
+2020-10-28 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2020-10-28 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2020-10-28 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2020-10-28 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2020-10-28 | completed    | isoflurane 999 MG/ML Inhalation Solution (RxNorm: 542347) | -
+2020-10-28 | completed    | 5 ML SUFentanil 0.05 MG/ML Injection (RxNorm: 1809104) | -
+2020-10-30 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+2021-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-10-31 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2022-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-05-04 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-06-17 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2024-05-13 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-05-13 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-08-26 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -

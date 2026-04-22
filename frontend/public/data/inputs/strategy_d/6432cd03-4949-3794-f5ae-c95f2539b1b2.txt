@@ -1,0 +1,34 @@
+Patient: Rhett759 Gusikowski974 | Age: 59 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2001-12-18 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2011-01-29 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2011-01-29 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2011-01-29 | completed    | heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048) | -
+2011-01-29 | completed    | clopidogrel 300 MG Oral Tablet (RxNorm: 749196) | -
+2011-01-29 | completed    | 100 ML eptifibatide 0.75 MG/ML Injection (RxNorm: 200349) | -
+2011-01-29 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2011-01-29 | active       | 24 HR metoprolol succinate 50 MG Extended Release Oral Tablet (RxNorm: 866436) | -
+2011-01-29 | active       | atorvastatin 80 MG Oral Tablet (RxNorm: 259255) | -
+2011-01-29 | active       | lisinopril 10 MG Oral Tablet (RxNorm: 314076) | -
+2011-01-29 | active       | prasugrel 10 MG Oral Tablet (RxNorm: 855812) | -
+2012-03-06 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2021-12-30 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2022-12-30 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-12-28 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2023-12-28 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2023-12-28 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2023-12-28 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2023-12-30 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-01-11 | completed    | cefazolin 2000 MG Injection (RxNorm: 1665060) | -
+2024-01-11 | completed    | 1 ML heparin sodium, porcine 5000 UNT/ML Injection (RxNorm: 1659263) | -
+2024-01-11 | completed    | 25 ML protamine sulfate (USP) 10 MG/ML Injection (RxNorm: 1796676) | -
+2024-01-11 | completed    | 2 ML Ondansetron 2 MG/ML Injection (RxNorm: 1740467) | -
+2024-01-11 | completed    | Midazolam 1 MG/ML Injectable Solution (RxNorm: 311700) | -
+2024-01-11 | completed    | 100 ML Propofol 10 MG/ML Injection (RxNorm: 1808217) | -
+2024-01-11 | completed    | Rocuronium bromide 10 MG/ML Injectable Solution (RxNorm: 1234995) | -
+2024-01-11 | completed    | desflurane 1000 MG/ML Inhalation Solution (RxNorm: 562366) | -
+2024-01-11 | completed    | remifentanil 2 MG Injection (RxNorm: 1729584) | -
+2024-12-29 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2026-01-08 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

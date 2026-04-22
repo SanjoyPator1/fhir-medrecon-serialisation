@@ -1,0 +1,33 @@
+Patient: Oleta341 Bradtke547 | Age: 59 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1998-04-28 | - | - |
+| ciprofloxacin 250 MG Oral Tablet | 197511 | completed | 1999-03-04 | 1.0 | 1 time(s) per 2 day |
+| Hydrocortisone 10 MG/ML Topical Cream | 106258 | active | 2002-01-04 | - | - |
+| Fexofenadine hydrochloride 60 MG Oral Tablet | 997501 | active | 2002-01-20 | - | - |
+| NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | 1870230 | active | 2002-01-20 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2003-10-28 | - | - |
+| 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System | 1534809 | completed | 2005-11-08 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2008-01-08 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2009-12-28 | - | - |
+| {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] | 748879 | completed | 2012-12-12 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-02-06 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-10-21 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2014-12-02 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-10-27 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-11-01 | - | - |
+| {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] | 978950 | completed | 2016-11-29 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2017-07-08 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-08-29 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2017-09-05 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-11-07 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-11-13 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2019-03-11 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2019-11-19 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2020-11-24 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2021-11-30 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2022-12-06 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2023-12-12 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2024-12-17 | - | - |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | active | 2025-12-23 | - | - |

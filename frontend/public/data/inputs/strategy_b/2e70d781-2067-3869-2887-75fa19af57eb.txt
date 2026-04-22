@@ -1,0 +1,18 @@
+Patient: Juan88 Senger904 | Age: 49 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2003-06-17 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-04-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2013-02-27 | - | - |
+| aspirin 325 MG Oral Tablet | 212033 | completed | 2020-07-15 | 4.0 | 1 time(s) per 1 hour |
+| nitroglycerin 0.4 MG Sublingual Tablet | 198039 | completed | 2020-07-15 | - | - |
+| 0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe | 861356 | completed | 2020-07-15 | - | - |
+| prasugrel 10 MG Oral Tablet | 855812 | completed | 2020-07-16 | - | - |
+| aspirin 81 MG Oral Tablet | 243670 | active | 2020-07-16 | - | - |
+| 24 HR metoprolol succinate 25 MG Extended Release Oral Tablet | 866427 | active | 2020-07-16 | - | - |
+| pravastatin sodium 40 MG Oral Tablet | 904475 | active | 2020-07-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2020-07-16 | - | - |
+| prasugrel 10 MG Oral Tablet | 855812 | completed | 2020-07-16 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2024-07-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2026-02-02 | - | - |

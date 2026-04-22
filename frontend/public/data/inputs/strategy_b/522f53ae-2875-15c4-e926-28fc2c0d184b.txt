@@ -1,0 +1,71 @@
+Patient: Hollie21 Padberg411 | Age: 50 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | active | 1982-07-06 | - | - |
+| carbamazepine 20 MG/ML Oral Suspension [Tegretol] | 308971 | completed | 1982-11-27 | - | - |
+| Penicillin V Potassium 250 MG Oral Tablet | 834061 | completed | 1983-07-20 | - | - |
+| Acetaminophen 160 MG Chewable Tablet | 313820 | completed | 1984-08-22 | - | - |
+| Aspirin 81 MG Oral Tablet | 243670 | completed | 1988-06-15 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1990-05-09 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1990-06-12 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1990-09-22 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1990-11-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1991-01-02 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1991-03-01 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1991-05-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1991-07-04 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1991-11-18 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-01-01 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-03-15 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-07-07 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1992-11-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1993-02-23 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1993-04-23 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1993-05-06 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1993-06-10 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1993-07-19 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1993-10-08 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1993-12-05 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1994-01-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1994-03-03 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1994-04-16 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1994-08-03 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1994-09-09 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1994-11-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1995-01-19 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1995-03-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1995-05-07 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1995-07-13 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1995-12-06 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1996-03-01 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1996-07-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1996-11-08 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1996-12-22 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1997-04-03 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1997-06-09 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1997-08-27 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1997-11-30 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1998-01-13 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1998-04-04 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 1998-07-04 | 1.0 | 2 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1998-07-08 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1998-09-20 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 1998-11-03 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1999-01-09 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1999-02-06 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1999-03-15 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 1999-05-21 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1999-07-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 1999-12-14 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2000-01-04 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 2000-02-19 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2000-04-24 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 2000-06-07 | - | - |
+| Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2000-07-14 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2000-10-31 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | active | 2000-12-29 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2001-02-19 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2001-03-28 | - | - |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 2001-05-11 | - | - |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2001-06-17 | - | - |

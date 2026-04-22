@@ -1,0 +1,46 @@
+Patient: Beau391 Fadel536 | Age: 68 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2003-01-12 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2004-01-12 | 1.0 | 1 time(s) per 1 day |
+| ferrous sulfate 325 MG Oral Tablet | 310325 | active | 2005-01-04 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2005-01-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2006-01-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2007-01-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-01-11 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-01-10 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-01-10 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-01-10 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-01-10 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-01-09 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-01-09 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-01-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2015-09-10 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-01-18 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-01-29 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-01-29 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-02-10 | 1.0 | 1 time(s) per 1 day |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 2019-08-06 | 1.0 | 1 time(s) per 4 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2019-08-06 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-02-10 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-02-21 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-02-21 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2023-03-05 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2023-03-05 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2023-03-05 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2023-03-05 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-03-05 | 1.0 | 1 time(s) per 1 day |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2023-05-22 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2023-05-22 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2023-05-22 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2023-05-22 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2023-05-22 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2023-05-22 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2023-05-22 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2023-05-22 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2023-05-22 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-03-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2024-06-23 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2025-03-16 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2026-03-16 | 1.0 | 1 time(s) per 1 day |

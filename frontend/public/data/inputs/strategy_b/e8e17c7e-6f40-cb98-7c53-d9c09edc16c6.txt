@@ -1,0 +1,31 @@
+Patient: Abe604 Waters156 | Age: 63 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2004-12-20 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2006-02-09 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-01-13 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-01-12 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-01-12 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-01-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2012-01-22 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-01-22 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-01-21 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-01-21 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-01-21 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-01-21 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-01-20 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2017-03-27 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-01-20 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-01-20 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-02-02 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-02-01 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-11-16 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-02-01 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-02-01 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-02-01 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2025-01-31 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2025-06-16 | - | - |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 2025-06-23 | 1.0 | 1 time(s) per 4 hour |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2026-01-27 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2026-01-31 | 1.0 | 1 time(s) per 1 day |

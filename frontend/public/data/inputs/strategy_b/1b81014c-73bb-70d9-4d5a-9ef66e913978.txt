@@ -1,0 +1,51 @@
+Patient: Ellan282 Schneider199 | Age: 64 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2003-04-29 | - | - |
+| nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule | 1648755 | completed | 2007-12-22 | 1.0 | 2 time(s) per 1 day |
+| Naproxen 500 MG Oral Tablet | 198014 | active | 2008-08-08 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2011-02-10 | - | - |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2012-02-29 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2014-02-06 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2014-05-13 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2014-06-11 | - | - |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2014-11-03 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2015-05-19 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2016-05-24 | 1.0 | 4 time(s) per 1 day |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2017-04-01 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2017-05-30 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2018-06-05 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2019-06-11 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-07-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2020-06-16 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-07-01 | 1.0 | 1 time(s) per 1 day |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2020-12-27 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2021-06-22 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2021-07-01 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-07-01 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2022-06-28 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-07-01 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2022-09-13 | 1.0 | 4 time(s) per 1 day |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2023-03-17 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2023-07-04 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-07-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-07-09 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-07-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-09-24 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-10-01 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-10-08 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-10-15 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-10-22 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-10-29 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-11-05 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-11-12 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-11-19 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-11-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-12-03 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2024-12-10 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-12-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | completed | 2024-12-31 | 1.0 | 4 time(s) per 1 day |
+| Milnacipran hydrochloride 100 MG Oral Tablet | 833135 | completed | 2025-05-04 | - | - |
+| Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet | 993770 | active | 2025-07-15 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-07-22 | 1.0 | 1 time(s) per 1 day |

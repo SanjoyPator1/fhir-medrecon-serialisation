@@ -1,0 +1,926 @@
+Patient: Kena893 Jacobson885 | Age: 71 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1996-04-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1996-04-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1996-06-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1996-06-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1997-01-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1997-01-31 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1997-02-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1997-02-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-02-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-02-13 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-02-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-02-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-03-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-03-27 | 1.0 | 1 time(s) per 1 day |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 1998-04-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1998-11-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-11-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-02-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-02-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-01-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-01-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-02-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-02-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-03-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-03-24 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-06-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-06-16 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2001-01-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-02-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-02-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-02-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-02-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-03-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-03-02 | 1.0 | 1 time(s) per 1 day |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2001-04-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-09-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-09-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-10-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-10-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-12-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-12-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-03-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-03-08 | 1.0 | 1 time(s) per 1 day |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2002-04-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-07-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-07-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-11-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-11-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-11-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-11-29 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-12-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-12-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-03-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-03-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-03-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-03-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-05-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-05-02 | 1.0 | 1 time(s) per 1 day |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2003-07-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-08-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-08-29 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-11-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-11-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-12-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-12-26 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-01-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-01-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-02-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-02-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-03-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-03-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-05-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-05-21 | 1.0 | 1 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2004-07-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-07-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-07-23 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-08-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-08-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-11-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-11-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-03-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-03-18 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-03-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-03-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-05-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-05-20 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-07-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-07-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-09-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-09-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-10-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-10-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-03-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-03-17 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-03-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-03-31 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-04-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-04-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-05-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-05-12 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2006-06-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-07-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-07-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-09-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-09-08 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-10-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-10-13 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-12-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-12-08 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-04-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-04-06 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2007-04-06 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2007-04-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-04-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-04-13 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2007-09-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-09-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-09-07 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2007-10-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-10-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-10-05 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2007-11-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-11-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-11-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-01-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-01-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-01-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-04-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-04-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-04-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-04-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-04-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-04-11 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-05-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-05-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-05-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-05-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-05-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-05-30 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-08-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-08-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-08-29 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2008-12-26 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-12-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-12-26 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2009-01-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-01-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-01-30 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2009-04-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-04-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-04-17 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2009-07-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-07-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-07-24 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-01-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-01-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-01-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-02-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-03-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-15 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2010-04-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-04-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-04-23 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-04-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-05-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-06-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-07-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-08-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-09-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-10-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-11-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2010-12-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-02-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-03-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-04-21 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2011-04-29 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-04-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-04-29 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-05-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-05-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-05-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-05-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-05-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-06-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-07-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-08-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-09-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-10-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-11-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2011-12-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-01-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-02-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-03-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-04-25 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-05-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-05-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-05-04 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-05-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-06-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-07-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-08-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-09-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-10-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-11-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2012-12-19 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2012-12-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-12-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-12-28 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-01-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-01-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-01-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-01-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-01-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-01-11 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-01-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-01-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-01-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-02-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-03-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-04-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-01 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-05-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-05-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-05-10 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-05-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-06-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-07-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-08-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-09-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-10-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-11-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2013-12-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-01-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-02-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-03-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-04-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-08 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-05-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-05-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-05-16 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-05-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-06-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-07-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-08-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-09-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-10-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-11-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2014-12-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-02-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-03-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-04-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-05-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-05-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-05-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-05-13 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-05-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-05-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-05-22 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-05-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-06-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-07-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-08-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-08-05 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-08-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-08-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-08-14 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-08-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-08-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-08-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-09-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-10-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-11-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2015-12-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-02-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-03-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-04-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-04-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-04-07 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-04-08 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-04-09 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-04-10 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-04-11 | - | - |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2016-04-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2016-04-22 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-04-29 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-05-06 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-05-13 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-05-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-05-27 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2016-05-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-05-27 | 1.0 | 1 time(s) per 1 day |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-06-03 | - | - |
+| 1 ML tacrolimus 5 MG/ML Injection [Prograf] | 108515 | completed | 2016-06-10 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2016-08-24 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-06-02 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-06-02 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2017-06-02 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-06-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-06-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-06-08 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2018-06-08 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-06-08 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-06-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-06-15 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2018-06-15 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-06-15 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-06-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-06-14 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2019-06-14 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-06-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-12-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-12-06 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2019-12-06 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-12-06 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2019-12-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-12-13 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2019-12-13 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-12-13 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2019-12-20 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2020-06-19 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-06-19 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2020-06-19 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-06-19 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-06-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-06-25 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2021-06-25 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-06-25 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-07-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-07-01 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2022-07-01 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-07-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-07-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-07-07 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2023-07-07 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-07-07 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-07-12 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-07-12 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | completed | 2024-07-12 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-07-12 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2025-07-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-07-18 | 1.0 | 1 time(s) per 1 day |
+| 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] | 1664463 | active | 2025-07-18 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-07-18 | 1.0 | 1 time(s) per 1 day |

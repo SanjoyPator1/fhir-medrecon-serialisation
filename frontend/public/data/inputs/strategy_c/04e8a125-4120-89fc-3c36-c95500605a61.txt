@@ -1,0 +1,48 @@
+Patient: Rolando809 Nicolas769 | Age: 63 | Gender: male
+
+Currently active medications:
+  - 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule (RxNorm: 1599803), prescribed on 2018-07-15, status: active. Dosage not recorded.
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2019-05-27, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2019-05-27, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2019-05-27, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2019-05-27, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-06-12, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2023-06-12, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2008-08-13, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2011-06-16, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-04-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-04-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-02-05, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-04-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-04-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-04-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2015-04-27, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-05-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2016-05-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-12-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2016-12-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Galantamine 4 MG Oral Tablet (RxNorm: 310436), prescribed on 2016-12-26, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-01-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2017-01-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-05-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2017-05-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-05-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2017-05-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-06-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2017-06-05, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-05-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2018-05-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2019-05-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-05-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2020-05-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-05-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2021-05-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-06-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2022-06-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2022-06-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-08-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2022-08-22, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.

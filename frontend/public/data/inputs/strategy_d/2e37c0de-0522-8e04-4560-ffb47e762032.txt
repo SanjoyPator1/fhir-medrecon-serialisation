@@ -1,0 +1,86 @@
+Patient: Lyman173 Lubowitz58 | Age: 66 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1996-07-20 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2006-04-09 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2006-04-09 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2006-04-09 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2006-04-09 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2007-08-03 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2011-03-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2011-03-20 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2012-03-25 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2013-03-31 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-04-06 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2014-09-18 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2015-04-12 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2016-04-17 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2017-04-23 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2018-04-29 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2019-05-05 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-05-10 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2020-05-10 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2020-06-18 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-18 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-18 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-19 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-19 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-19 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-20 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-20 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-20 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-21 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-21 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-21 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-22 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-22 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-22 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-23 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-23 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-23 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-24 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-24 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-24 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-25 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-25 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-25 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-26 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-26 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-26 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-27 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-27 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-27 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-28 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-28 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-28 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-29 | completed    | 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235) | -
+2020-06-29 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-29 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-06-30 | completed    | 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252) | 1.0, 1 time(s) per 1 day
+2020-06-30 | completed    | NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111) | 4.0, 1 time(s) per 4 hour
+2020-06-30 | completed    | Acetaminophen 500 MG Oral Tablet (RxNorm: 198440) | -
+2020-07-05 | completed    | Amoxicillin 250 MG Oral Capsule (RxNorm: 308182) | 1.0, 2 time(s) per 1 day
+2020-07-05 | completed    | Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221) | 1.0, 1 time(s) per 6 hour
+2020-07-05 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2021-05-16 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2021-05-16 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2022-05-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2022-05-22 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2022-06-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-01-22 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-01-22 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2023-05-28 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2023-05-28 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2023-06-12 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-12-26 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2024-01-07 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-01-07 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2024-01-14 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-01-14 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2024-06-02 | completed    | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2024-06-02 | completed    | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2024-06-23 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-06-08 | active       | Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798) | 1.0, 1 time(s) per 1 day
+2025-06-08 | active       | Alendronic acid 10 MG Oral Tablet (RxNorm: 904419) | -
+2025-06-23 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day

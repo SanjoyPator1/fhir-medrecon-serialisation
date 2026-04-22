@@ -1,0 +1,24 @@
+Patient: Benito209 Beahan375 | Age: 51 | Gender: male
+
+Currently active medications:
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2003-12-27, status: active. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2003-12-27, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1975-09-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820), prescribed on 1975-09-07, status: completed. Dosage not recorded.
+  - Penicillin G 375 MG/ML Injectable Solution (RxNorm: 105078), prescribed on 1975-12-17, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 100 MG Oral Tablet (RxNorm: 198405), prescribed on 1975-12-17, status: completed. Dosage not recorded.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1977-11-07, status: completed. Dosage not recorded.
+  - Acetaminophen 160 MG Chewable Tablet (RxNorm: 313820), prescribed on 1978-05-26, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 250 MG Oral Tablet (RxNorm: 834061), prescribed on 1979-03-23, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1981-05-23, status: completed. Dosage not recorded.
+  - Aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 1987-12-28, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1997-12-04, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2003-07-19, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2003-07-19, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2003-07-19, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2003-07-19, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2003-12-09, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2003-12-20, status: completed. Dosage not recorded.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2003-12-20, status: completed. Dosage not recorded.

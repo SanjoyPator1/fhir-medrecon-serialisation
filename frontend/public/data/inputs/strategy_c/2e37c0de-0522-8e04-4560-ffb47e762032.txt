@@ -1,0 +1,87 @@
+Patient: Lyman173 Lubowitz58 | Age: 66 | Gender: male
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2006-04-09, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2006-04-09, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2006-04-09, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2006-04-09, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-06-08, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2025-06-08, status: active. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-06-23, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 1996-07-20, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2007-08-03, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-03-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-03-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-03-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-03-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-04-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2014-09-18, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-04-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-04-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-04-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-04-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-05-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2020-05-10, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-18, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-18, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-18, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-19, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-19, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-19, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-20, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-20, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-20, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-21, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-21, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-21, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-22, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-22, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-22, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-23, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-23, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-23, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-24, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-24, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-24, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-25, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-25, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-25, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-26, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-26, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-26, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-27, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-27, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-27, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-28, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-28, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-28, status: completed. Dosage not recorded.
+  - 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe (RxNorm: 854235), prescribed on 2020-06-29, status: completed. Dosage not recorded.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-29, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-29, status: completed. Dosage not recorded.
+  - 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe (RxNorm: 854252), prescribed on 2020-06-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler (RxNorm: 2123111), prescribed on 2020-06-30, status: completed. Dose: 4.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 500 MG Oral Tablet (RxNorm: 198440), prescribed on 2020-06-30, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG Oral Capsule (RxNorm: 308182), prescribed on 2020-07-05, status: completed. Dose: 1.0, frequency: 2 time(s) per 1 day.
+  - Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2020-07-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2020-07-05, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-05-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2021-05-16, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-05-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2022-05-22, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-06-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-01-22, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2023-01-22, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-05-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2023-05-28, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-06-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2023-12-26, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-01-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2024-01-07, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-01-14, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2024-01-14, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-06-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Alendronic acid 10 MG Oral Tablet (RxNorm: 904419), prescribed on 2024-06-02, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-06-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.

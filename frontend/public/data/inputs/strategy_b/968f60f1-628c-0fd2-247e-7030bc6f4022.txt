@@ -1,0 +1,119 @@
+Patient: Denita497 Kuhlman484 | Age: 69 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-04-04 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1999-03-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-07-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 1999-07-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-07-02 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2000-07-09 | 1.0 | 1 time(s) per 1 day |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2000-07-09 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2000-07-09 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2001-03-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-07-15 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2001-07-15 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2001-07-15 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2002-03-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-07-21 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2002-07-21 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2002-07-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-07-27 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2003-07-27 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2003-07-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-01-18 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2004-01-18 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2004-01-18 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-01-25 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2004-01-25 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2004-01-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-02-01 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2004-02-01 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2004-02-01 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 2004-02-22 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2004-03-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-08-01 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2004-08-01 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2004-08-01 | - | - |
+| levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] | 807283 | completed | 2005-02-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-08-07 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2005-08-07 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2005-08-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-08-13 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2006-08-13 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2006-08-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-11-12 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2006-11-12 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2006-11-12 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2007-02-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-08-19 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2007-08-19 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2007-08-19 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-08-24 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2008-08-24 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2008-08-24 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-08-30 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2009-08-30 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2009-08-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-09-05 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2010-09-05 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2010-09-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-09-11 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2011-09-11 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2011-09-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-09-16 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2012-09-16 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2012-09-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-09-22 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2013-09-22 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2013-09-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-09-28 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2014-09-28 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2014-09-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-10-04 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2015-10-04 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2015-10-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-11-08 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2015-11-08 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2015-11-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-11-15 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2015-11-15 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2015-11-15 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2016-01-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-10-09 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2016-10-09 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2016-10-09 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-07-16 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2017-07-16 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2017-07-16 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-10-15 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2017-10-15 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2017-10-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-10-21 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2018-10-21 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2018-10-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-10-27 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2019-10-27 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2019-10-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-11-01 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-11-01 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-11-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-11-07 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-11-07 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2021-11-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-11-13 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2022-11-13 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2022-11-13 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-12-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-11-19 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2023-11-19 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2023-11-19 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-12-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-11-24 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2024-11-24 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2024-11-24 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-12-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-11-30 | 1.0 | 1 time(s) per 1 day |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 2025-11-30 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 2025-11-30 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-12-03 | 1.0 | 1 time(s) per 1 day |

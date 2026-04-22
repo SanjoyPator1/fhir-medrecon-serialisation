@@ -1,0 +1,12 @@
+Patient: Alonso270 Mills423 | Age: 53 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1995-09-21 | active       | Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499) | -
+1997-10-16 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2003-02-26 | completed    | ciprofloxacin 500 MG Oral Tablet (RxNorm: 309309) | 1.0, 2 time(s) per 1 day
+2006-04-26 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2010-12-20 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2024-09-07 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2025-07-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-07-24 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day

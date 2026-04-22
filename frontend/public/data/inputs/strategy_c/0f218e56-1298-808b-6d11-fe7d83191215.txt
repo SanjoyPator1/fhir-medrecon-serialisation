@@ -1,0 +1,62 @@
+Patient: Garret233 Durgan499 | Age: 55 | Gender: male
+
+Currently active medications:
+  - ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325), prescribed on 2008-04-22, status: active. Dosage not recorded.
+  - Vitamin B12 5 MG/ML Injectable Solution (RxNorm: 2001499), prescribed on 2008-04-22, status: active. Dosage not recorded.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-08-05, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2025-06-17, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2025-06-17, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2025-06-17, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2025-06-17, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2008-08-14, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2009-08-12, status: completed. Dosage not recorded.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2010-04-01, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2014-04-07, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2014-04-15, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2014-06-06, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2014-09-30, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2014-10-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2014-12-03, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2015-04-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2015-04-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2015-04-21, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2015-04-21, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2016-04-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2016-04-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2016-04-26, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2016-04-26, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2017-05-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2017-05-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2017-05-02, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2017-05-02, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2018-05-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2018-05-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2018-05-08, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2018-05-08, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2019-05-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2019-05-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2019-05-14, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2019-05-14, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2020-02-06, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2020-05-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2020-05-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2020-05-19, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2020-05-19, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2021-05-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2021-05-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2021-05-25, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2021-05-25, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2022-05-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2022-05-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2022-05-31, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2022-05-31, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2023-06-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2023-06-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2023-06-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2023-06-06, status: completed. Dosage not recorded.
+  - Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet (RxNorm: 993770), prescribed on 2024-06-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] (RxNorm: 1049625), prescribed on 2024-06-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet [Tylenol] (RxNorm: 209387), prescribed on 2024-06-11, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - tramadol hydrochloride 50 MG Oral Tablet (RxNorm: 835603), prescribed on 2024-06-11, status: completed. Dosage not recorded.

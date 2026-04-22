@@ -1,0 +1,13 @@
+Patient: Rick943 Aufderhar910 | Age: 54 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1978-04-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1995-11-16 | - | - |
+| Diazepam 5 MG Oral Tablet | 197591 | completed | 1996-03-18 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 1996-06-03 | 1.0 | 2 time(s) per 1 day |
+| carbamazepine 20 MG/ML Oral Suspension [Tegretol] | 308971 | completed | 1997-07-25 | - | - |
+| clonazePAM 0.25 MG Oral Tablet | 204892 | completed | 2000-07-28 | - | - |
+| Diazepam 5 MG Oral Tablet | 197591 | active | 2003-08-01 | - | - |
+| carbamazepine 20 MG/ML Oral Suspension [Tegretol] | 308971 | active | 2003-11-15 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2004-08-02 | - | - |

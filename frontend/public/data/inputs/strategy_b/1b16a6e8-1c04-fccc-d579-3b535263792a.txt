@@ -1,0 +1,483 @@
+Patient: Mendy939 Beer512 | Age: 65 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1990-05-02 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1993-11-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2000-08-26 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-05-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-05-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-06-13 | 1.0 | 1 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2006-02-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-05-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-05-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-08-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-08-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-04-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-04-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-05-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-05-26 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-05-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-05-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-06-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-06-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-12-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-12-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-02-19 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-02-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-02-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-06 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-03-06 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-03-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-03-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-06-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-06-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-10-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-10-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-06-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-06-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-06-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-06-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-06-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-06-29 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2013-06-29 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-04-05 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-06-04 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-07-05 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-07-05 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-07-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-07-05 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-07-19 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-07-19 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-07-19 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-07-19 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-08-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-08-16 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-08-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-08-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-08-16 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2014-09-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-10-11 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-10-11 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-10-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-10-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-10-11 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-10-18 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-10-18 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-10-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-10-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-10-18 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-10-25 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-10-25 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-10-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-10-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-10-25 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-11-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-11-01 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-11-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-11-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-11-08 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-11-08 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-11-08 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-11-08 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-11-15 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-11-15 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-11-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-11-15 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-11-22 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-11-22 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-11-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-11-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-11-22 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-12-13 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-12-13 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-12-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-12-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-12-13 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2014-12-20 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-12-20 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2014-12-20 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-12-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-12-20 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-05-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-05-16 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-05-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-05-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-05-16 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-07-11 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-07-11 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-07-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-07-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-07-11 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-08-15 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-08-15 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-08-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-08-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-08-15 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-09-12 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-09-12 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-09-12 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-09-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-09-12 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-10-24 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-10-24 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-10-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-10-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-10-24 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-10-31 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-10-31 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-10-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-10-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-10-31 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-11-07 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-11-07 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-11-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-11-07 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-11-14 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-11-14 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-11-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-11-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-11-21 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-11-21 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-11-21 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-11-21 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-11-28 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-11-28 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-11-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-11-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-11-28 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-12-19 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-12-19 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-12-19 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-12-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-12-19 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2015-12-26 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-12-26 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2015-12-26 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-12-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-12-26 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-01-02 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-01-02 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-01-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-01-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-01-02 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-01-09 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-01-09 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-01-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-01-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-01-09 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-06-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-06-04 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-06-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-06-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-06-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-07-09 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-07-09 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-07-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-07-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-07-09 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-07-16 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-07-16 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-07-16 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-07-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-07-16 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-11-05 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-11-05 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-11-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-11-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-11-05 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2016-12-03 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-12-03 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2016-12-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-12-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-12-03 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-03-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-03-04 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-03-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-03-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-03-04 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-04-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-04-01 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-04-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-04-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-04-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-06-03 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-06-03 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-06-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-06-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-06-03 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-07-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-07-01 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-07-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-07-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-07-01 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-07-22 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-07-22 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-07-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-07-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-07-22 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2017-07-29 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-07-29 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2017-07-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-07-29 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-07-29 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-20 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2017-10-22 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2017-10-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-10-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-23 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2017-11-24 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2017-11-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-11-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-21 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2017-12-25 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2017-12-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2017-12-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-25 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2018-01-26 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2018-01-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-01-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-25 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2018-02-28 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2018-02-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-02-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-28 | - | - |
+| Leucovorin 100 MG Injection | 1803932 | completed | 2018-03-29 | - | - |
+| 10 ML oxaliplatin 5 MG/ML Injection | 1736776 | completed | 2018-03-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-03-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-04-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-05-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-06-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-07-19 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-07-28 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-07-28 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-07-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-07-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-07-28 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-08-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-08-04 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-08-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-08-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-08-04 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-08-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-08-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-08-25 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2018-08-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-08-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-08-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-09-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-09-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-09-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-09-13 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2018-09-22 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-09-22 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | completed | 2018-09-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-09-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-09-22 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-09-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-10-31 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-03 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-06 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-11-28 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2018-12-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-20 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-01-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-02-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-03-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-09 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-12 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-27 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-04-30 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-25 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-05-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-23 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-06-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-15 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-18 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-24 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-07-27 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2019-08-03 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2019-08-03 | 1.0 | 4 time(s) per 1 day |
+| tramadol hydrochloride 50 MG Oral Tablet | 835603 | active | 2019-08-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2019-08-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2019-08-03 | 1.0 | 1 time(s) per 1 day |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-08-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-08-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-08-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-01 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-04 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-07 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-10 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-13 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-16 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-19 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-22 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-26 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-09-29 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-02 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-05 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-08 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-11 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-14 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-17 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-21 | - | - |
+| 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] | 205923 | completed | 2019-10-24 | - | - |

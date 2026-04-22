@@ -1,0 +1,29 @@
+Patient: Zella14 Batz141 | Age: 48 | Gender: female
+
+Currently active medications:
+  - Hydrocortisone 10 MG/ML Topical Cream (RxNorm: 106258), prescribed on 2009-07-03, status: active. Dosage not recorded.
+  - Fexofenadine hydrochloride 60 MG Oral Tablet (RxNorm: 997501), prescribed on 2009-07-17, status: active. Dosage not recorded.
+  - NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector (RxNorm: 1870230), prescribed on 2009-07-17, status: active. Dosage not recorded.
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-04-12, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2025-05-20, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467), prescribed on 1997-03-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1997-03-10, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2001-03-18, status: completed. Dosage not recorded.
+  - Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343), prescribed on 2005-08-27, status: completed. Dosage not recorded.
+  - Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102), prescribed on 2006-05-20, status: completed. Dosage not recorded.
+  - 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439), prescribed on 2006-08-22, status: completed. Dosage not recorded.
+  - Etonogestrel 68 MG Drug Implant (RxNorm: 389221), prescribed on 2007-08-17, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905), prescribed on 2008-08-11, status: completed. Dosage not recorded.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2009-08-06, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283), prescribed on 2013-07-16, status: completed. Dosage not recorded.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2016-07-04, status: completed. Dosage not recorded.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2017-06-29, status: completed. Dosage not recorded.
+  - 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126), prescribed on 2018-06-24, status: completed. Dosage not recorded.
+  - {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] (RxNorm: 978950), prescribed on 2019-06-19, status: completed. Dosage not recorded.
+  - {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] (RxNorm: 748879), prescribed on 2020-06-13, status: completed. Dosage not recorded.
+  - levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] (RxNorm: 1856546), prescribed on 2021-06-08, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2023-03-11, status: completed. Dosage not recorded.
+  - {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856), prescribed on 2023-05-31, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905), prescribed on 2024-05-25, status: completed. Dosage not recorded.

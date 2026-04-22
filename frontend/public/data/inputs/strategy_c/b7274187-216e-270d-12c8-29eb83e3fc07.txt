@@ -1,0 +1,163 @@
+Patient: Krystina167 Haley279 | Age: 73 | Gender: female
+
+Currently active medications:
+  - Clopidogrel 75 MG Oral Tablet (RxNorm: 309362), prescribed on 2020-05-25, status: active. Dosage not recorded.
+  - Simvastatin 20 MG Oral Tablet (RxNorm: 312961), prescribed on 2020-05-25, status: active. Dosage not recorded.
+  - 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412), prescribed on 2020-05-25, status: active. Dosage not recorded.
+  - Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129), prescribed on 2020-05-25, status: active. Dosage not recorded.
+  - aspirin 81 MG Oral Tablet (RxNorm: 243670), prescribed on 2024-07-22, status: active. Dosage not recorded.
+  - pitavastatin calcium 4 MG Oral Tablet [Livalo] (RxNorm: 861654), prescribed on 2024-07-22, status: active. Dosage not recorded.
+  - amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule (RxNorm: 898359), prescribed on 2024-07-22, status: active. Dosage not recorded.
+  - 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule (RxNorm: 1599803), prescribed on 2025-06-07, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-08-11, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2025-08-11, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-08-11, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2025-08-12, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 1997-05-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 1998-05-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 1999-05-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2000-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2000-10-18, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2001-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2001-09-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 6 hour.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2001-09-11, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2002-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2003-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2003-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2003-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2003-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2003-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2004-04-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2004-04-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2004-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2004-10-14, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2005-04-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2005-04-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2005-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2006-04-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2006-04-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2006-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2007-04-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2007-04-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2007-05-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2008-05-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-05-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2008-05-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2008-06-20, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2008-06-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-06-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2008-07-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2008-07-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2009-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2009-05-11, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2009-05-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2010-05-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2010-05-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2010-05-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2011-05-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2011-05-23, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2011-05-30, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-05-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-05-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2012-05-28, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2012-05-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2012-06-18, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-06-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2013-06-03, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-06-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2013-06-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2013-06-24, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-06-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2014-06-09, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-06-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2014-06-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2014-06-19, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-06-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2015-06-15, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-06-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2015-06-22, status: completed. Dosage not recorded.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2015-06-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2016-05-17, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2016-06-20, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-06-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2016-06-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2016-08-15, status: completed. Dosage not recorded.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2017-04-12, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2017-06-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2017-06-26, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-06-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2017-06-28, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2018-04-07, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-07-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2018-07-02, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-07-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2018-07-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2019-04-02, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-07-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2019-07-08, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-07-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2019-07-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2020-02-26, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-05-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2020-05-18, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-05-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-07-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2020-07-13, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-07-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2020-07-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-07-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2021-07-19, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-07-19, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2021-07-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2022-01-16, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-07-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2022-07-25, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-07-25, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2022-08-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2023-01-11, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-03-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-03-20, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-03-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-03-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-03-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-03-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-04-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-04-03, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-04-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-07-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2023-07-31, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-07-31, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2023-08-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2023-12-07, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-05-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-05-13, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-05-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Galantamine 4 MG Oral Tablet (RxNorm: 310436), prescribed on 2024-05-13, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-05-20, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-05-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-05-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-05-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-05-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-06-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-06-03, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-03, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-06-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-06-10, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-06-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-06-17, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-06-17, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - aspirin 325 MG Oral Tablet (RxNorm: 212033), prescribed on 2024-07-22, status: completed. Dose: 4.0, frequency: 1 time(s) per 1 hour.
+  - nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039), prescribed on 2024-07-22, status: completed. Dosage not recorded.
+  - heparin sodium, porcine 100 UNT/ML Injectable Solution (RxNorm: 1361048), prescribed on 2024-07-22, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-08-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet (RxNorm: 860975), prescribed on 2024-08-05, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-08-05, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Simvastatin 10 MG Oral Tablet (RxNorm: 314231), prescribed on 2024-08-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2024-11-01, status: completed. Dosage not recorded.
+  - tropicamide 5 MG/ML Ophthalmic Solution (RxNorm: 313521), prescribed on 2025-10-27, status: completed. Dosage not recorded.

@@ -1,0 +1,45 @@
+Patient: Chrystal576 Thompson596 | Age: 75 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1992-12-08 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2004-08-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-11-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-11-05 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-11-11 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-11-17 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-11-22 | 1.0 | 1 time(s) per 1 day |
+| Levothyroxine Sodium 0.075 MG Oral Tablet | 966222 | active | 2009-01-01 | 1.0 | 1 time(s) per 60 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2009-08-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-11-28 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-12-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-12-10 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2011-12-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-12-15 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2012-12-15 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-12-21 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2013-12-21 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-12-27 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2014-12-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-01-02 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2016-01-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2016-12-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-01-07 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-01-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-01-14 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-01-14 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | active | 2017-03-19 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-01-13 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2018-01-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-01-19 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-01-19 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-08-10 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-08-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-08-17 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-08-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-01-25 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2020-01-25 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-01-30 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2021-01-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2022-02-05 | 1.0 | 1 time(s) per 1 day |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2022-02-05 | - | - |

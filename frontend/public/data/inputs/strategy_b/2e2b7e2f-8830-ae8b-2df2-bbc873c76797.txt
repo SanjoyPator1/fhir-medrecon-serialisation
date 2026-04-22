@@ -1,0 +1,157 @@
+Patient: Courtney281 Nolan344 | Age: 57 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 1999-03-29 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2001-10-30 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2009-01-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-02-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-02-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-03-03 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-03-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-12-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-12-14 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-03-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-03-20 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-01-31 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-03-26 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-03-26 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2014-06-01 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-04-01 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2015-04-01 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-04-01 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-04-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2016-04-06 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-04-06 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-04-12 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2017-04-12 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-04-12 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-04-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2018-04-18 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-04-18 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-04-24 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2019-04-24 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-04-24 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-05-15 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-04-29 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2020-04-29 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-04-29 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-05-14 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2021-03-23 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-04-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-04-28 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-04-28 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-04-28 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-05-05 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-05-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-05-05 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-05-05 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-05-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-10-06 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-10-06 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-10-06 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-10-06 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-10-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-10-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-10-13 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-10-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-10-20 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-10-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-10-20 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-10-20 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-10-27 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-10-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-10-27 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-10-27 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-11-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-11-03 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-11-03 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-11-03 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-11-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-11-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-11-10 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-11-10 | 1.0 | 4 time(s) per 1 day |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 2021-11-24 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-12-01 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-12-01 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-12-01 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-12-01 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2021-12-08 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-12-08 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2021-12-08 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-12-08 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-05-11 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-05-11 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-05-11 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-05-11 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-05-14 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2022-06-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-06-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2022-06-22 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-06-22 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-05-17 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-05-17 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-05-17 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-05-17 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-05-24 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2023-12-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-12-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2023-12-13 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-12-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-01-10 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-01-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-01-10 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-01-10 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-02-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-02-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-02-07 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-02-07 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-03-13 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-03-13 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-03-13 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-03-13 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-05-22 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-05-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-05-22 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-05-22 | 1.0 | 4 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-05-23 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-09-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-09-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-09-04 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-09-04 | 1.0 | 4 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2024-12-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-12-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2024-12-04 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-12-04 | 1.0 | 4 time(s) per 1 day |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2025-02-14 | - | - |
+| heparin sodium, porcine 1000 UNT/ML Injectable Solution | 1361226 | completed | 2025-02-14 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2025-02-14 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2025-02-14 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2025-02-14 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2025-02-14 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2025-02-14 | - | - |
+| sevoflurane 1000 MG/ML Inhalation Solution | 200243 | completed | 2025-02-14 | - | - |
+| 10 ML Fentanyl 0.05 MG/ML Injection | 1735006 | completed | 2025-02-14 | - | - |
+| aspirin 81 MG Oral Capsule [Vazalore] | 2563431 | completed | 2025-02-16 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-05-07 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-05-07 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-05-07 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-05-07 | 1.0 | 4 time(s) per 1 day |
+| aspirin 81 MG Oral Capsule [Vazalore] | 2563431 | completed | 2025-05-07 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-05-23 | 1.0 | 1 time(s) per 1 day |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-06-04 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-06-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-06-04 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-06-04 | 1.0 | 4 time(s) per 1 day |
+| aspirin 81 MG Oral Capsule [Vazalore] | 2563431 | completed | 2025-06-04 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | completed | 2025-12-03 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2025-12-03 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | completed | 2025-12-03 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2025-12-03 | 1.0 | 4 time(s) per 1 day |
+| aspirin 81 MG Oral Capsule [Vazalore] | 2563431 | completed | 2025-12-03 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-12-27 | - | - |
+| insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] | 106892 | active | 2026-01-28 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2026-01-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] | 1049625 | active | 2026-01-28 | 1.0 | 4 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2026-01-28 | 1.0 | 4 time(s) per 1 day |
+| aspirin 81 MG Oral Capsule [Vazalore] | 2563431 | active | 2026-01-28 | - | - |

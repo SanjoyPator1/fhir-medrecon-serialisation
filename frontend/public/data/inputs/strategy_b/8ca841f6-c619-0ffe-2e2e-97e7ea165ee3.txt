@@ -1,0 +1,115 @@
+Patient: Coralee911 Bayer639 | Age: 75 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 1998-02-05 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1998-11-03 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2001-05-10 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2001-05-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-06-09 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2001-08-08 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2002-05-16 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-05-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-05-16 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2003-05-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-05-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-05-22 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2004-05-27 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-05-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-05-27 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2005-06-02 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-06-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2005-06-02 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2006-06-08 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-06-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2006-06-08 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-01-04 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-01-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-01-04 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2007-06-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-06-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2007-06-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2008-06-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-06-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2008-06-19 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2009-06-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-06-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2009-06-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2010-07-01 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-07-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2010-07-01 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2011-07-07 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-07-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2011-07-07 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2012-07-12 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-07-12 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2012-07-12 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2013-07-18 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-07-18 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2013-07-18 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2013-08-04 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2013-10-25 | - | - |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-02-01 | 1.0 | 4 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-05-17 | 1.0 | 1 time(s) per 3 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2014-07-24 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2014-07-24 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-07-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2014-07-24 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2014-07-24 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2015-07-30 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2015-07-30 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-07-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2015-07-30 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2015-07-30 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2016-08-04 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2016-08-04 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-08-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2016-08-04 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2016-08-04 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2017-08-10 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2017-08-10 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-08-10 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2017-08-10 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2017-08-10 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2018-04-02 | 1.0 | 1 time(s) per 6 hour |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2018-08-16 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2018-08-16 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-08-16 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2018-08-16 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2018-08-16 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2019-08-22 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2019-08-22 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-08-22 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-08-22 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2019-08-22 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2020-08-27 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2020-08-27 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-08-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-08-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2020-08-27 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2021-09-02 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2021-09-02 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-09-02 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-09-02 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2021-09-02 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2022-09-08 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2022-09-08 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-09-08 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-09-08 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2022-09-08 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-09-14 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2023-09-14 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-09-14 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-09-14 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2023-09-14 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-09-19 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | completed | 2024-09-19 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-09-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-09-19 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | completed | 2024-09-19 | 1.0 | 4 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-09-25 | 1.0 | 1 time(s) per 1 day |
+| 72 HR Fentanyl 0.025 MG/HR Transdermal System | 245134 | active | 2025-09-25 | 1.0 | 1 time(s) per 3 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-09-25 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2025-09-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet | 856987 | active | 2025-09-25 | 1.0 | 4 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2025-11-27 | - | - |

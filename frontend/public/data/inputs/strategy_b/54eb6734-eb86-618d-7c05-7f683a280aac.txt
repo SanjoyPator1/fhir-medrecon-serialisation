@@ -1,0 +1,66 @@
+Patient: Oren284 Kshlerin58 | Age: 64 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1997-04-07 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1998-02-27 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1998-03-13 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1999-02-06 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2000-02-01 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2000-12-27 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2001-11-22 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2002-10-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2003-09-13 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2004-09-07 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2005-09-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-03-03 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2006-03-03 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2006-08-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2007-03-09 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2007-08-23 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2008-03-14 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2008-07-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2009-03-20 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2009-05-14 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2009-06-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2010-03-26 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2010-06-08 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2011-04-01 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2011-05-04 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2012-04-06 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2012-04-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2013-04-12 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2013-05-03 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-04-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2014-04-28 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2015-03-24 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-04-24 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2016-03-18 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-04-29 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2017-03-13 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-05-05 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2018-03-08 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-05-11 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-02-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-05-17 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-12-28 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-05-22 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2020-05-29 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2020-05-29 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2020-05-29 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2020-05-29 | - | - |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 2020-11-29 | 1.0 | 4 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-12-22 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-03-26 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-04-02 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-04-23 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-05-28 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-11-17 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-06-03 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-11-12 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-06-09 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-11-07 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-06-14 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-11-01 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2025-06-20 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-10-27 | - | - |

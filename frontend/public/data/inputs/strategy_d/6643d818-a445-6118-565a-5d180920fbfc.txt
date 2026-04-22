@@ -1,0 +1,73 @@
+Patient: Mendy939 Hackett68 | Age: 60 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1995-10-09 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1998-10-19 | completed    | Levonorgestrel 0.00354 MG/HR Drug Implant (RxNorm: 1366343) | -
+2000-01-10 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2000-10-08 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2001-10-03 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+2002-09-28 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2003-09-27 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2004-09-21 | completed    | {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] (RxNorm: 748856) | -
+2005-04-22 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2005-04-22 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2005-04-29 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2005-05-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2005-09-16 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2006-05-05 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2006-05-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2006-09-11 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2007-05-11 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2007-05-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2007-09-06 | completed    | 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] (RxNorm: 1367439) | -
+2008-05-16 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2008-05-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2009-05-22 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2009-05-22 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2010-05-28 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2010-05-28 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2010-08-25 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] (RxNorm: 831533) | -
+2011-06-03 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2011-06-03 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2011-08-20 | completed    | {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] (RxNorm: 757594) | -
+2012-04-13 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2012-04-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-06-08 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2012-06-08 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2012-08-14 | completed    | Etonogestrel 68 MG Drug Implant (RxNorm: 389221) | -
+2013-06-14 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2013-06-14 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2013-08-09 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] (RxNorm: 751905) | -
+2013-08-26 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-06-20 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2014-06-20 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-07-29 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2014-08-05 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2014-08-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-08-08 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2014-08-08 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2014-08-15 | completed    | levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] (RxNorm: 807283) | -
+2015-06-26 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2015-06-26 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2016-07-01 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2016-07-01 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2017-07-07 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2017-07-07 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2018-07-13 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2018-07-13 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2019-07-19 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2019-07-19 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2020-07-24 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2020-07-24 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2021-07-30 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2021-07-30 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2022-08-05 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2022-08-05 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2023-08-11 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2023-08-11 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2024-06-16 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2024-08-16 | completed    | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2024-08-16 | completed    | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day
+2025-08-22 | active       | losartan potassium 25 MG Oral Tablet (RxNorm: 979485) | 1.0, 1 time(s) per 1 day
+2025-08-22 | active       | amLODIPine 2.5 MG Oral Tablet (RxNorm: 308136) | 1.0, 1 time(s) per 1 day

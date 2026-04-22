@@ -12,15 +12,19 @@ interface MedDiffViewProps {
 
 type FileTab = "response" | "prompt" | "input"
 
-async function fetchRunFile(
-  model: string,
-  strategy: string,
-  patientId: string,
-  file: "prompt" | "input",
-): Promise<string> {
-  const params = new URLSearchParams({ model, strategy, patientId, file })
-  const res = await fetch(`/api/run-file?${params}`)
-  if (!res.ok) throw new Error(`Failed to load ${file}`)
+const SYSTEM_INSTRUCTION = `You are a clinical assistant performing medication reconciliation.
+You will be given a patient's medication history. Your task is to identify all
+medications that are currently ACTIVE for this patient.
+A medication is currently active if its status is "active". Medications with
+status "completed", "stopped", "cancelled", or "on-hold" are historical
+and must NOT be included in your answer.
+Return your answer as a JSON array of medication names exactly as they appear
+in the data. Return nothing else — no explanation, no prose, just the JSON array.
+If there are no active medications, return an empty array: []`
+
+async function fetchSerializedInput(strategy: string, patientId: string): Promise<string> {
+  const res = await fetch(`/data/inputs/${strategy}/${patientId}.txt`)
+  if (!res.ok) throw new Error("Failed to load input")
   return res.text()
 }
 
@@ -53,8 +57,14 @@ export function MedDiffView({ row, groundTruth }: MedDiffViewProps) {
     setLoading(true)
     setLoadError(null)
     try {
-      const content = await fetchRunFile(row.model, row.strategy, row.patient_id, tab)
-      setLoadedContent((prev) => ({ ...prev, [cacheKey]: content }))
+      const serialised = await fetchSerializedInput(row.strategy, row.patient_id)
+      const inputKey = `${row.model}/${row.strategy}/${row.patient_id}/input`
+      const promptKey = `${row.model}/${row.strategy}/${row.patient_id}/prompt`
+      setLoadedContent((prev) => ({
+        ...prev,
+        [inputKey]: serialised,
+        [promptKey]: `${SYSTEM_INSTRUCTION}\n\n---\n\n${serialised}`,
+      }))
     } catch (e) {
       setLoadError(`Could not load ${tab}`)
     } finally {

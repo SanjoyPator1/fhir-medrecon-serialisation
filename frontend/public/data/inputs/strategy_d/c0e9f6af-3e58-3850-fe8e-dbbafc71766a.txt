@@ -1,0 +1,25 @@
+Patient: Eldon28 Kunze215 | Age: 64 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+2014-03-26 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2014-12-18 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2015-08-06 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2015-08-13 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2015-08-20 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2015-12-24 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2016-12-29 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2018-01-04 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2019-01-10 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2019-08-19 | completed    | piperacillin 2000 MG / tazobactam 250 MG Injection (RxNorm: 1659131) | -
+2019-08-19 | completed    | 150 ML vancomycin 5 MG/ML Injection (RxNorm: 1807510) | -
+2020-01-16 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2021-01-21 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2021-01-21 | active       | 24 HR nicotine 0.292 MG/HR Transdermal System (RxNorm: 198031) | -
+2022-01-27 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2023-02-02 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2024-02-08 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2025-02-13 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2025-08-30 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2026-02-13 | active       | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day
+2026-02-19 | completed    | buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet (RxNorm: 351266) | 1.0, 1 time(s) per 1 day

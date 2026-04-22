@@ -1,0 +1,58 @@
+Patient: Rodrick370 Reichert620 | Age: 69 | Gender: male
+
+Currently active medications:
+  - Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet (RxNorm: 856987), prescribed on 2014-05-19, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2020-06-15, status: active. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2020-06-15, status: active. Dose: 1.0, frequency: 4 time(s) per 1 day.
+
+Medication history (no longer active):
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 1993-07-30, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2005-03-02, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2013-11-29, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2014-03-09, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2014-05-12, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2015-05-18, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2015-11-02, status: completed. Dosage not recorded.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2016-05-23, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-05-23, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2016-05-29, status: completed. Dosage not recorded.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2016-06-06, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-06-06, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2016-06-13, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-06-13, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2016-06-20, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2016-06-20, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2017-04-25, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2017-04-25, status: completed. Dosage not recorded.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2017-05-29, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2017-05-29, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2018-06-04, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2018-06-04, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-18, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-18, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-19, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-19, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-20, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-20, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-21, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-21, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-22, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-22, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-23, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-23, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-24, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-24, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-25, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2018-10-25, status: completed. Dosage not recorded.
+  - Furosemide 40 MG Oral Tablet (RxNorm: 313988), prescribed on 2019-06-10, status: completed. Dosage not recorded.
+  - Ibuprofen 400 MG Oral Tablet [Ibu] (RxNorm: 206905), prescribed on 2019-06-10, status: completed. Dose: 1.0, frequency: 4 time(s) per 1 day.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-18, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-18, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-19, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-19, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-20, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-20, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-21, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-04-21, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-09-21, status: completed. Dosage not recorded.
+  - 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286), prescribed on 2020-09-21, status: completed. Dosage not recorded.

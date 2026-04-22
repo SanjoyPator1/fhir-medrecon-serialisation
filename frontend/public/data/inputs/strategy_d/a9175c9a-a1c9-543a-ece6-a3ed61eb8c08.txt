@@ -1,0 +1,49 @@
+Patient: Ossie995 Kutch271 | Age: 75 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1982-11-08 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1983-09-23 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+1983-12-24 | completed    | Mestranol / Norethynodrel (RxNorm: 235389) | -
+1993-02-09 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1994-02-04 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1996-03-09 | completed    | {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882) | -
+1998-08-29 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+1999-11-13 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2002-03-13 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2002-03-13 | completed    | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2002-03-13 | completed    | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2002-09-09 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2002-09-09 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2002-09-10 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2002-09-10 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2002-10-19 | completed    | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2002-10-19 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2002-10-19 | completed    | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2003-10-25 | completed    | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2003-10-25 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2003-10-25 | completed    | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2004-03-04 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-03-04 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-03-05 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-03-05 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-03-06 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-03-06 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2004-10-30 | completed    | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2004-10-30 | completed    | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2004-10-30 | completed    | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2005-03-02 | completed    | lisinopril 20 MG Oral Tablet (RxNorm: 314077) | -
+2005-11-05 | active       | carvedilol 25 MG Oral Tablet (RxNorm: 200033) | -
+2005-11-05 | active       | Furosemide 40 MG Oral Tablet (RxNorm: 313988) | -
+2005-11-05 | active       | losartan potassium 50 MG Oral Tablet (RxNorm: 979492) | -
+2005-11-05 | active       | lisinopril 20 MG Oral Tablet (RxNorm: 314077) | -
+2006-02-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-25 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-26 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-26 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-27 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-27 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-28 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-02-28 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-03-01 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -
+2006-03-01 | completed    | 10 ML Furosemide 10 MG/ML Injection (RxNorm: 1719286) | -

@@ -1,0 +1,44 @@
+Patient: Loyd638 Wisoky380 | Age: 74 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 1996-05-17 | 1.0 | 1 time(s) per 4 hour |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1996-05-17 | - | - |
+| sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet | 198335 | completed | 2008-11-23 | 1.0 | 2 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2009-11-07 | - | - |
+| Amoxicillin 250 MG Oral Capsule | 308182 | completed | 2010-09-29 | 1.0 | 2 time(s) per 1 day |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2010-09-29 | 1.0 | 1 time(s) per 6 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-09-29 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2017-11-04 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-04-03 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-04-03 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-04-03 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-04-03 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2020-07-19 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2020-11-06 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2020-11-06 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2021-04-09 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2021-04-09 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2022-04-15 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2022-04-15 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2022-04-22 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2022-04-22 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2022-04-22 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2022-04-22 | - | - |
+| cefazolin 2000 MG Injection | 1665060 | completed | 2022-04-29 | - | - |
+| 1 ML heparin sodium, porcine 5000 UNT/ML Injection | 1659263 | completed | 2022-04-29 | - | - |
+| 25 ML protamine sulfate (USP) 10 MG/ML Injection | 1796676 | completed | 2022-04-29 | - | - |
+| 2 ML Ondansetron 2 MG/ML Injection | 1740467 | completed | 2022-04-29 | - | - |
+| Midazolam 1 MG/ML Injectable Solution | 311700 | completed | 2022-04-29 | - | - |
+| 100 ML Propofol 10 MG/ML Injection | 1808217 | completed | 2022-04-29 | - | - |
+| Rocuronium bromide 10 MG/ML Injectable Solution | 1234995 | completed | 2022-04-29 | - | - |
+| isoflurane 999 MG/ML Inhalation Solution | 542347 | completed | 2022-04-29 | - | - |
+| remifentanil 2 MG Injection | 1729584 | completed | 2022-04-29 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2022-12-16 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2022-12-16 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2023-04-21 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2023-04-21 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | completed | 2024-04-26 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | completed | 2024-04-26 | - | - |
+| albuterol 5 MG/ML Inhalation Solution | 245314 | active | 2025-05-02 | - | - |
+| 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler | 896209 | active | 2025-05-02 | - | - |

@@ -1,0 +1,24 @@
+Patient: Martin117 Littel644 | Age: 60 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-05-01 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-09-29 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1997-10-30 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-12-24 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-12-14 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-12-14 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-01-13 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2023-03-10 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-05-27 | - | - |
+| Meperidine Hydrochloride 50 MG Oral Tablet | 861467 | completed | 2023-06-04 | 1.0 | 1 time(s) per 4 hour |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2023-12-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-12-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2024-02-21 | - | - |
+| piperacillin 2000 MG / tazobactam 250 MG Injection | 1659131 | completed | 2024-05-26 | - | - |
+| 150 ML vancomycin 5 MG/ML Injection | 1807510 | completed | 2024-05-26 | - | - |
+| 4 ML norepinephrine 1 MG/ML Injection | 242969 | completed | 2024-05-30 | - | - |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | completed | 2024-12-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-12-25 | 1.0 | 1 time(s) per 1 day |
+| Hydrochlorothiazide 25 MG Oral Tablet | 310798 | active | 2025-12-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-12-31 | 1.0 | 1 time(s) per 1 day |

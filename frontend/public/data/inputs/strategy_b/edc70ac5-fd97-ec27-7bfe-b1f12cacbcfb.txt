@@ -1,0 +1,16 @@
+Patient: Rochell365 Wintheiser220 | Age: 74 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1995-10-04 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1996-09-28 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1997-11-14 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1999-09-13 | - | - |
+| Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet | 857005 | completed | 2010-06-15 | 1.0 | 1 time(s) per 6 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2010-06-15 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-05-07 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-05-07 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2023-05-13 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2024-05-18 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2025-05-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-11-09 | - | - |

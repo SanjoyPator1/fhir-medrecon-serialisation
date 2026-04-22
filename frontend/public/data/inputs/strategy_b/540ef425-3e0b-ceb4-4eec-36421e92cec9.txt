@@ -1,0 +1,27 @@
+Patient: Ruby458 Runolfsson901 | Age: 69 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1996-04-17 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1997-04-12 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 1998-04-07 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 1999-04-11 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2000-04-05 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] | 751905 | completed | 2003-03-21 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2005-06-06 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2006-03-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2009-12-27 | - | - |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 2010-07-11 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-05-21 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2017-05-21 | - | - |
+| Cefuroxime 250 MG Oral Tablet | 309097 | completed | 2017-12-09 | 1.0 | 2 time(s) per 1 day |
+| Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet | 1049221 | completed | 2017-12-09 | 1.0 | 1 time(s) per 6 hour |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2017-12-09 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2018-05-27 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2019-06-02 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2020-06-07 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2021-06-13 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2022-06-19 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2023-06-25 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | completed | 2024-06-30 | - | - |
+| Alendronic acid 10 MG Oral Tablet | 904419 | active | 2025-07-06 | - | - |

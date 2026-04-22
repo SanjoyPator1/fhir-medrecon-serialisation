@@ -1,0 +1,12 @@
+Patient: Shizuko29 Larson43 | Age: 62 | Gender: female
+
+Chronological medication history (oldest to newest):
+
+1995-11-29 | completed    | {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785) | -
+1998-11-16 | completed    | 1 ML medroxyprogesterone acetate 150 MG/ML Injection (RxNorm: 1000126) | -
+2007-06-04 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2010-04-22 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2017-08-23 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2017-08-24 | active       | ferrous sulfate 325 MG Oral Tablet (RxNorm: 310325) | -
+2020-09-24 | completed    | Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400) | -
+2022-11-16 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -

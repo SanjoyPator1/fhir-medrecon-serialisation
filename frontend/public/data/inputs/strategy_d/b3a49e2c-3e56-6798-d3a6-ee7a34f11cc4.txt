@@ -1,0 +1,10 @@
+Patient: Leo278 Hermann103 | Age: 63 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-05-17 | completed    | nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG [Macrobid] (RxNorm: 1648756) | 1.0, 2 time(s) per 1 day
+2000-06-08 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2001-07-16 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2009-05-15 | completed    | Ibuprofen 200 MG Oral Tablet (RxNorm: 310965) | -
+2014-09-12 | completed    | Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251) | -
+2017-08-03 | active       | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -

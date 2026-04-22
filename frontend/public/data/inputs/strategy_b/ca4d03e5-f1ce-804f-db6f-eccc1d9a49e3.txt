@@ -1,0 +1,22 @@
+Patient: Matthew562 Schuster709 | Age: 45 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1999-07-21 | - | - |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 2000-08-13 | 1.0 | 2 time(s) per 1 day |
+| ciprofloxacin 250 MG Oral Tablet | 197511 | completed | 2000-11-11 | 1.0 | 1 time(s) per 2 day |
+| cephalexin 500 MG Oral Tablet | 197454 | completed | 2000-11-13 | 1.0 | 2 time(s) per 1 day |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2002-02-26 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2009-03-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-03-19 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2011-10-01 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2017-01-21 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2018-01-16 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2018-10-27 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2021-03-13 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2022-03-08 | - | - |
+| levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] | 1605257 | completed | 2023-03-03 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2024-02-18 | - | - |
+| Alteplase 100 MG Injection | 1804799 | active | 2024-02-18 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2024-03-01 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] | 757594 | completed | 2025-02-24 | - | - |

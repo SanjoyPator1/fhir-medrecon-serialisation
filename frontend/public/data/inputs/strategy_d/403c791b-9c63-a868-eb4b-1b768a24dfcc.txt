@@ -1,0 +1,25 @@
+Patient: Lou594 Green467 | Age: 52 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1999-03-04 | completed    | Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467) | 1.0, 1 time(s) per 4 hour
+1999-03-04 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2004-05-27 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2008-07-26 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2016-05-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2017-05-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2018-02-01 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2018-05-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2019-05-28 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2020-06-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-06-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2021-08-14 | completed    | Acetaminophen 325 MG Oral Tablet (RxNorm: 313782) | -
+2022-06-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2023-06-06 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2024-05-04 | active       | Clopidogrel 75 MG Oral Tablet (RxNorm: 309362) | -
+2024-05-04 | active       | Simvastatin 20 MG Oral Tablet (RxNorm: 312961) | -
+2024-05-04 | active       | 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet (RxNorm: 866412) | -
+2024-05-04 | active       | Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (RxNorm: 705129) | -
+2024-06-05 | completed    | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-06-05 | active       | Simvastatin 10 MG Oral Tablet (RxNorm: 314231) | 1.0, 1 time(s) per 1 day
+2025-09-09 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -

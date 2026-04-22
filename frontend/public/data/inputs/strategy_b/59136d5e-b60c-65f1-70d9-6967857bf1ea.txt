@@ -1,0 +1,34 @@
+Patient: Lorena247 Cedillo160 | Age: 47 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1995-07-31 | - | - |
+| nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule | 1648755 | completed | 1996-05-04 | 1.0 | 2 time(s) per 1 day |
+| nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule | 1648755 | completed | 1996-05-05 | 1.0 | 2 time(s) per 1 day |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1996-07-25 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 1996-08-24 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2000-07-04 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2001-04-16 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2002-06-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2005-10-15 | - | - |
+| 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] | 1367439 | completed | 2006-10-28 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2007-10-23 | - | - |
+| {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] | 749785 | completed | 2008-10-17 | - | - |
+| {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] | 748856 | completed | 2009-10-12 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2013-09-21 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2015-09-11 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2016-01-09 | - | - |
+| 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | 1000126 | completed | 2018-01-20 | - | - |
+| levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] | 1605257 | completed | 2019-01-15 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2019-06-28 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | completed | 2020-01-12 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2021-01-06 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2022-01-01 | - | - |
+| Etonogestrel 68 MG Drug Implant | 389221 | completed | 2023-12-22 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2024-06-06 | - | - |
+| Ibuprofen 200 MG Oral Tablet | 310965 | completed | 2025-04-26 | - | - |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2025-09-06 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2025-09-06 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2025-09-06 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2025-09-06 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] | 831533 | active | 2025-12-11 | - | - |

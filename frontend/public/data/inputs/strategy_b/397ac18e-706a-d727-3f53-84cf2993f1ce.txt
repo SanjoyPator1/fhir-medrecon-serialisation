@@ -1,0 +1,107 @@
+Patient: Ashlea10 Hermann103 | Age: 75 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1976-12-09 | - | - |
+| Mestranol / Norethynodrel | 235389 | completed | 1978-12-02 | - | - |
+| Mestranol / Norethynodrel | 235389 | completed | 1982-05-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1982-12-25 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1982-12-25 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1983-01-08 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1983-01-24 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1983-12-31 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1983-12-31 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1984-01-03 | - | - |
+| Penicillin V Potassium 500 MG Oral Tablet | 834102 | completed | 1984-08-04 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1984-11-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1985-01-05 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1985-01-05 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1985-10-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1985-10-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1985-10-26 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1985-11-02 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1985-11-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1986-01-11 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1986-01-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1986-04-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1986-04-19 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1986-04-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1986-04-26 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1986-05-03 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1986-09-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1987-01-17 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1987-01-17 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1987-09-23 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1988-01-23 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1988-01-23 | 1.0 | 1 time(s) per 1 day |
+| ciprofloxacin 250 MG Oral Tablet | 197511 | completed | 1988-03-23 | 1.0 | 1 time(s) per 2 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1988-08-18 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1989-01-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1989-01-28 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1989-07-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1990-02-03 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1990-02-03 | 1.0 | 1 time(s) per 1 day |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1990-04-13 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1990-06-09 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1991-02-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1991-02-09 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1991-06-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1992-02-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1992-02-15 | 1.0 | 1 time(s) per 1 day |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1992-04-02 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1992-04-29 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1993-02-20 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1993-02-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1993-02-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1993-02-27 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution | 1043400 | completed | 1993-03-06 | - | - |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 1993-03-28 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1993-04-24 | - | - |
+| Naproxen 500 MG Oral Tablet | 198014 | completed | 1993-07-14 | - | - |
+| Methotrexate 2.5 MG Oral Tablet | 105585 | completed | 1993-07-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1994-02-26 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1994-02-26 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1994-03-20 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1994-03-23 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1995-03-04 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1995-03-04 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1995-03-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1996-03-09 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1996-03-09 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1996-03-19 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1997-03-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1997-03-15 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1997-03-22 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1998-02-15 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1998-03-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1998-03-21 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1999-01-11 | - | - |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1999-02-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 1999-03-27 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 1999-03-27 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 1999-12-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-04-01 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-04-01 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2000-12-01 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2000-12-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2000-12-30 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2001-04-07 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2001-04-07 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2001-10-27 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-04-13 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-04-13 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-09-21 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-09-21 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-09-28 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2002-09-28 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2002-10-05 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2002-10-22 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-04-19 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2003-04-19 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2003-09-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-04-24 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2004-04-24 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2004-08-12 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2005-04-30 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2005-04-30 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2005-08-07 | - | - |

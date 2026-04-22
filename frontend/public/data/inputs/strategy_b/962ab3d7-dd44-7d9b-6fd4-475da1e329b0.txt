@@ -1,0 +1,13 @@
+Patient: Louie190 Emard19 | Age: 53 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1998-06-20 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1998-11-30 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2002-03-08 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2005-10-06 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2011-09-03 | - | - |
+| Vitamin B12 5 MG/ML Injectable Solution | 2001499 | active | 2013-06-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2018-11-05 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2023-09-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-08-29 | - | - |

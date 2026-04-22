@@ -1,0 +1,86 @@
+Patient: Evan94 Keeling57 | Age: 72 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] | 749882 | completed | 1995-05-02 | - | - |
+| Levonorgestrel 0.00354 MG/HR Drug Implant | 1366343 | completed | 1997-04-21 | - | - |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1997-07-19 | - | - |
+| {5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day] | 1359133 | completed | 2001-02-12 | - | - |
+| {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] | 748962 | completed | 2002-02-07 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-02-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2002-02-22 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-02-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2003-06-20 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2004-01-14 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-01-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-01-30 | 1.0 | 1 time(s) per 1 day |
+| 1 ML medroxyprogesterone acetate 150 MG/ML Injection | 1000126 | completed | 2004-02-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2004-03-05 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2005-03-11 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2006-03-17 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-03-23 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2007-08-31 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2008-03-28 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2009-04-03 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2010-04-09 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2011-04-15 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2012-04-20 | 1.0 | 1 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2013-04-26 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2013-05-31 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-02-02 | 1.0 | 4 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2014-05-02 | 1.0 | 4 time(s) per 1 day |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2014-05-02 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2014-05-02 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2014-05-09 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2015-04-04 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2015-05-08 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2015-05-08 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2015-05-08 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2016-02-28 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2016-05-13 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2016-05-13 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2016-05-13 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2017-02-22 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2017-05-19 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2017-05-19 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2017-05-19 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2018-02-17 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-05-25 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-05-25 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-05-25 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2018-11-02 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2018-11-02 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2018-11-02 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-01-13 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2019-05-31 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-05-31 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2019-05-31 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2019-12-09 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2020-06-05 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-06-05 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2020-06-05 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2020-12-03 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2021-06-11 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-06-11 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2021-06-11 | 1.0 | 1 time(s) per 1 day |
+| Clopidogrel 75 MG Oral Tablet | 309362 | active | 2021-06-18 | - | - |
+| Simvastatin 20 MG Oral Tablet | 312961 | active | 2021-06-18 | - | - |
+| 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet | 866412 | active | 2021-06-18 | - | - |
+| Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | 705129 | active | 2021-06-18 | - | - |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2021-10-29 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2022-06-17 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-06-17 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2022-06-17 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2022-09-24 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2023-06-23 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-06-23 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2023-06-23 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2023-09-19 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | completed | 2024-06-28 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-06-28 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | completed | 2024-06-28 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2024-08-14 | - | - |
+| Acetaminophen 325 MG Oral Tablet [Tylenol] | 209387 | active | 2025-07-04 | 1.0 | 4 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2025-07-04 | - | - |
+| lisinopril 10 MG Oral Tablet | 314076 | active | 2025-07-04 | 1.0 | 1 time(s) per 1 day |
+| tropicamide 5 MG/ML Ophthalmic Solution | 313521 | completed | 2025-07-10 | - | - |

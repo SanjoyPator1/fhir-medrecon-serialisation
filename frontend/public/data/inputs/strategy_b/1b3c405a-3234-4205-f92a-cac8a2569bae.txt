@@ -1,0 +1,48 @@
+Patient: Burma963 Goyette777 | Age: 65 | Gender: female
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2006-05-07 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2007-05-07 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2008-05-06 | 1.0 | 1 time(s) per 1 day |
+| aspirin 325 MG Oral Tablet | 212033 | completed | 2009-04-01 | 4.0 | 1 time(s) per 1 hour |
+| nitroglycerin 0.4 MG Sublingual Tablet | 198039 | completed | 2009-04-01 | - | - |
+| 2 ML morphine sulfate 1 MG/ML Injection | 1728805 | completed | 2009-04-01 | - | - |
+| heparin sodium, porcine 100 UNT/ML Injectable Solution | 1361048 | completed | 2009-04-01 | - | - |
+| clopidogrel 300 MG Oral Tablet | 749196 | completed | 2009-04-01 | - | - |
+| atenolol 25 MG Oral Tablet | 197380 | active | 2009-04-01 | - | - |
+| atorvastatin 20 MG Oral Tablet | 617310 | active | 2009-04-01 | - | - |
+| losartan potassium 50 MG Oral Tablet | 979492 | active | 2009-04-01 | - | - |
+| prasugrel 10 MG Oral Tablet | 855812 | active | 2009-04-01 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2009-05-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2010-05-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2011-05-06 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2012-05-05 | 1.0 | 1 time(s) per 1 day |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2013-05-05 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-02-04 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2014-03-02 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2014-05-05 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2015-03-08 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2015-05-05 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2016-03-13 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2016-05-04 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2017-03-19 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2017-05-04 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2018-03-25 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2018-05-04 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2019-03-31 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2019-05-04 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2020-01-02 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2020-04-05 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2020-05-03 | 1.0 | 1 time(s) per 1 day |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 2020-09-01 | - | - |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2021-04-11 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2021-05-03 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2022-04-17 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2022-05-03 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2023-04-23 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2023-05-14 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | completed | 2024-04-28 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | completed | 2024-05-13 | 1.0 | 1 time(s) per 1 day |
+| Ibuprofen 400 MG Oral Tablet [Ibu] | 206905 | active | 2025-05-04 | - | - |
+| Simvastatin 10 MG Oral Tablet | 314231 | active | 2025-05-25 | 1.0 | 1 time(s) per 1 day |

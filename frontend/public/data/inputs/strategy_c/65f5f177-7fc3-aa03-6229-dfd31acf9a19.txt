@@ -1,0 +1,73 @@
+Patient: Herschel574 Streich926 | Age: 64 | Gender: male
+
+Currently active medications:
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2005-06-20, status: active. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2025-02-13, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2025-02-13, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-02-13, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2025-02-13, status: active. Dosage not recorded.
+
+Medication history (no longer active):
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 1995-07-19, status: completed. Dosage not recorded.
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 1997-08-02, status: completed. Dosage not recorded.
+  - Ibuprofen 200 MG Oral Tablet (RxNorm: 310965), prescribed on 2009-07-22, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2012-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2012-12-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2013-12-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2013-12-12, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2013-12-12, status: completed. Dosage not recorded.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2013-12-12, status: completed. Dosage not recorded.
+  - Meperidine Hydrochloride 50 MG Oral Tablet (RxNorm: 861467), prescribed on 2014-02-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 4 hour.
+  - Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet (RxNorm: 1049221), prescribed on 2014-05-29, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2014-10-26, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-11-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2014-11-06, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-06, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2014-11-06, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-11-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2014-11-13, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-11-13, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2014-11-13, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2014-12-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2014-12-18, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2014-12-18, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2014-12-18, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2015-12-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2015-12-24, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2015-12-24, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2015-12-24, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2016-12-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2016-12-29, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2016-12-29, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2016-12-29, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2018-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2018-01-04, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-01-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2018-01-04, status: completed. Dosage not recorded.
+  - Acetaminophen 325 MG Oral Tablet (RxNorm: 313782), prescribed on 2018-02-05, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2019-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2019-01-10, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-01-10, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2019-01-10, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2020-01-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2020-01-16, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-01-16, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2020-01-16, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2021-01-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-01-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2021-01-21, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2022-01-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2022-01-27, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-01-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2022-01-27, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2023-02-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2023-02-02, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-02-02, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2023-02-02, status: completed. Dosage not recorded.
+  - Hydrochlorothiazide 25 MG Oral Tablet (RxNorm: 310798), prescribed on 2024-02-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - albuterol 5 MG/ML Inhalation Solution (RxNorm: 245314), prescribed on 2024-02-08, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-02-08, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler (RxNorm: 896209), prescribed on 2024-02-08, status: completed. Dosage not recorded.

@@ -1,0 +1,28 @@
+Patient: Orlando897 Schaden604 | Age: 49 | Gender: male
+
+| Medication | RxNorm | Status | Prescribed | Dose | Frequency |
+| --- | --- | --- | --- | --- | --- |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 1999-06-02 | - | - |
+| Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | 562251 | completed | 1999-09-01 | - | - |
+| ciprofloxacin 500 MG Oral Tablet | 309309 | completed | 2012-01-23 | 1.0 | 2 time(s) per 1 day |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2013-10-11 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-02-15 | 1.0 | 1 time(s) per 1 day |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2019-02-15 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2019-02-15 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2020-02-21 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2020-02-21 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2021-02-26 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2021-02-26 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2022-03-04 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2022-03-04 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2023-03-10 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2023-03-10 | 1.0 | 1 time(s) per 1 day |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2024-03-15 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2024-03-15 | 1.0 | 1 time(s) per 1 day |
+| Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet | 1860154 | completed | 2024-06-14 | - | - |
+| Naproxen sodium 220 MG Oral Tablet | 849574 | completed | 2024-10-19 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | completed | 2025-03-21 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | completed | 2025-03-21 | 1.0 | 1 time(s) per 1 day |
+| Acetaminophen 325 MG Oral Tablet | 313782 | completed | 2025-09-21 | - | - |
+| 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | 860975 | active | 2026-03-27 | - | - |
+| amLODIPine 2.5 MG Oral Tablet | 308136 | active | 2026-03-27 | 1.0 | 1 time(s) per 1 day |

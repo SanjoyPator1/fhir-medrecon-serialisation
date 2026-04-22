@@ -1,0 +1,42 @@
+Patient: Adina377 Mitchell808 | Age: 60 | Gender: female
+
+Currently active medications:
+  - Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574), prescribed on 2004-12-28, status: active. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2026-02-16, status: active. Dose: 1.0, frequency: 1 time(s) per 1 day.
+
+Medication history (no longer active):
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1996-07-01, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 1997-06-26, status: completed. Dosage not recorded.
+  - {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] (RxNorm: 749882), prescribed on 1998-06-21, status: completed. Dosage not recorded.
+  - {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day] (RxNorm: 749785), prescribed on 2000-06-10, status: completed. Dosage not recorded.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2012-01-14, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-02-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2017-02-20, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2018-02-26, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2019-03-04, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-02-10, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2020-03-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-03-16, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-04-04, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-04-26, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-05-17, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-06-06, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-06-27, status: completed. Dosage not recorded.
+  - 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection (RxNorm: 1790099), prescribed on 2020-07-17, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-08-28, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-09-18, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-10-07, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-11-09, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-11-29, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2020-12-21, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2021-01-10, status: completed. Dosage not recorded.
+  - Paclitaxel 100 MG Injection (RxNorm: 583214), prescribed on 2021-02-02, status: completed. Dosage not recorded.
+  - Tamoxifen 10 MG Oral Tablet (RxNorm: 198240), prescribed on 2021-02-09, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - abemaciclib 100 MG Oral Tablet [Verzenio] (RxNorm: 1946840), prescribed on 2021-02-09, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2021-03-15, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2022-03-21, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet (RxNorm: 562251), prescribed on 2022-11-06, status: completed. Dosage not recorded.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2023-03-27, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2024-04-01, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - lisinopril 10 MG Oral Tablet (RxNorm: 314076), prescribed on 2025-04-07, status: completed. Dose: 1.0, frequency: 1 time(s) per 1 day.
+  - Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution (RxNorm: 1043400), prescribed on 2026-02-23, status: completed. Dosage not recorded.

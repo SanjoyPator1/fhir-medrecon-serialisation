@@ -1,0 +1,19 @@
+Patient: Danial835 Wisoky380 | Age: 60 | Gender: male
+
+Chronological medication history (oldest to newest):
+
+1989-06-16 | active       | Hydrocortisone 10 MG/ML Topical Cream (RxNorm: 106258) | -
+1989-07-04 | active       | Astemizole 10 MG Oral Tablet (RxNorm: 197378) | -
+1989-07-04 | active       | NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector (RxNorm: 1870230) | -
+1998-10-17 | completed    | cephalexin 500 MG Oral Tablet (RxNorm: 197454) | 1.0, 4 time(s) per 1 day
+2000-06-24 | completed    | Naproxen sodium 220 MG Oral Tablet (RxNorm: 849574) | -
+2005-05-09 | completed    | Penicillin V Potassium 500 MG Oral Tablet (RxNorm: 834102) | -
+2019-05-09 | completed    | aspirin 325 MG Oral Tablet (RxNorm: 212033) | 4.0, 1 time(s) per 1 hour
+2019-05-09 | completed    | nitroglycerin 0.4 MG Sublingual Tablet (RxNorm: 198039) | -
+2019-05-09 | completed    | 2 ML morphine sulfate 1 MG/ML Injection (RxNorm: 1728805) | -
+2019-05-09 | completed    | 50 ML bivalirudin 5 MG/ML Injection (RxNorm: 1997015) | -
+2019-05-09 | completed    | clopidogrel 300 MG Oral Tablet (RxNorm: 749196) | -
+2019-05-09 | active       | aspirin 81 MG Oral Tablet (RxNorm: 243670) | -
+2019-05-09 | active       | metoprolol tartrate 50 MG Oral Tablet (RxNorm: 866514) | -
+2019-05-09 | active       | atorvastatin 40 MG Oral Tablet (RxNorm: 617311) | -
+2019-05-09 | active       | enalapril maleate 5 MG Oral Tablet (RxNorm: 858813) | -
