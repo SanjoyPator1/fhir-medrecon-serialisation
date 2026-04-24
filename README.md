@@ -1,6 +1,8 @@
 # fhir-medrecon-serialisation
 
-Benchmarking LLM serialisation strategies for medication reconciliation from longitudinal FHIR R4 patient data — measuring hallucination and omission rates across multiple models and input formats using Synthea synthetic patients.
+Code, data, and results for the paper **"Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation"**.
+
+> arXiv preprint: [2604.21076](https://arxiv.org/abs/2604.21076)
 
 ---
 
@@ -14,6 +16,15 @@ This research investigates a specific and underexplored cause of both failure mo
 
 Which serialisation strategy for converting longitudinal FHIR R4 JSON into LLM-readable text produces the highest medication reconciliation accuracy, and how does this interact with model size?
 
+### Key findings
+
+We compare four serialisation strategies across five open-weight models on 200 synthetic patients (4,000 inference runs total):
+
+- Clinical Narrative outperforms Raw JSON by up to **19 F1 points** for Mistral-7B
+- This advantage **reverses at 70B** — Raw JSON achieves the best mean F1 of 0.9956 for Llama-3.3-70B
+- **Omission is the dominant failure mode** across all conditions — models miss active medications more often than they hallucinate fake ones
+- **BioMistral-7B** (domain-pretrained, not instruction-tuned) produces zero usable output in all conditions
+
 ---
 
 ## The four serialisation strategies
@@ -24,26 +35,23 @@ The central experimental variable is how FHIR data is presented to the model bef
 
 **Strategy B — Flat markdown table.** Key fields are extracted and formatted as a table with columns for medication name, RxNorm code, dose, frequency, start date, and status. Human-readable and structured but loses temporal narrative.
 
-**Strategy C — Clinical narrative.** Each MedicationRequest is converted to a plain English sentence with all codes expanded to readable text. Gains natural language fluency but loses explicit structure.
+**Strategy C — Clinical narrative.** Each MedicationRequest is converted to a plain English sentence. Active medications appear first under a labelled heading, making the task-relevant partition explicit.
 
-**Strategy D — Chronological timeline.** All medication events are sorted by date and presented as a temporal narrative showing when medications were started, changed, or stopped. Preserves temporal relationships but requires the model to reason about what is currently active versus historically stopped.
+**Strategy D — Chronological timeline.** All medication events are sorted by date as pipe-delimited lines. No separation between active and historical — the model must reason across the full temporal sequence to determine what is currently active.
 
 ---
 
-## Models
+## Models evaluated
 
-Six models are evaluated, spanning a practical deployment spectrum from a small model any clinic can run on a consumer GPU through to a cloud API.
+| Model | Params | Type | Quant |
+|---|---|---|---|
+| Phi-3.5-mini | 3.8B | Instruct | Q4_0 |
+| Mistral-7B | 7B | Instruct | Q4_K_M |
+| BioMistral-7B | 7B | Pretrain only | Q4_K_M |
+| Llama-3.1-8B | 8B | Instruct | Q4_K_M |
+| Llama-3.3-70B | 70B | Instruct | Q4_K_M |
 
-| Model                    | Size | Type       | Deployment        |
-| ------------------------ | ---- | ---------- | ----------------- |
-| Phi-3.5 Mini Instruct    | 3.8B | General    | Local, ~8GB VRAM  |
-| Mistral 7B v0.3 Instruct | 7B   | General    | Local, ~16GB VRAM |
-| Llama 3.1 8B Instruct    | 8B   | General    | Local, ~18GB VRAM |
-| BioMistral 7B            | 7B   | Biomedical | Local, ~16GB VRAM |
-| Llama 3.3 70B Instruct   | 70B  | General    | Local, ~43GB VRAM |
-| GPT-4o-mini              | —    | General    | OpenAI API        |
-
-The model selection is designed to answer three questions simultaneously: does model size predict accuracy, does biomedical domain pretraining help on structured FHIR data, and what is the performance gap between fully local private deployment and the best available cloud option?
+All models served locally via [Ollama](https://ollama.com) on an AWS `g6e.xlarge` (NVIDIA L40S, 48 GB VRAM). The model selection spans two orders of magnitude in parameter count to test whether model size predicts accuracy and whether domain pretraining (BioMistral) helps on structured extraction.
 
 ---
 
@@ -54,89 +62,85 @@ For each model and serialisation strategy combination, the following metrics are
 - **Precision** — what fraction of medications in the model output were actually active. Measures hallucination rate.
 - **Recall** — what fraction of active medications in the ground truth the model correctly identified. Measures omission rate. This is the patient-safety-critical metric.
 - **F1 score** — harmonic mean of precision and recall.
-- **Dose accuracy** — for correctly identified medications, what fraction had the correct dose and frequency.
-- **Omission by history length** — recall stratified by years of medication history, testing whether longer histories cause more omissions.
 
----
-
-## Dataset
-
-All experiments use synthetic FHIR R4 patient data generated by [Synthea](https://github.com/synthetichealth/synthea), an open-source patient population simulator developed by the MITRE Corporation. No real patient data is used at any point. Because Synthea generates patients with known ground truth, precision and recall can be measured with mathematical exactness without human annotation.
-
-The dataset contains 200+ usable patients, each with at least one active medication and at least three years of medication history. Patients are elderly adults simulated with natural disease progression, producing realistic polypharmacy across a range of history lengths.
-
-Ground truth for each patient is extracted deterministically from the MedicationRequest resources in the FHIR bundle. Only resources with `status == "active"` are included in the ground truth medication list.
+If the model output cannot be parsed as a JSON array, precision = recall = F1 = 0.
 
 ---
 
 ## Repository structure
 
 ```
-fhir-medrecon-serialisation/
 ├── scripts/
 │   ├── setup_synthea.sh        download the Synthea jar
-│   ├── generate_sample.py      generate a small test batch of patients
-│   └── build_dataset.py        smart loop builder — generates until target usable count is met
+│   ├── generate_sample.py      generate a small test batch
+│   └── build_dataset.py        generate patients until target usable count is met
 ├── src/
-│   ├── ground_truth.py         extract medication ground truth from FHIR bundles
-│   ├── serialisers.py          implement the four serialisation strategies
-│   ├── evaluate.py             compute precision, recall, F1, dose accuracy
-│   └── run_experiments.py      main experiment loop across all models and strategies
+│   ├── serialisers.py          the four serialisation strategies
+│   ├── ground_truth.py         extract active medications from FHIR bundles
+│   ├── run_experiments.py      main inference loop (all models × strategies)
+│   ├── evaluate.py             precision, recall, F1 scoring
+│   ├── analyse_results.py      aggregate tables and statistical tests
+│   └── export_for_frontend.py  build experiments.json for the dashboard
 ├── data/
-│   ├── raw/                    usable FHIR R4 patient bundles
-│   ├── ground_truth/           extracted ground truth JSONs, one per patient
-│   └── discarded/              patients that did not meet usability criteria
-├── notebooks/
-│   └── analysis.ipynb          results analysis and plots
+│   ├── raw/                    200 synthetic FHIR R4 patient bundles (Synthea)
+│   └── ground_truth/           extracted ground truth JSONs
 ├── results/
-│   └── raw_results.csv         one row per patient x strategy x model
-├── notes/
-│   ├── 01-dataset-design.md    why the dataset was designed this way
-│   └── 01-dataset-build.md     how the dataset was built and what it contains
-└── paper/
-    └── draft.md                paper draft
+│   ├── master_results.csv      one row per patient × strategy × model
+│   ├── aggregate_table.csv     mean P/R/F1 per model × strategy
+│   └── figures/                all paper figures
+├── paper/v1/                   LaTeX source for the paper
+├── frontend/                   Next.js interactive results dashboard
+└── requirements.txt
 ```
 
 ---
 
-## Reproducing the dataset
+## Reproducing the experiments
 
-Requirements: Java 17 or higher, Python 3.10 or higher.
+**Requirements:** Python 3.10+, Java 17+, [Ollama](https://ollama.com) with the five models pulled.
 
 ```bash
-# install dependencies
-python -m venv venv
-source venv/bin/activate
+python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
-# download the Synthea jar
+# generate the 200-patient synthetic cohort
 bash scripts/setup_synthea.sh
-
-# build the dataset — runs until 200+ usable patients are confirmed
 python scripts/build_dataset.py
+
+# run all 4,000 inference runs
+python src/run_experiments.py
+
+# produce aggregate tables and figures
+python src/analyse_results.py
 ```
 
-The build script generates patients in batches, extracts ground truth from each batch, filters out patients with no active medications or fewer than three years of history, and stops when the usable count target is met. Progress is printed after each round.
+Raw inference outputs are written to `output/`. Run `python src/analyse_results.py` to produce `results/master_results.csv` and figures.
 
 ---
 
-## Running experiments
+## Interactive dashboard
 
-Once the dataset is built:
+Live: [fhir-medrecon-serialisation.vercel.app](https://fhir-medrecon-serialisation.vercel.app/)
+
+An interactive results dashboard built with Next.js is in `frontend/`. It lets you browse every patient, strategy, and model combination and inspect the serialised input and model output side by side.
+
+To run locally:
 
 ```bash
-python src/run_experiments.py
+cd frontend
+npm install
+npm run dev
 ```
-
-Local models are served via [Ollama](https://github.com/ollama/ollama). GPT-4o-mini requires an OpenAI API key set as `OPENAI_API_KEY` in the environment. Results are written to `results/raw_results.csv`.
 
 ---
 
-## Target venues
+## Dataset
 
-- Clinical NLP Workshop (co-located with EMNLP or ACL) — primary target
-- AMIA Annual Symposium — secondary target
-- arXiv preprint released alongside or prior to venue submission
+All experiments use synthetic FHIR R4 patient data generated by [Synthea](https://github.com/synthetichealth/synthea), an open-source patient population simulator developed by MITRE. No real patient data is used at any point. Because Synthea generates patients with known ground truth, precision and recall can be measured with mathematical exactness without human annotation.
+
+The dataset contains 200 patients, each with at least one active medication and at least 10 years of medication history. Patients are aged 40–75 at simulation end, producing realistic polypharmacy across a range of history lengths.
+
+Ground truth is extracted deterministically from the MedicationRequest resources in the FHIR bundle. Only resources with `status == "active"` are included in the ground truth medication list.
 
 ---
 
