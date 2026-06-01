@@ -1,8 +1,9 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import {
-  Table, TableBody, TableCell, TableHead, TableHeader, TableRow,
-} from "@/components/ui/table"
+import { redirect } from "next/navigation"
+
+export default function AboutPage() {
+  redirect("/")
+}
+
 
 const MODELS = [
   { name: "Phi-3.5 Mini Instruct", size: "3.8B", type: "General", vram: "~8 GB" },

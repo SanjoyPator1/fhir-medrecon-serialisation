@@ -5,11 +5,11 @@ import { usePathname } from "next/navigation"
 import { cn } from "@/lib/utils"
 
 const NAV_ITEMS = [
-  { href: "/", label: "Overview" },
+  { href: "/", label: "About" },
+  { href: "/overview", label: "Overview" },
   { href: "/models", label: "Models" },
   { href: "/strategies", label: "Strategies" },
   { href: "/patients", label: "Patients" },
-  { href: "/about", label: "About" },
 ]
 
 export function NavLinks({ onNavigate }: { onNavigate?: () => void }) {
